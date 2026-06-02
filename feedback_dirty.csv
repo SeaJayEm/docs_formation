@@ -3,9 +3,9 @@ feedback_id,date,client_id,channel,score,comment,product_id
 2,2026-01-07,C002,web,4,Livraison rapide,P005
 3,2026-01-09,C003,Email,,Produit reçu abîmé,P007
 4,2026-01-10,C004, téléphone,2,Trop cher,P001
-5,2026-01-10,C004, téléphone,2,Trop cher,P001
-6,2026-01-15,,web,3,Correct,P003
-7,2026-01-17,C009,WEB ,excellent,J'adore,P004
-8,2026-01-19,C011,email,1,,P006
-9,2026-01-21,C012,web,5,Très bon produit,P008
-10,2026-01-22,C013,email,4,Bon rapport qualité prix,P005
+4,2026-01-10,C004, téléphone,2,Trop cher,P001
+5,2026-01-15,,web,3,Correct,P003
+6,2026-01-17,C009,WEB ,excellent,J'adore,P004
+7,2026-01-19,C011,email,1,,P006
+8,2026-01-21,C012,web,5,Très bon produit,P008
+9,2026-01-22,C013,email,4,Bon rapport qualité prix,P005
