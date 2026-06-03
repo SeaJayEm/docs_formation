@@ -1,0 +1,101 @@
+reader_id,first_name,last_name,city,subscription_type,registration_date
+1,Ethan,Leroy,Roubaix,Standard,2023-09-08
+2,Ethan,Thomas,Villeneuve-d'Ascq,Premium,2024-11-23
+3,Zoé,Michel,Croix,Standard,2023-02-02
+4,Lina,Durand,Lille,Standard,2024-06-01
+5,Tom,Petit,Mons-en-Barœul,Standard,2025-01-03
+6,Nora,Garcia,Croix,Senior,2024-08-26
+7,Clara,Richard,Lambersart,Standard,2024-12-15
+8,Jules,Robert,Marcq-en-Barœul,Étudiant,2023-08-09
+9,Sarah,Lefebvre,La Madeleine,Standard,2023-04-10
+10,Paul,Leroy,La Madeleine,Étudiant,2023-02-14
+11,Lucas,Lefebvre,Wasquehal,Famille,2023-03-22
+12,Louis,Fournier,Croix,Étudiant,2024-01-06
+13,Manon,Dubois,MONS-EN-BARŒUL,Premium,2023-02-16
+14,Sarah,Durand,Villeneuve-d'Ascq,Étudiant,2023-04-14
+15,Chloé,Laurent,Marcq-en-Barœul,Étudiant,2023-06-16
+16,Lina,Leroy,La Madeleine,Étudiant,2024-12-19
+17,Léa,Richard,Roubaix ,Famille,2024-06-30
+18,Chloé,Lefebvre,Villeneuve-d'Ascq,Premium,2023-10-04
+19,Yanis,Simon,Croix,premium,2025-02-25
+20,Louis,Bernard,Lille,Premium,2023-11-20
+21,Sarah,Petit,Marcq-en-Barœul,Étudiant,2024-08-03
+22,Léa,David,La Madeleine,Premium,2024-02-10
+23,Jules,Robert,Wasquehal,Premium,2023-09-10
+24,Jules,Vincent,Croix,Famille,2024-03-14
+25,Noah,Durand,Mons-en-Barœul,Senior,2023-05-22
+26,Sarah,Bernard,CROIX,Senior,2023-04-23
+27,Sofia,Michel,Tourcoing,Premium,2024-09-02
+28,Louise,Fournier,Roubaix,Senior,2024-04-24
+29,Tom,Martin,Croix,Étudiant,2024-11-27
+30,Clara,Leroy,Roubaix,Famille,2025-02-26
+31,Camille,Michel,La Madeleine,Standard,2023-06-11
+32,Ethan,Leroy,Wasquehal,Standard,2024-05-27
+33,Eva,Thomas,Tourcoing,Famille,2024-10-02
+34,Paul,Petit,Lambersart ,Famille,2023-06-06
+35,Tom,Bertrand,La Madeleine,Premium,2023-01-01
+36,Nathan,Martin,Mons-en-Barœul,Étudiant,2023-04-25
+37,Nora,Bernard,La Madeleine,Étudiant,2023-09-04
+38,Sarah,David,Mons-en-Barœul,standard,2023-03-12
+39,Emma,David,CROIX,Premium,2024-07-16
+40,Maya,Fournier,Tourcoing,Étudiant,2024-03-09
+41,Clara,Petit,Villeneuve-d'Ascq,Famille,2024-12-31
+42,Yanis,Laurent,Lambersart,Senior,2024-03-24
+43,Lucas,Durand,Croix,Senior,2023-08-19
+44,Alice,Vincent,Roubaix,Étudiant,2024-07-21
+45,Nora,Martin,Villeneuve-d'Ascq,Famille,2023-03-14
+46,Sarah,Bernard,Lille,Premium,2023-12-05
+47,Nora,Leroy,Roubaix,Famille,2024-11-16
+48,Tom,Robert,Wasquehal,Premium,2025-01-10
+49,Nathan,Durand,Mons-en-Barœul,Famille,2025-03-14
+50,Lina,Thomas,Wasquehal,Senior,2023-04-10
+51,Adam,Michel,Marcq-en-Barœul ,Étudiant,2024-04-23
+52,Marc,Lefebvre,LILLE,Standard,2025-01-15
+53,Nora,Petit,La Madeleine,Standard,2023-07-14
+54,Emma,Michel,Croix,Senior,2023-07-07
+55,Nora,Dubois,Lambersart,Senior,2024-03-29
+56,Marc,Roux,Croix,Standard,2023-01-16
+57,Hugo,Michel,Roubaix,premium,2024-05-12
+58,Anna,Lefebvre,Wasquehal,Premium,2023-03-02
+59,Alice,Lefebvre,Tourcoing,Senior,2023-09-29
+60,Adam,Roux,Wasquehal,Étudiant,2024-11-08
+61,Lina,Moreau,Wasquehal,Premium,2023-08-11
+62,Ethan,Roux,Lille,Famille,2023-03-04
+63,Marc,Vincent,La Madeleine,Standard,2024-05-03
+64,Hugo,Bernard,Croix,Famille,2024-06-04
+65,Sarah,Fournier,ROUBAIX,Premium,2023-03-11
+66,Lucas,Vincent,Villeneuve-d'Ascq,Senior,2023-09-10
+67,Marc,Fournier,Mons-en-Barœul,Famille,2023-03-25
+68,Zoé,Bertrand,Marcq-en-Barœul ,Famille,2023-11-20
+69,Yanis,Simon,Lambersart,Premium,2023-09-02
+70,Emma,Moreau,Lambersart,Senior,2024-04-13
+71,Alice,Garcia,La Madeleine,Standard,2024-09-28
+72,Sarah,Roux,Mons-en-Barœul,Standard,2023-08-07
+73,Emma,Laurent,Croix,Étudiant,2023-03-12
+74,Camille,Richard,Villeneuve-d'Ascq,Étudiant,2024-03-24
+25,Noah,Durand,Mons-en-Barœul,Senior,2023-05-22
+76,Eva,Thomas,Croix,étudiant,2023-05-18
+77,Liam,Thomas,Lambersart,Standard,2025-01-30
+78,Jules,Moreau,CROIX,Premium,2024-09-11
+79,Lina,Leroy,Villeneuve-d'Ascq,Étudiant,2024-06-01
+80,Liam,Bernard,Wasquehal,Étudiant,2023-04-05
+81,Marc,Martin,Marcq-en-Barœul,Étudiant,2023-12-08
+82,Hugo,Garcia,Tourcoing,Étudiant,2024-07-18
+83,Alice,Thomas,Marcq-en-Barœul,Famille,2023-03-19
+84,Marc,Laurent,Tourcoing,Famille,2024-08-19
+85,Adam,Robert,Croix ,Premium,2023-02-12
+86,Liam,Bernard,Lambersart,Étudiant,2024-01-02
+87,Yanis,Thomas,Villeneuve-d'Ascq,Premium,2023-12-29
+88,Paul,Robert,Croix,Senior,2023-08-31
+89,Liam,Michel,Tourcoing,Premium,2023-01-26
+90,Sofia,Michel,Tourcoing,Étudiant,2024-11-16
+91,Hugo,Thomas,VILLENEUVE-D'ASCQ,Étudiant,2024-01-27
+92,Nora,Petit,Lille,Senior,2024-04-16
+93,Louis,Durand,La Madeleine,Étudiant,2023-08-17
+94,Louise,Simon,Lille,Premium,2023-10-13
+95,Noah,Bertrand,Roubaix,étudiant,2024-02-14
+96,Alice,Thomas,Croix,Étudiant,2023-09-25
+97,Jules,Bernard,Tourcoing,Famille,2023-04-22
+98,Noah,Simon,Mons-en-Barœul,Senior,2024-03-22
+99,Lucas,Lefebvre,Mons-en-Barœul,Famille,2024-08-13
+100,Marc,Michel,Villeneuve-d'Ascq,Étudiant,2023-01-02
