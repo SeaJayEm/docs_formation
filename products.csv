@@ -1,0 +1,9 @@
+product_id,product_name,category,unit_price,brand
+P001,Crème solaire SPF50,Cosmétiques,18.9,BioSun
+P002,Shampoing solide,Cosmétiques,9.9,GreenHair
+P003,Pommes bio,Fruits,2.5,Verger Nord
+P004,Tomates anciennes,Légumes,4.2,Ferme Locale
+P005,Granola maison,Épicerie,5.8,BioCrunch
+P006,Lentilles vertes,Épicerie,4.6,TerraBio
+P007,Baume hydratant,Cosmétiques,14.5,BioCare
+P008,Avocats,Fruits,2.1,SudBio
