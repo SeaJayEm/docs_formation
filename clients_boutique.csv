@@ -1,96 +1,163 @@
-client_id,nom_client,ville,segment_client,source_acquisition,date_inscription,age
-C0001,Client 1,Strasbourg,Professionnel,SEO,2025-07-03,69.0
-C0002,Client 2,Lyon,Particulier,Marketplace,2025-08-15,40.0
-C0003,Client 3,Rennes,Particulier,Marketplace,2024-01-13,33.0
-C0004,Client 4,Toulouse,Particulier,Réseaux sociaux,2025-04-09,20.0
-C0005,Client 5,Lille,Premium,SEO,2024-03-17,18.0
-C0006,Client 6, lille ,Premium,SEO,2024-07-20,38.0
-C0007,Client 7,Strasbourg,Professionnel,SEO,2025-08-03,67.0
-C0008,Client 8,Strasbourg,Particulier,Accès direct,2024-06-24,
-C0009,Client 9,Lille,Premium,,2025-07-11,66.0
-C0010,Client 10,Marseille,Étudiant,SEO,2024-11-20,23.0
-C0011,Client 11,Lyon,Professionnel,Accès direct,2024-06-11,23.0
-C0012,Client 12,Montpellier,Particulier,Réseaux sociaux,2024-08-21,63.0
-C0013,Client 13,Bordeaux,premium,Email,2025-01-06,23.0
-C0014,Client 14,Strasbourg,Particulier,Publicité,2025-06-19,20.0
-C0015,Client 15,Marseille,Premium,Accès direct,2025-02-28,39.0
-C0016,Client 16,Paris,Particulier,Marketplace,2025-10-15,67.0
-C0017,Client 17,Nantes,Particulier,SEO,2025-08-30,55.0
-C0018,Client 18,Lille,Particulier,Réseaux sociaux,2025-06-11,23.0
-C0019,Client 19,Strasbourg,Professionnel,Réseaux sociaux,2025-02-26,63.0
-C0020,Client 20,Bordeaux,Particulier,Réseaux sociaux,2024-07-21,63.0
-C0021,Client 21,Toulouse,Étudiant,Marketplace,2024-10-15,61.0
-C0022,Client 22,Lyon,Étudiant,Accès direct,2024-03-24,66.0
-C0023,Client 23,Montpellier,Professionnel,Réseaux sociaux,2024-09-18,30.0
-C0024,Client 24,Rennes,Particulier,Marketplace,2025-10-10,70.0
-C0025,Client 25,Strasbourg,Professionnel,Email,2024-10-25,35.0
-C0026,Client 26,Paris,Professionnel,Publicité,2024-03-20,61.0
-C0027,Client 27,Marseille,Professionnel,Email,2025-04-01,49.0
-C0028,Client 28,Lille,Particulier,SEO,2025-11-04,60.0
-C0029,Client 29,Lille,Particulier,Marketplace,2025-08-30,51.0
-C0030,Client 30,Toulouse,Particulier,SEO,2024-07-10,52.0
-C0031,Client 31,Toulouse,Particulier,Réseaux sociaux,2024-11-13,51.0
-C0032,Client 32,Montpellier,Particulier,Réseaux sociaux,2025-01-06,60.0
-C0033,Client 33,Paris,Particulier,Réseaux sociaux,2024-06-22,57.0
-C0034,Client 34,Lyon,Particulier,SEO,2024-07-07,25.0
-C0035,Client 35,Marseille,Professionnel,SEO,2024-06-14,62.0
-C0036,Client 36,Paris,Particulier,Accès direct,2025-11-27,46.0
-C0037,Client 37,Lille,Premium,Marketplace,2025-06-06,35.0
-C0038,Client 38,Marseille,Professionnel,SEO,2025-08-11,45.0
-C0039,Client 39,Paris,Particulier,Réseaux sociaux,2025-07-25,70.0
-C0040,Client 40,Bordeaux,Professionnel,Publicité,2025-11-02,64.0
-C0041,Client 41,Lyon,Particulier,Marketplace,2024-03-14,63.0
-C0042,Client 42,Strasbourg,Premium,Accès direct,2025-09-09,42.0
-C0043,Client 43,Toulouse,Particulier,Accès direct,2024-02-16,60.0
-C0044,Client 44,Paris,Étudiant,Publicité,2024-11-28,38.0
-C0045,Client 45,Strasbourg,Particulier,Email,2025-02-20,55.0
-C0046,Client 46,Strasbourg,Particulier,Réseaux sociaux,2024-09-07,52.0
-C0047,Client 47,,Particulier,Marketplace,2024-04-12,31.0
-C0048,Client 48,Paris,Premium,Accès direct,2024-05-14,32.0
-C0049,Client 49,Toulouse,Professionnel,SEO,2025-07-31,21.0
-C0050,Client 50,Lille,Particulier,Accès direct,2024-08-11,
-C0051,Client 51,Paris,Particulier,SEO,2024-08-05,41.0
-C0052,Client 52,Lille,Particulier,Accès direct,2025-10-08,43.0
-C0053,Client 53,Strasbourg,Particulier,Accès direct,2024-04-10,26.0
-C0054,Client 54,Bordeaux,Particulier,SEO,2025-10-02,40.0
-C0055,Client 55,Toulouse,Particulier,Email,2025-10-06,50.0
-C0056,Client 56,Strasbourg,Étudiant,SEO,2025-02-22,30.0
-C0057,Client 57,Marseille,Étudiant,Publicité,2024-04-25,36.0
-C0058,Client 58,Nantes,Particulier,Marketplace,2024-04-19,37.0
-C0059,Client 59,Lille,Professionnel,SEO,2024-07-18,45.0
-C0060,Client 60,Lille,Particulier,,2025-02-08,37.0
-C0061,Client 61,Bordeaux,Professionnel,Marketplace,2024-04-17,57.0
-C0062,Client 62,Marseille,Particulier,Réseaux sociaux,2024-11-14,35.0
-C0063,Client 63,Nantes,Professionnel,SEO,2024-03-21,41.0
-C0064,Client 64,,Professionnel,Email,2025-01-13,38.0
-C0065,Client 65,Bordeaux,Étudiant,Publicité,2024-01-15,27.0
-C0066,Client 66,Nantes,Particulier,Publicité,2025-05-11,55.0
-C0067,Client 67,Nantes,Premium,Réseaux sociaux,2024-02-08,30.0
-C0068,Client 68,Paris,Particulier,Marketplace,2024-05-16,34.0
-C0069,Client 69,Lille,Particulier,Publicité,2024-05-02,60.0
-C0070,Client 70,Lyon,Professionnel,Réseaux sociaux,2025-08-04,69.0
-C0071,Client 71,Paris,Particulier,Marketplace,2024-02-07,54.0
-C0072,Client 72,Lyon,Étudiant,Marketplace,2024-10-27,67.0
-C0073,Client 73,Rennes,Étudiant,Email,2025-02-17,64.0
-C0074,Client 74,Paris,Particulier,SEO,2024-12-27,43.0
-C0075,Client 75,Lille,Premium,Publicité,2025-04-21,59.0
-C0076,Client 76,Paris,Particulier,Publicité,2025-07-16,35.0
-C0077,Client 77,Paris,Particulier,SEO,2024-10-02,42.0
-C0078,Client 78,Bordeaux,Particulier,Publicité,2025-08-02,46.0
-C0079,Client 79,Nantes,Premium,Marketplace,2024-08-10,69.0
-C0080,Client 80,Strasbourg,Particulier,SEO,2025-11-20,63.0
-C0081,Client 81,,Particulier,Accès direct,2024-12-19,44.0
-C0082,Client 82,Lyon,Particulier,SEO,2025-05-30,53.0
-C0083,Client 83,Strasbourg,Premium,Accès direct,2025-09-04,28.0
-C0084,Client 84,Paris,Étudiant,Email,2025-07-08,61.0
-C0085,Client 85,Lille,Professionnel,SEO,2025-08-18,47.0
-C0086,Client 86,Lille,Étudiant,Marketplace,2025-01-10,46.0
-C0087,Client 87,Toulouse,Étudiant,SEO,2024-01-31,59.0
-C0088,Client 88,,Particulier,Publicité,2024-12-11,52.0
-C0089,Client 89,Paris,Particulier,Réseaux sociaux,2024-05-07,21.0
-C0090,Client 90,Marseille,Étudiant,Marketplace,2025-09-14,33.0
-C0091,Client 91,Lille,Professionnel,Accès direct,2024-06-14,27.0
-C0092,Client 92,Toulouse,Particulier,Accès direct,2024-06-08,57.0
-C0093,Client 93,Marseille,Particulier,Email,2024-06-23,19.0
-C0094,Client 94,Lyon,Professionnel,Email,2025-03-25,28.0
-C0095,Client 95,Paris,Particulier,,2025-02-03,50.0
+client_id,nom_client,email,ville,pays,segment_client,source_acquisition,programme_fidelite,date_inscription,age,devise
+C0001,Client 1,client1@exemple.com,Bordeaux,France,Professionnel,Réseaux sociaux,Non,2025-04-03,47.0,EUR
+C0002,Client 2,client2@exemple.com,Nantes,France,Étudiant,Réseaux sociaux,Oui,2023-06-30,,EUR
+C0003,Client 3,client3@exemple.com,Bordeaux,France,Étudiant,Parrainage,Oui,2025-10-01,39.0,EUR
+C0004,Client 4,client4@exemple.com,Toulouse,France,professionnel ,Parrainage,Non,2023-07-12,26.0,EUR
+C0005,Client 5,client5@exemple.com,Lyon,France,Étudiant,Réseaux sociaux,Non,2022-10-17,60.0,EUR
+C0006,Client 6,client6@exemple.com,Lille,France,Professionnel,Publicité,Non,2025-05-11,71.0,EUR
+C0007,Client 7,client7@exemple.com,Grenoble,France,Particulier,Parrainage,Non,2022-06-06,42.0,EUR
+C0008,Client 8,client8@exemple.com,Strasbourg,France,Premium,Publicité,Non,2024-10-22,40.0,EUR
+C0009,Client 9,client9@exemple.com,Marseille,France,Particulier,Publicité,Non,2022-02-20,55.0,EUR
+C0010,Client 10,client10@exemple.com,Toulouse,France,Particulier,Email,Non,2022-05-16,59.0,EUR
+C0011,Client 11,client11@exemple.com,Montpellier,France,Particulier,Email,Non,2025-04-27,34.0,EUR
+C0012,Client 12,client12@exemple.com,Lille,France,Particulier,SEO,Non,2024-01-23,19.0,EUR
+C0013,Client 13,client13@exemple.com,nantes,France,Particulier,,Non,2025-07-22,22.0,EUR
+C0014,Client 14,client14@exemple.com,Lille,France,Particulier,,Oui,2025-01-26,58.0,EUR
+C0015,Client 15,client15@exemple.com,Nantes,France,Premium,Publicité,Non,2024-10-06,70.0,EUR
+C0016,Client 16,client16@exemple.com,Lille,France,Particulier,Publicité,Non,2024-02-21,59.0,EUR
+C0017,Client 17,client17@exemple.com,Paris,France, Premium ,Publicité,Non,2022-06-19,36.0,EUR
+C0018,Client 18,client18@exemple.com,Bordeaux,France,Premium,Accès direct,Oui,2025-01-01,21.0,EUR
+C0019,Client 19,client19@exemple.com,Marseille,France,Particulier,Réseaux sociaux,Non,2024-11-01,56.0,EUR
+C0020,Client 20,client20@exemple.com,Toulouse,France,Premium,Marketplace,Non,2022-04-12,24.0,EUR
+C0021,Client 21,client21@exemple.com,Paris,France,Professionnel,Email,Oui,2023-10-24,28.0,EUR
+C0022,Client 22,client22@exemple.com,Rennes,France,Professionnel,Accès direct,Non,2023-08-25,63.0,EUR
+C0023,Client 23,client23@exemple.com,Paris,France,Particulier,Parrainage,Non,2023-01-01,68.0,EUR
+C0024,Client 24,client24@exemple.com,Lyon,France,Particulier,Email,Non,2024-05-24,72.0,EUR
+C0025,Client 25,client25@exemple.com,Rennes,France,étudiant,Accès direct,Oui,2022-04-14,54.0,EUR
+C0026,Client 26,client26@exemple.com,Lyon,France,Professionnel,SEO,Oui,2022-02-23,66.0,EUR
+C0027,Client 27,client27@exemple.com,Marseille,France,Premium,Publicité,Non,2023-05-30,32.0,EUR
+C0028,Client 28,client28@exemple.com,Strasbourg,France,Particulier,Email,Non,2024-03-06,35.0,EUR
+C0029,Client 29,client29@exemple.com,Montpellier,France,Étudiant,Marketplace,Non,2023-10-13,71.0,EUR
+C0030,Client 30,client30@exemple.com,Toulouse,France,Étudiant,Marketplace,Non,2022-03-07,18.0,EUR
+C0031,Client 31,client31@exemple.com,Paris,France,Professionnel,Accès direct,Oui,2022-09-19,34.0,EUR
+C0032,Client 32,client32@exemple.com,Marseille,France,Particulier ,Email,Oui,2025-03-16,46.0,EUR
+C0033,Client 33,client33@exemple.com,Lille,France,Particulier,Publicité,Oui,2023-07-14,45.0,EUR
+C0034,Client 34,,Bordeaux,France,Particulier,Publicité,Non,2023-01-08,18.0,EUR
+C0035,Client 35,client35@exemple.com,Dijon,France,Professionnel,Accès direct,Oui,2024-03-21,54.0,EUR
+C0036,Client 36,client36@exemple.com,Nantes,France,Particulier,Marketplace,Oui,2025-06-27,66.0,EUR
+C0037,Client 37,client37@exemple.com,Paris,France,Particulier,Marketplace,Non,2023-09-09,21.0,EUR
+C0038,Client 38,client38@exemple.com,Dijon,France,Étudiant,Accès direct,NON,2023-02-22,38.0,EUR
+C0039,Client 39,client39@exemple.com,Grenoble,Belgique,Particulier,Réseaux sociaux,Non,2023-12-02,26.0,EUR
+C0040,Client 40,client40@exemple.com,Grenoble,France,Particulier,Parrainage,Oui,2025-02-05,68.0,EUR
+C0041,Client 41,client41@exemple.com,Marseille,France,Professionnel,SEO,Oui,2022-09-09,59.0,EUR
+C0042,Client 42,client42@exemple.com,Toulouse,France,Particulier,,Non,2023-06-28,32.0,EUR
+C0043,Client 43,,Dijon,France,Particulier,SEO,Oui,2023-09-11,30.0,EUR
+C0044,Client 44,client44@exemple.com,Lyon,France,Premium,SEO,Oui,2024-04-28,25.0,EUR
+C0045,Client 45,client45@exemple.com,Lille,France,Particulier,SEO,Oui,2024-10-11,69.0,EUR
+C0046,Client 46,client46@exemple.com,Paris,France,Particulier,Réseaux sociaux,Oui,2023-05-28,18.0,EUR
+C0047,Client 47,client47@exemple.com,Lyon,France,Particulier,Marketplace,Non,2025-02-09,51.0,EUR
+C0048,Client 48,client48@exemple.com,Toulouse,France,Particulier,Publicité,Non,2025-05-04,35.0,EUR
+C0049,Client 49,client49@exemple.com,Toulouse,France,Étudiant,Marketplace,Non,2022-06-29,48.0,EUR
+C0050,Client 50,client50@exemple.com,Strasbourg,France,Particulier,Email,Oui,2024-07-13,46.0,EUR
+C0051,Client 51,client51@exemple.com,Nantes,France,Particulier,Marketplace,Oui,2023-02-27,47.0,EUR
+C0052,Client 52,client52@exemple.com,Nantes,France,Particulier,Parrainage,Non,2025-02-11,43.0,EUR
+C0053,Client 53,client53@exemple.com,Paris,France,Professionnel,Email,Non,2022-06-23,,EUR
+C0054,Client 54,,Bordeaux,France,Particulier,Parrainage,Non,2025-06-16,24.0,EUR
+C0055,Client 55,client55@exemple.com,Dijon,France,Professionnel,SEO,Non,2022-05-23,65.0,EUR
+C0056,Client 56,client56@exemple.com,Nantes,Belgique,Particulier,Réseaux sociaux,Non,2025-01-07,28.0,EUR
+C0057,Client 57,client57@exemple.com,Rennes,France,Étudiant,Parrainage,Oui,2025-05-11,50.0,EUR
+C0058,Client 58,client58@exemple.com,Paris,France,Professionnel,Accès direct,Non,2025-09-19,,EUR
+C0059,Client 59,client59@exemple.com,Dijon,France,Premium,Accès direct,Non,2024-04-13,56.0,EUR
+C0060,Client 60,client60@exemple.com,Nantes,France,Particulier,Réseaux sociaux,Non,2024-04-15,52.0,EUR
+C0061,Client 61,client61@exemple.com,Toulouse,France,Particulier,Marketplace,Non,2024-01-29,36.0,EUR
+C0062,Client 62,client62@exemple.com,Toulouse,France,Particulier,Marketplace,oui,2024-04-09,45.0,EUR
+C0063,Client 63,client63@exemple.com,Nantes,France,Particulier,Publicité,Oui,2025-05-05,19.0,EUR
+C0064,Client 64,client64@exemple.com,Rennes,France,Particulier,Accès direct,Non,2022-11-07,18.0,EUR
+C0065,Client 65,client65@exemple.com,Strasbourg,France,Premium,SEO,Non,2024-11-20,74.0,EUR
+C0066,Client 66,client66@exemple.com,Lyon,France,Particulier,SEO,Non,2023-02-08,60.0,EUR
+C0067,Client 67,client67@exemple.com,Marseille,France,Particulier,Réseaux sociaux,Non,2022-11-20,60.0,EUR
+C0068,Client 68,client68@exemple.com,Strasbourg,France,Professionnel,Réseaux sociaux, Oui ,2024-05-30,70.0,EUR
+C0069,Client 69,client69@exemple.com,Grenoble,France,Particulier,Marketplace,Non,2022-10-23,46.0,EUR
+C0070,Client 70,client70@exemple.com,Dijon,France,Premium,Accès direct,Non,2025-08-01,73.0,EUR
+C0071,Client 71,client71@exemple.com,Nantes,France,Particulier,Marketplace,Oui,2024-10-14,21.0,EUR
+C0072,Client 72,client72@exemple.com,Montpellier,France,Étudiant,Marketplace,Non,2022-06-17,72.0,EUR
+C0073,Client 73,client73@exemple.com,Grenoble,France,Étudiant,Accès direct,Oui,2024-11-16,25.0,EUR
+C0074,Client 74,client74@exemple.com,lille ,France,Particulier,Accès direct,Non,2022-01-17,66.0,EUR
+C0075,Client 75,client75@exemple.com,Marseille,France,Particulier,Marketplace,Oui,2024-08-19,,EUR
+C0076,Client 76,client76@exemple.com,Lille,France,Professionnel,Email,Non,2025-02-19,41.0,EUR
+C0077,Client 77,client77@exemple.com,Lille,France,Professionnel,Publicité,Oui,2023-06-01,65.0,EUR
+C0078,Client 78,client78@exemple.com,LILLE,France,Premium,Marketplace,Oui,2023-10-05,20.0,EUR
+C0079,Client 79,,Lyon,France,Particulier,Publicité,Oui,2022-06-01,41.0,EUR
+C0080,Client 80,client80@exemple.com,Strasbourg,France,Particulier,Publicité,Oui,2025-03-17,20.0,EUR
+C0081,Client 81,client81@exemple.com,Lille,France,pro,Parrainage,Non,2022-09-23,41.0,EUR
+C0082,Client 82,client82@exemple.com,Toulouse,France,Professionnel,Marketplace,Non,2023-09-02,58.0,EUR
+C0083,Client 83,client83@exemple.com,Nantes,France,Premium,Publicité,Oui,2023-05-11,64.0,EUR
+C0084,Client 84,client84@exemple.com,Montpellier,France,Particulier,Email,Non,2024-08-20,35.0,EUR
+C0085,Client 85,client85@exemple.com,Toulouse,France,Professionnel,Accès direct,Oui,2022-06-10,50.0,EUR
+C0086,Client 86,,Montpellier,Belgique,Particulier,SEO,Oui,2024-04-30,27.0,EUR
+C0087,Client 87,client87@exemple.com,Paris ,France,Particulier,Publicité,Non,2025-06-21,69.0,EUR
+C0088,Client 88,client88@exemple.com,Toulouse,France,Étudiant,Accès direct,Oui,2022-11-16,28.0,EUR
+C0089,Client 89,client89@exemple.com,Strasbourg,Belgique,Particulier,Marketplace,Oui,2025-04-27,50.0,EUR
+C0090,Client 90,,Bordeaux,France,Particulier,Réseaux sociaux,Non,2023-01-29,65.0,EUR
+C0091,Client 91,client91@exemple.com,Strasbourg,France,Professionnel,Publicité,Oui,2023-08-10,70.0,EUR
+C0092,Client 92,client92@exemple.com,Grenoble,France,Premium,Publicité,Non,2024-06-12,24.0,EUR
+C0093,Client 93,client93@exemple.com,Bordeaux,France,Professionnel,Réseaux sociaux,Non,2024-05-20,45.0,EUR
+C0094,Client 94,client94@exemple.com,Lyon,France,Particulier,Réseaux sociaux,Non,2022-07-02,52.0,EUR
+C0095,Client 95,client95@exemple.com,Marseille,France,Particulier,SEO,Non,2024-05-20,22.0,EUR
+C0096,Client 96,client96@exemple.com,Marseille,France,Professionnel,Réseaux sociaux,Non,2023-07-04,36.0,EUR
+C0097,Client 97,client97@exemple.com,Toulouse,France,Professionnel,Marketplace,Non,2025-06-26,21.0,EUR
+C0098,Client 98,client98@exemple.com,Nantes,France,Particulier,Parrainage,Non,2023-05-06,60.0,EUR
+C0099,Client 99,client99@exemple.com,Rennes,France,Particulier,Accès direct,Non,2025-08-29,60.0,EUR
+C0100,Client 100,client100@exemple.com,Dijon,France,Particulier,Email,Oui,2025-09-09,68.0,EUR
+C0101,Client 101,client101@exemple.com,Nantes,France,Particulier,Parrainage,Non,2025-03-24,26.0,EUR
+C0102,Client 102,client102@exemple.com,Dijon,France,Particulier,Accès direct,Non,2022-11-27,29.0,EUR
+C0103,Client 103,client103@exemple.com,Lille,France,Particulier,Accès direct,Oui,2022-11-25,41.0,EUR
+C0104,Client 104,client104@exemple.com,Rennes,France,Particulier,Accès direct,Non,2025-03-23,24.0,EUR
+C0105,Client 105,client105@exemple.com,Bordeaux,France,Particulier,Réseaux sociaux,Oui,2024-10-26,50.0,EUR
+C0106,Client 106,client106@exemple.com,Lyon,Suisse,Particulier,Email,Non,2022-03-19,52.0,EUR
+C0107,Client 107,client107@exemple.com,Bordeaux,France,Particulier,Email,Oui,2024-10-23,71.0,EUR
+C0108,Client 108,,Rennes,France,Étudiant,Accès direct,Non,2022-05-13,36.0,EUR
+C0109,Client 109,client109@exemple.com,Rennes,France,Particulier,Marketplace,Oui,2022-03-10,20.0,EUR
+C0110,Client 110,client110@exemple.com,Lille,France,Professionnel,Publicité,Non,2022-07-01,37.0,EUR
+C0111,Client 111,client111@exemple.com,Lille,France,Particulier,,Non,2022-01-19,31.0,EUR
+C0112,Client 112,client112@exemple.com,Strasbourg,France,Particulier,Accès direct,Non,2023-12-01,41.0,EUR
+C0113,Client 113,client113@exemple.com,Toulouse,France,Particulier,Email,Non,2023-04-16,71.0,EUR
+C0114,Client 114,client114@exemple.com,Lille,France,Professionnel,Réseaux sociaux,Non,2025-04-05,21.0,EUR
+C0115,Client 115,client115@exemple.com,Paris,France,ETUDIANT,Réseaux sociaux,Oui,2024-07-15,21.0,EUR
+C0116,Client 116,client116@exemple.com,Toulouse,France,Particulier,Réseaux sociaux,Non,2025-06-03,36.0,EUR
+C0117,Client 117,client117@exemple.com,Rennes,France,Particulier,Marketplace,Non,2022-06-08,70.0,EUR
+C0118,Client 118,client118@exemple.com,Lille,Belgique,Étudiant,Publicité,Non,2022-11-10,71.0,EUR
+C0119,Client 119,client119@exemple.com,Strasbourg,France,Premium,Parrainage,Non,2025-05-07,23.0,EUR
+C0120,Client 120,client120@exemple.com,Nantes,France,Particulier,Parrainage,Oui,2023-07-02,43.0,EUR
+C0121,Client 121,client121@exemple.com,Dijon,France,Étudiant,Accès direct,Non,2024-03-18,40.0,EUR
+C0122,Client 122,client122@exemple.com,Toulouse,France,Particulier,Email,Non,2022-01-22,38.0,EUR
+C0123,Client 123,client123@exemple.com,Lille,France,Professionnel,Parrainage,Non,2025-04-16,27.0,EUR
+C0124,Client 124,client124@exemple.com,Bordeaux,France,Étudiant,Publicité,Oui,2024-10-28,48.0,EUR
+C0125,Client 125,client125@exemple.com,Rennes ,France,Particulier,SEO,Non,2023-09-12,29.0,EUR
+C0126,Client 126,client126@exemple.com,Rennes,France,Professionnel,Publicité,Non,2023-07-26,66.0,EUR
+C0127,Client 127,client127@exemple.com,Lyon,France,Particulier,Parrainage,Non,2023-09-27,61.0,EUR
+C0128,Client 128,client128@exemple.com,Nantes,France,Particulier,SEO,Non,2022-06-08,37.0,EUR
+C0129,Client 129,client129@exemple.com,Nantes,France,Particulier,Réseaux sociaux,Non,2023-03-02,21.0,EUR
+C0130,Client 130,client130@exemple.com,Lyon,France,Particulier,Accès direct,Non,2025-08-20,67.0,EUR
+C0131,Client 131,client131@exemple.com, lille,France,Particulier,Réseaux sociaux,Non,2024-07-25,65.0,EUR
+C0132,Client 132,client132@exemple.com,Paris,France,Particulier,Publicité,Oui,2022-08-04,48.0,EUR
+C0133,Client 133,client133@exemple.com,Nantes,Belgique,Premium,Email,non,2024-12-22,54.0,EUR
+C0134,Client 134,,Paris,France,Étudiant,Accès direct,Non,2022-08-07,,EUR
+C0135,Client 135,client135@exemple.com,Nantes,France,Particulier,Accès direct,Non,2024-12-07,71.0,EUR
+C0136,Client 136,client136@exemple.com, lyon,France,Particulier,SEO,Oui,2023-11-24,38.0,EUR
+C0137,Client 137,client137@exemple.com,Dijon,Belgique,Premium,Publicité,Non,2025-05-14,57.0,EUR
+C0138,Client 138,client138@exemple.com,Paris,France,Particulier,Email,Oui,2025-03-26,27.0,EUR
+C0139,Client 139,client139@exemple.com,Lille,France,Particulier,Publicité,Oui,2024-01-15,39.0,EUR
+C0140,Client 140,client140@exemple.com,Paris,France,Étudiant,Publicité,Non,2022-11-04,38.0,EUR
+C0141,Client 141,client141@exemple.com,Rennes,France,Particulier,Parrainage,Non,2023-07-29,30.0,EUR
+C0142,Client 142,client142@exemple.com,Paris,France,Professionnel,Email,Oui,2025-09-07,42.0,EUR
+C0143,Client 143,client143@exemple.com,Marseille,France,Étudiant,Email,Non,2023-10-13,58.0,EUR
+C0144,Client 144,client144@exemple.com,Nantes,France,Particulier,Parrainage,Oui,2022-07-22,37.0,EUR
+C0145,Client 145,client145@exemple.com,Bordeaux,France,Étudiant,Marketplace,Non,2023-05-31,43.0,EUR
+C0146,Client 146,,Marseille,France,premium,SEO,Non,2024-08-01,49.0,EUR
+C0147,Client 147,client147@exemple.com,Toulouse,France,Professionnel,,Non,2023-07-12,22.0,EUR
+C0148,Client 148,client148@exemple.com,MARSEILLE,France,Particulier,Réseaux sociaux,Oui,2025-05-05,40.0,EUR
+C0149,Client 149,client149@exemple.com,Montpellier,France,Étudiant,Accès direct,Oui,2024-09-03,30.0,EUR
+C0150,Client 150,client150@exemple.com,Dijon,France,Particulier,Publicité,Non,2022-07-05,72.0,EUR
+C0151,Client 151,client151@exemple.com,Marseille,France,Particulier,Marketplace,Non,2022-12-09,73.0,EUR
+C0152,Client 152,client152@exemple.com,Grenoble,France,Professionnel,Publicité,Non,2023-11-29,64.0,EUR
+C0153,Client 153,client153@exemple.com,Grenoble,France,Particulier,Réseaux sociaux,Oui,2025-08-06,41.0,EUR
+C0154,Client 154,client154@exemple.com,Nantes,Belgique,Particulier,Marketplace,Non,2022-08-22,54.0,EUR
+C0155,Client 155,client155@exemple.com,Marseille,France,Particulier,Parrainage,Non,2025-07-18,73.0,EUR
+C0156,Client 156,client156@exemple.com,Strasbourg,France,Professionnel,Accès direct,Non,2023-04-13,69.0,EUR
+C0157,Client 157,client157@exemple.com,Strasbourg,France,Premium,Accès direct,Non,2022-10-13,37.0,EUR
+C0158,Client 158,client158@exemple.com,Lille,France,Particulier,SEO,Non,2025-08-28,31.0,EUR
+C0159,Client 159,client159@exemple.com,Toulouse,France,Particulier,Email,Non,2022-04-10,35.0,EUR
+C0160,Client 160,client160@exemple.com,Rennes,Belgique,Premium,,Oui,2022-05-21,73.0,EUR
+C0013,Client 13,client13@exemple.com,nantes,France,Particulier,,Non,2025-07-22,22.0,EUR
+C0161,Client 26,client26@exemple.com,Lyon,France,Professionnel,SEO,Oui,2022-02-23,66.0,EUR

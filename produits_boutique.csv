@@ -1,31 +1,76 @@
-produit_id,nom_produit,categorie,prix_unitaire,marge_theorique_pct,tags
-P001,Casque audio,Audio,89.9,0.32,audio;premium;télétravail
-P002,Clavier mécanique,Informatique,119.9,0.28,informatique;premium;productivité
-P003,Souris sans fil,Informatique,34.9,0.35,informatique;nomade;productivité
-P004,Écran 24 pouces,Informatique,169.9,0.22,informatique;bureau;premium
-P005,Webcam HD,Informatique,59.9,0.3,informatique;télétravail
-P006,Sac ordinateur,Accessoires,49.9,0.38,nomade;bureau
-P007,Chargeur USB-C,Accessoires,29.9,0.4,nomade;accessoire
-P008,Support laptop,Accessoires,39.9,0.37,bureau;ergonomie
-P009,Lampe bureau,Bureau,44.9,0.34,bureau;ergonomie
-P010,Disque SSD,Stockage,79.9,0.25,stockage;informatique
-P011,Carnet A5,Bureau,8.9,0.55,bureau;papeterie
-P012,Stylo premium,Bureau,14.9,0.5,bureau;papeterie;premium
-P013,Gourde inox,Lifestyle,22.9,0.42,nomade;lifestyle
-P014,Tapis souris,Accessoires,12.9,0.48,accessoire;informatique
-P015,Hub USB,Accessoires,24.9,0.39,accessoire;informatique
-P016,Enceinte bluetooth,Audio,69.9,0.31,audio;nomade
-P017,Micro USB,Audio,99.9,0.29,audio;télétravail;premium
-P018,Câble HDMI,Accessoires,11.9,0.45,accessoire;informatique
-P019,Batterie externe,Accessoires,39.9,0.36,nomade;accessoire
-P020,Station d'accueil,Informatique,149.9,0.24,informatique;bureau;premium
-P021,Chaise ergonomique,Bureau,229.9,0.2,bureau;ergonomie;premium
-P022,Repose-pieds,Bureau,34.9,0.33,bureau;ergonomie
-P023,Tablette graphique,Création,89.9,0.27,création;informatique
-P024,Adaptateur USB-C,Accessoires,19.9,0.41,accessoire;informatique
-P025,Protection écran,Accessoires,9.9,0.46,accessoire;informatique
-P026,Écouteurs,Audio,49.9,0.3,audio;nomade
-P027,Routeur Wi-Fi,Réseau,89.9,0.26,réseau;informatique
-P028,Bracelet connecté,Lifestyle,59.9,0.34,lifestyle;nomade
-P029,Mini projecteur,Image,179.9,0.21,image;premium
-P030,Scanner portable,Bureau,129.9,0.23,bureau;nomade
+produit_id,nom_produit,categorie,prix_catalogue,marge_theorique_pct,stock,actif_catalogue,date_ajout_catalogue,tags
+P001,Casque audio,AUDIO,129.94,0.41,187,Oui,2024-07-07,informatique;productivité
+P002,Clavier mécanique,BUREAU,62.94,0.44,34,Oui,2022-06-04,télétravail;premium
+P003,Souris sans fil,Bureau,54.7,0.18,234,Oui,2023-03-06,bureau;productivité
+P004,Écran,Bureau,52.41,0.23,101,Oui,2021-11-24,bureau;papeterie
+P005,Webcam,Réseau,17.45,0.44,50,Oui,2021-12-08,réseau;maison;informatique
+P006,Sac ordinateur,Bureau,38.19,0.18,192,Oui,2024-12-06,productivité;ergonomie
+P007,Chargeur USB-C,Lifestyle,76.55,0.32,74,Oui,2022-07-19,
+P008,Support laptop,Audio,32.66,0.22,171,Oui,2022-04-21,premium;télétravail
+P009,Lampe bureau,Image,42.35,0.33,230,Oui,2021-07-22,création;image;premium
+P010,Disque SSD,Audio,22.87,0.21,134,Oui,2024-10-27,audio;télétravail;nomade
+P011,Carnet,Image ,43.8,0.49,238,Oui,2021-09-21,image;premium
+P012,Stylo premium,Informatique,79.88,0.43,126,Oui,2022-08-13,productivité;premium
+P013,Gourde inox,Stockage,94.05,0.4,226,Oui,2022-02-02,stockage;informatique;sauvegarde
+P014,Tapis souris,Lifestyle,56.2,0.22,28,Oui,2022-12-24,cadeau;nomade;lifestyle
+P015,Hub USB,Accessoires,96.67,0.4,141,Oui,2022-01-22,nomade;accessoire
+P016,Enceinte bluetooth,Audio,112.86,0.34,200,Oui,2022-12-06,audio;télétravail
+P017,Micro USB,Stockage ,18.74,0.2,186,Oui,2025-04-25,sauvegarde;stockage;informatique
+P018,Câble HDMI,Accessoires,88.41,0.31,246, Oui ,2021-03-15,nomade;budget
+P019,Batterie externe,Accessoires,131.41,0.55,90,Non,2023-11-19,accessoire;budget
+P020,Station d'accueil,Bureau,50.93,0.37,62,Oui,2023-10-18,ergonomie;productivité;papeterie
+P021,Chaise ergonomique,Audio,81.51,0.44,43,Oui,2025-04-16,premium;audio
+P022,Repose-pieds,Réseau,8.12,0.48,233,Oui,2025-01-25,réseau;informatique;maison
+P023,Tablette graphique,Informatique,29.07,0.2,197,Oui,2023-07-23,bureau;premium;productivité
+P024,Adaptateur USB-C,Réseau,75.56,0.38,104,Oui,2021-03-08,maison;informatique;réseau
+P025,Protection écran,Réseau,35.94,0.36,201,Oui,2023-07-01,maison;réseau;informatique
+P026,Écouteurs,Bureau,124.76,0.52,155,Oui,2022-01-17,ergonomie;bureau;productivité
+P027,Routeur Wi-Fi,Audio,82.47,0.26,243,Oui,2024-08-15,télétravail;nomade;premium
+P028,Bracelet connecté,Audio,227.76,0.22,128,Oui,2022-01-31,audio;premium;nomade
+P029,Mini projecteur,Informatique,42.35,0.21,82,Oui,2023-08-19,premium;productivité
+P030,Scanner portable,Accessoires,44.5,0.48,199,Non,2024-08-18,nomade;informatique
+P031,Dock Thunderbolt,Audio,0.0,0.3,44,Oui,2024-07-20,audio;premium
+P032,Sacoche,Bureau,101.87,0.37,104,Non,2024-03-24,ergonomie;productivité;bureau
+P033,Clé USB,accessoires,77.18,0.32,216,Oui,2025-03-31,stockage;sauvegarde;informatique
+P034,Webcam 4K,Informatique,56.4,0.46,107,Oui,2021-01-15,informatique;productivité;premium
+P035,Micro-casque,Informatique,-10.0,0.29,93,Oui,2021-09-20,premium;productivité
+P036,Support écran,Audio,39.32,0.28,84,oui,2024-12-28,télétravail;premium;nomade
+P037,Organiseur bureau,Informatique,47.6,0.23,208,Oui,2024-09-21,informatique;premium;productivité
+P038,Chargeur induction,Image,69.98,0.48,122,Oui,2022-09-23,premium;image
+P039,Câble réseau,Accessoires,79.86,0.35,186,Oui,2023-09-06,informatique;accessoire
+P040,Switch réseau,Création,39.19,0.4,241,Oui,2022-04-25,informatique;création;design
+P041,Disque dur externe,informatique ,3999.0,0.39,235,Non,2022-01-09,lifestyle;cadeau
+P042,Carte mémoire,Informatique,39.99,0.3,231,Oui,2025-05-07,informatique;bureau;premium
+P043,Lecteur carte,Informatique,0.0,0.42,61,Oui,2023-11-22,bureau;premium
+P044,Pochette laptop,Création,109.05,0.2,147,Oui,2025-06-19,création;design
+P045,Filtre confidentialité,Lifestyle,51.88,0.46,52,Oui,2021-11-11,cadeau;lifestyle
+P046,Bras écran,Création,47.82,0.23,30, Oui ,2024-07-20,création;informatique
+P047,Anneau lumineux,Réseau,33.81,0.19,158,Oui,2025-03-31,réseau;maison
+P048,Powerbank solaire,Création,69.51,0.49,223,Oui,2022-07-05,informatique;design;création
+P049,Souris verticale,Bureau,28.75,0.39,156,Oui,2023-06-30,papeterie;bureau;productivité
+P050,Clavier compact,Audio,45.96,0.3,201,Oui,2025-01-23,audio;télétravail
+P051,Casque réduction bruit,Informatique,60.79,0.18,87,Oui,2023-05-21,productivité;bureau;informatique
+P052,Écran portable,Lifestyle,81.04,0.4,192,Non,2021-07-10,nomade;lifestyle;cadeau
+P053,Tapis de bureau,Accessoires,26.13,0.4,234,Oui,2024-12-09,budget;accessoire;nomade
+P054,Multiprise,Accessoires,36.29,0.34,109,Oui,2023-08-25,
+P055,Convertisseur HDMI,Image,61.23,0.28,236,Oui,2024-03-04,création;image;premium
+P056,Adaptateur secteur,Lifestyle,56.67,0.23,171,Oui,2025-06-14,cadeau;lifestyle
+P057,Tablette notes,Accessoires,74.36,0.24,220,Oui,2025-05-05,informatique;budget;nomade
+P058,Caméra conférence,Lifestyle,101.65,0.25,78,Oui,2021-03-11,lifestyle;nomade
+P059,Kit nettoyage,Stockage,57.06,0.37,82,Oui,2022-08-23,sauvegarde;informatique;stockage
+P060,Mini imprimante,Informatique,48.53,0.21,29,Oui,2025-01-08,premium;bureau;productivité
+P061,Lampe écran,Bureau,16.17,0.43,240,Oui,2021-06-23,
+P062,Support téléphone,Audio,111.84,0.27,206,Non,2023-02-25,nomade;premium
+P063,Clavier ergonomique,Informatique,22.38,0.33,46,Oui,2021-10-21,bureau;productivité;premium
+P064,Trackpad,Réseau,32.94,0.27,161,Oui,2022-01-23,maison;réseau;informatique
+P065,Routeur mesh,Informatique,84.19,0.41,165,Oui,2022-12-18,bureau;premium;productivité
+P066,NAS entrée gamme,Bureau,47.88,0.39,90,Oui,2021-08-09,productivité;ergonomie
+P067,Écran 27 pouces,Création,66.35,0.45,102,Non,2023-05-02,informatique;design
+P068,Support mural,Stockage,0.0,0.39,223,Oui,2021-04-10,informatique;stockage;sauvegarde
+P069,Mini PC,Réseau,36.74,0.37,123,Oui,2022-01-21,réseau;informatique
+P070,Sac à dos tech,réseau,141.59,0.36,77,Oui,2022-09-16,informatique;création
+P071,Station recharge,Stockage,54.03,0.42,229,Oui,2023-08-03,informatique;sauvegarde;stockage
+P072,Étiquette connectée,Image,22.38,0.4,63,Oui,2024-03-16,image;création;premium
+P073,Dictaphone, audio,52.25,0.31,178,Oui,2025-03-28,
+P074,Télécommande présentation,Bureau,46.56,0.4,70,Oui,2023-06-29,papeterie;ergonomie
+P075,Casque filaire,Audio,47.4,0.2,45,Oui,2023-06-13,télétravail;audio

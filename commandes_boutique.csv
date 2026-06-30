@@ -1,423 +1,1054 @@
-commande_id,client_id,produit_id,date_commande,quantite,remise_pct,canal_vente,mode_paiement,statut_commande,note_client,prix_unitaire_commande
-CMD00012,C0076,P007,2025-01-04,3,0.0,Application,Carte bancaire,Livrée,3.0,31.37
-CMD00025,C0013,P026,2025-03-26,4,0.0,Site web,Carte cadeau,Livrée,4.0,49.22
-CMD00037,C0050,P022,2025-11-24,4,0.0,Site web,PayPal,Livrée,4.0,36.44
-CMD00363,C0040,P002,2025-03-06,2,15.0,Application,PayPal,Livrée,,117.79
-CMD00016,C0025,P999,2025-01-12,4,0.0,Site web,Carte bancaire,Annulée,4.0,23.93
-CMD00294,C0046,P023,2025-06-30,5,0.0,Boutique,Carte bancaire,Livrée,5.0,86.69
-CMD00321,C0077,P029,2025-06-05,2,10.0,Site web,Carte bancaire,Livrée,3.0,181.93
-CMD00014,C0090,P009,2025-03-10,2,0.0,Application,Carte bancaire,Livrée,5.0,44.69
-CMD00413,C0081,P023,2025-11-01,2,0.0,Site web,Carte bancaire,Livrée,5.0,93.35
-CMD00237,C0052,P020,2025-05-08,2,0.0,Site web,PayPal,Livrée,2.0,148.26
-CMD00180,C0077,P026,2025-12-17,4,5.0,Site web,Carte cadeau,Livrée,4.0,-1.0
-CMD00190,C0004,P019,2025-03-19,3,15.0,Application,Carte cadeau,Livrée,2.0,38.99
-CMD00236,C0044,P030,2025-04-27,1,10.0,Site web,PayPal,Livrée,2.0,126.54
-CMD00268,C0013,P014,2025-02-06,1,15.0,Site web,Carte bancaire,Retournée,5.0,13.92
-CMD00356,C0071,P002,2025-02-14,4,10.0,Site web,Carte bancaire,Livrée,4.0,122.73
-CMD00344,C0080,P013,2025-05-16,1,0.0,Marketplace,PayPal,Livrée,2.0,22.32
-CMD00411,C0048,P011,2025-02-02,1,5.0,Site web,PayPal,Livrée,4.0,9.46
-CMD00210,C0026,P026,2025-02-08,1,0.0,Site web,PayPal,Livrée,3.0,48.5
-CMD00290,C0004,P028,2025-12-17,10,5.0,Site web,Carte bancaire,Livrée,5.0,59.5
-CMD00139,C0064,P009,2025-11-03,10,0.0,Site web,Carte bancaire,En cours,3.0,47.78
-CMD00369,C0064,P024,2025-01-23,4,20.0,Site web,Carte cadeau,Livrée,1.0,19.18
-CMD00076,C0042,P011,2025-03-02,1,10.0,Site web,Carte bancaire,Livrée,5.0,9.37
-CMD00121,C0002,P020,2025-09-21,1,0.0,Application,Carte bancaire,Livrée,3.0,140.66
-CMD00262,C0039,P003,2025-05-04,2,0.0,Site web,Carte bancaire,Livrée,4.0,35.09
-CMD00317,C0051,P020,2025-12-10,1,0.0,Site web,Carte cadeau,Livrée,4.0,149.3
-CMD00367,C0023,P020,2025-08-26,1,0.0,Site web,Carte bancaire,En cours,4.0,156.44
-CMD00222,C0005,P009,2025-09-29,1,10.0,Application,PayPal,Livrée,5.0,46.03
-CMD00412,C0043,P007,2025-06-25,1,10.0,Site web,PayPal,Livrée,5.0,29.54
-CMD00227,C0040,P021,2025-12-27,1,0.0,Boutique,Carte bancaire,Livrée,5.0,228.32
-CMD00010,C0075,P002,2025-12-02,1,0.0,Application,Carte bancaire,Livrée,4.0,124.43
-CMD00360,C0079,P016,2025-02-06,1,5.0,Application,Carte bancaire,Livrée,5.0,71.15
-CMD00034,C0073,P023,2025-08-14,1,0.0,Boutique,Carte bancaire,Livrée,5.0,90.07
-CMD00282,C0039,P009,2025-06-20,1,5.0,Marketplace,Carte bancaire,Livrée,3.0,47.32
-CMD00324,C0085,P021,2025-11-05,1,15.0,Boutique,Carte cadeau,En cours,1.0,236.35
-CMD00027,C0001,P026,2025-09-08,2,5.0,Site web,Virement,Livrée,2.0,47.35
-CMD00103,C0012,P030,2025-12-04,1,10.0,Boutique,PayPal,Annulée,5.0,132.55
-CMD00259,C0044,P004,2025-04-23,5,20.0,Site web,Carte bancaire,En cours,4.0,169.96
-CMD00073,C0009,P012,2025-05-20,2,0.0,Site web,Carte bancaire,Livrée,,14.6
-CMD00281,C0015,P030,2025-01-21,1,0.0,Site web,Carte bancaire,Livrée,2.0,143.55
-CMD00006,C0077,P006,2025-01-18,2,0.0,Application,Virement,En cours,5.0,49.19
-CMD00049,C0047,P021,2025-11-28,1,20.0,Site web,Virement,Livrée,4.0,232.07
-CMD00043,C0081,P028,2025-04-01,2,0.0,Application,PayPal,Retournée,5.0,56.11
-CMD00042,C0089,P011,2025-04-03,2,5.0,Boutique, carte bancaire ,Livrée,4.0,8.89
-CMD00205,C0078,P019,2025-07-14,2,15.0,Site web,PayPal,Livrée,5.0,38.98
-CMD00376,C0095,P010,2025-11-07,2,0.0,Site web,Carte bancaire,Livrée,4.0,84.22
-CMD00386,C0037,P026,2025-03-31,1,,Marketplace,Carte bancaire,Livrée,5.0,51.34
-CMD00217,C0049,P022,2025-07-03,1,20.0,Marketplace,Carte bancaire,Livrée,5.0,34.81
-CMD00343,C0083,P029,2025-11-06,2,10.0,Marketplace,PayPal,Livrée,4.0,177.87
-CMD00389,C0032,P004,2025-01-14,2,0.0,Site web,PayPal,Livrée,1.0,158.62
-CMD00274,C0041,P013,2025-04-12,1,0.0,Site web,PayPal,Livrée,3.0,23.41
-CMD00160,C0087,P025,2025-07-07,10,0.0,Application,Carte bancaire,Livrée,4.0,9.43
-CMD00380,C0030,P013,2025-05-04,1,15.0,Boutique,Carte bancaire,Livrée,5.0,22.94
-CMD00316,C0060,P024,2025-02-20,5,30.0,Site web,Carte bancaire,Livrée,5.0,20.63
-CMD00096,C0091,P020,2025-03-05,5,0.0,Site web,Carte cadeau,Annulée,5.0,142.76
-CMD00267,C0093,P010,2025-03-14,1,0.0,Boutique,Carte bancaire,Livrée,4.0,75.55
-CMD00055,C0020,P010,2025-02-24,2,0.0,Application,Carte bancaire,Livrée,3.0,75.7
-CMD00250,C0055,P018,2025-03-13,1,10.0,Site web,Carte cadeau,Livrée,4.0,12.81
-CMD00325,C0013,P008,2025-09-29,1,0.0,Application,Carte bancaire,Livrée,5.0,44.44
-CMD00300,C0054,P009,2025-04-18,2,0.0,Site web,Carte bancaire,Retournée,4.0,45.97
-CMD00371,C0049,P027,2025-03-09,1,0.0,Marketplace,Carte bancaire,Livrée,4.0,89.64
-CMD00102,C0061,P015,2025-01-02,2,15.0,Site web,Carte bancaire,Livrée,5.0,23.87
-CMD00310,C0075,P009,2025-12-25,2,10.0,Site web,Carte bancaire,Retournée,,45.7
-CMD00232,C0018,P022,2025-11-20,2,5.0,Marketplace,PayPal,Livrée,4.0,33.02
-CMD00172,C0077,P004,2025-11-21,3,5.0,Site web,PayPal,Livrée,4.0,160.81
-CMD00246,C0090,P030,2025-12-08,2,0.0,Site web,Carte bancaire,Livrée,2.0,133.64
-CMD00108,C0066,P022,2025-08-02,2,10.0,Marketplace,Carte bancaire,Livrée,4.0,34.47
-CMD00357,C0086,P030,2025-03-27,1,10.0,Marketplace,Carte bancaire,Livrée,2.0,129.56
-CMD00318,C0035,P014,2025-04-22,1,0.0,Site web,Carte bancaire,Livrée,,13.62
-CMD00186,C0067,P002,2025-11-10,1,0.0,Marketplace,Carte bancaire,Livrée,5.0,122.05
-CMD00021,C0050,P001,2025-06-23,2,15.0,Site web,Carte bancaire,Livrée,5.0,96.65
-CMD00284,C0021,P027,2025-04-05,2,0.0,Site web,Carte bancaire,Retournée,4.0,89.59
-CMD00122,C0029,P017,2025-01-19,2,0.0,Application,Virement,Annulée,1.0,99.45
-CMD00358,C0002,P014,2025-11-24,2,5.0,Site web,Carte bancaire,Livrée,5.0,13.5
-CMD00192,C0020,P026,2025-06-21,2,0.0,Site web,Carte bancaire,Livrée,5.0,52.69
-CMD00152,C0023,P013,2025-07-26,1,0.0,Site web,Carte bancaire,Livrée,5.0,22.14
-CMD00320,C0049,P015,2025-07-21,2,0.0,Site web,Carte bancaire,Livrée,4.0,25.53
-CMD00238,C0075,P009,2025-08-11,2,0.0,Application,Carte bancaire,En cours,1.0,42.25
-CMD00372,C0035,P021,2025-03-31,3,0.0,Boutique,PayPal,Livrée,3.0,212.56
-CMD00243,C0043,P004,2025-01-04,2,10.0,Site web,PayPal,Livrée,4.0,179.62
-CMD00126,C0075,P030,2025-04-18,1,0.0,Site web,PayPal,Livrée,4.0,131.73
-CMD00404,C0053,P010,2025-06-08,3,10.0,Application,Carte bancaire,Annulée,4.0,78.93
-CMD00395,C0045,P013,2025-04-30,2,0.0,Site web,Carte bancaire,Livrée,5.0,22.7
-CMD00032,C0050,P021,2025-11-08,1,5.0,Application,Carte cadeau,Retournée,3.0,247.6
-CMD00060,C0086,P011,2025-08-08,1,0.0,Marketplace,Carte bancaire,Livrée,,8.23
-CMD00247,C9999,P026,2025-07-04,1,0.0,Boutique,Carte bancaire,En cours,5.0,51.14
-CMD00022,C0059,P003,2025-03-30,3,30.0,Boutique,PayPal,Livrée,,36.01
-CMD00115,C0041,P003,2025-06-01,5,15.0,Site web,PayPal,Livrée,2.0,34.46
-CMD00080,C0070,P001,2025-09-16,1,0.0,Site web,Virement,Retournée,3.0,90.85
-CMD00200,C0060,P001,2025-07-08,1,0.0,Application,PayPal,Livrée,3.0,95.18
-CMD00143,C0013,P029,2025-03-09,2,5.0,Marketplace,Carte bancaire,Livrée,5.0,174.56
-CMD00094,C0069,P022,2025-09-10,2,0.0,Site web,Carte bancaire,Livrée,5.0,36.75
-CMD00056,C0064,P018,2025-04-27,1,5.0,Marketplace,Carte bancaire,Livrée,3.0,11.24
-CMD00083,C0091,P021,2025-10-29,1,0.0,Application,Carte bancaire,Livrée,4.0,218.75
-CMD00182,C0089,P023,2025-03-07,4,5.0,Application,Carte cadeau,Livrée,4.0,87.93
-CMD00145,C0060,P027,2025-07-11,10,0.0,Boutique,Carte bancaire,Retournée,3.0,93.62
-CMD00092,C0094,P009,2025-02-22,2,0.0,Site web,Carte bancaire,Retournée,,-1.0
-CMD00322,C0070,P030,2025-02-05,2,0.0,Marketplace,Carte bancaire,Livrée,5.0,131.18
-CMD00133,C0066,P030,2025-01-19,3,15.0,Site web,Carte bancaire,Livrée,,130.82
-CMD00403,C0092,P007,2025-10-29,1,0.0,Marketplace,Virement,Livrée,4.0,30.22
-CMD00212,C0068,P011,2025-11-26,1,0.0,Site web,Carte bancaire,Livrée,2.0,8.81
-CMD00394,C0050,P010,2025-10-11,1,0.0,Site web,Carte cadeau,Livrée,4.0,77.51
-CMD00158,C0019,P017,2025-06-03,2,10.0,Marketplace,Carte bancaire,Livrée,3.0,106.6
-CMD00053,C0088,P013,2025-09-25,10,0.0,Boutique,Carte bancaire,Livrée,4.0,22.99
-CMD00292,C0040,P016,2025-08-27,1,15.0,Site web,Carte bancaire,Livrée,4.0,66.47
-CMD00264,C0046,P007,2025-12-15,2,0.0,Marketplace,Virement,Livrée,3.0,30.53
-CMD00221,C0001,P004,2025-06-07,1,0.0,Site web,PayPal,Livrée,4.0,178.24
-CMD00278,C0061,P023,2025-03-09,1,0.0,Site web,Carte cadeau,Livrée,4.0,90.86
-CMD00001,C0069,P015,2025-11-12,1,20.0,Site web,Carte bancaire,En cours,1.0,23.36
-CMD00240,C0061,P013,2025-08-01,1,0.0,Site web,Carte bancaire,Livrée,2.0,22.54
-CMD00286,C0056,P008,2025-01-17,4,20.0,Site web,Virement,Livrée,4.0,37.79
-CMD00345,C0079,P005,2025-11-01,1,15.0,Application,Carte bancaire,Livrée,4.0,59.47
-CMD00399,C0040,P015,2025-06-14,1,15.0,Site web,Carte bancaire,Retournée,4.0,24.07
-CMD00361,C0068,P024,2025-05-21,3,10.0,Site web,PayPal,Livrée,4.0,20.64
-CMD00156,C0074,P003,2025-12-25,2,0.0,Site web,PayPal,Livrée,5.0,34.66
-CMD00151,C0024,P008,2025-10-06,2,15.0,Application,Virement,En cours,4.0,40.83
-CMD00148,C0086,P014,2025-09-05,3,10.0,Site web,Carte bancaire,Livrée,1.0,12.77
-CMD00161,C0028,P008,2025-12-11,10,0.0,Site web,Carte bancaire,Livrée,4.0,40.68
-CMD00327,C0081,P021,2025-05-27,1,0.0,Site web,Carte bancaire,Livrée,2.0,230.55
-CMD00288,C0031,P010,2025-06-25,3,5.0,Application,Carte bancaire,Livrée,4.0,77.38
-CMD00007,C0039,P008,2025-04-27,2,5.0,Marketplace,Carte bancaire,Livrée,4.0,38.14
-CMD00173,C0092,P028,2025-08-28,3,15.0,Marketplace,PayPal,Livrée,,61.45
-CMD00418,C0072,P002,2025-07-22,1,5.0,Site web,PayPal,Livrée,5.0,118.67
-CMD00303,C0052,P009,2025-04-21,1,0.0,Site web,PayPal,Livrée,5.0,45.74
-CMD00132,C0084,P023,2025-01-07,1,5.0,Site web,Carte bancaire,Livrée,,86.97
-CMD00189,C0043,P004,2025-03-30,1,30.0,Marketplace,Carte bancaire,Livrée,4.0,166.99
-CMD00183,C0012,P012,2025-09-06,1,5.0,Site web,Carte bancaire,Livrée,4.0,14.87
-CMD00249,C0040,P023,2025-01-25,2,0.0,Site web,Carte bancaire,Livrée,2.0,89.06
-CMD00218,C0006,P018,2025-02-06,10,0.0,Site web,Carte bancaire,Livrée,4.0,12.86
-CMD00135,C0074,P020,2025-02-27,1,10.0,Marketplace,PayPal,Livrée,,148.98
-CMD00228,C0017,P003,2025-05-18,2,5.0,Site web,Carte bancaire,Livrée,4.0,33.1
-CMD00191,C0044,P008,2025-05-06,1,15.0,Marketplace,Carte bancaire,Annulée,2.0,37.07
-CMD00275,C0075,P027,2025-06-24,1,20.0,Application,Carte bancaire,Livrée,4.0,90.39
-CMD00166,C0001,P002,2025-07-09,1,10.0,Site web,Carte cadeau,Livrée,3.0,119.55
-CMD00174,C0023,P021,2025-05-25,3,20.0,Site web,Virement,En cours,4.0,248.79
-CMD00197,C0052,P008,2025-08-24,3,0.0,Application,Carte bancaire,Livrée,3.0,40.01
-CMD00370,C0012,P002,2025-06-14,1,20.0,Boutique,Carte cadeau,Livrée,5.0,122.11
-CMD00219,C0007,P014,2025-01-02,1,5.0,Application,Carte bancaire,En cours,3.0,12.92
-CMD00179,C0064,P001,2025-05-12,2,5.0,Boutique,Carte bancaire,Annulée,5.0,86.22
-CMD00039,C0023,P023,2025-12-30,3,10.0,Site web,PayPal,Livrée,3.0,88.38
-CMD00204,C0015,P027,2025-09-24,3,0.0,Site web,Carte bancaire,Livrée,5.0,87.15
-CMD00176,C0081,P022,2025-09-07,1,5.0,Boutique,Carte bancaire,Livrée,4.0,34.81
-CMD00013,C0089,P006,2025-12-07,3,20.0,Application,Carte bancaire,Livrée,5.0,49.92
-CMD00031,C0065,P013,2025-04-13,1,10.0,Site web,PayPal,Annulée,,22.64
-CMD00149,C0083,P010,2025-07-14,1,15.0,Marketplace,Carte bancaire,Livrée,4.0,79.22
-CMD00185,C0081,P012,2025-12-02,2,0.0,Site web,Carte bancaire,Livrée,2.0,15.97
-CMD00277,C0039,P029,2025-12-23,2,15.0,Site web,Carte cadeau,Livrée,5.0,172.34
-CMD00224,C0084,P027,2025-01-09,5,0.0,Site web,PayPal,Livrée,4.0,94.18
-CMD00309,C0024,P001,2025-08-13,4,20.0,Site web,Carte bancaire,Livrée,4.0,92.67
-CMD00202,C0081,P013,2025-09-28,3,0.0,Site web,PayPal,Livrée,5.0,22.86
-CMD00106,C0056,P028,2025-12-29,1,10.0,Site web,PayPal,Annulée,2.0,62.48
-CMD00213,C0050,P024,2025-09-13,1,10.0,Site web,Carte bancaire,Livrée,4.0,20.16
-CMD00171,C0094,P012,2025-10-09,1,30.0,Marketplace,Carte bancaire,Livrée,5.0,15.23
-CMD00235,C0057,P017,2025-08-17,1,0.0,Boutique,Carte bancaire,Livrée,5.0,99.54
-CMD00020,C0010,P015,2025-08-15,3,10.0,Application,Carte bancaire,Livrée,,25.42
-CMD00030,C0045,P020,2025-01-02,1,30.0,Marketplace,Carte bancaire,Livrée,3.0,150.5
-CMD00079,C0013,P008,2025-11-05,4,10.0,Marketplace,Carte bancaire,Livrée,5.0,41.07
-CMD00378,C0074,P012,2025-11-16,1,0.0,Application,Carte bancaire,Retournée,5.0,14.18
-CMD00163,C0087,P014,2025-01-13,1,0.0,Marketplace,Carte bancaire,Livrée,4.0,13.27
-CMD00233,C0036,P013,2025-08-18,3,15.0,Application,Carte bancaire,Livrée,4.0,21.47
-CMD00392,C0020,P015,2025-11-21,1,10.0,Boutique,Carte cadeau,En cours,5.0,24.85
-CMD00072,C0015,P019,2025-05-07,2,5.0,Application,PayPal,Annulée,3.0,39.93
-CMD00095,C0081,P016,2025-01-22,1,10.0,Application,Carte bancaire,Livrée,5.0,71.68
-CMD00203,C0043,P021,2025-08-27,1,20.0,Site web,Carte bancaire,Annulée,5.0,235.83
-CMD00409,C0062,P026,2025-03-08,2,5.0,Boutique,PayPal,Livrée,,49.77
-CMD00036,C0076,P002,2025-03-01,1,0.0,Application,Carte bancaire,Livrée,5.0,118.11
-CMD00129,C0038,P005,2025-12-23,4,0.0,Site web,Carte cadeau,Livrée,3.0,62.15
-CMD00075,C0053,P001,2025-09-14,1,10.0,Site web,Carte bancaire,Livrée,5.0,93.41
-CMD00054,C0074,P028,2025-10-24,2,0.0,Application,PayPal,Annulée,4.0,56.52
-CMD00023,C0016,P009,2025-02-02,3,15.0,Site web,Carte bancaire,Livrée,5.0,42.02
-CMD00289,C0088,P027,2025-02-02,2,15.0,Site web,Carte bancaire,Livrée,5.0,87.39
-CMD00346,C0006,P002,2025-05-28,2,10.0,Marketplace,Carte bancaire,Livrée,3.0,123.53
-CMD00379,C0041,P007,2025-09-30,1,0.0,Site web,PayPal,Livrée,4.0,29.51
-CMD00350,C0032,P004,2025-10-09,4,10.0,Site web,Virement,Livrée,5.0,161.26
-CMD00164,C0004,P025,2025-10-18,3,0.0,Site web,Carte bancaire,Livrée,3.0,10.21
-CMD00241,C0083,P017,2025-05-21,3,5.0,Boutique,Carte bancaire,Livrée,,105.36
-CMD00091,C0062,P013,2025-10-11,5,5.0,Application,Carte bancaire,Livrée,,22.69
-CMD00337,C0037,P013,2025-05-17,2,0.0,Site web,Carte bancaire,Livrée,4.0,25.46
-CMD00373,C0048,P014,2025-11-17,2,0.0,Marketplace,Carte bancaire,Livrée,2.0,13.09
-CMD00419,C0004,P015,2025-12-17,4,0.0,Site web,PayPal,Livrée,3.0,25.75
-CMD00355,C0007,P018,2025-05-30,1,10.0,Marketplace,Carte bancaire,Livrée,3.0,12.04
-CMD00368,C0058,P012,2025-05-31,2,30.0,Marketplace,Carte bancaire,Livrée,4.0,14.34
-CMD00405,C0020,P018,2025-05-12,5,20.0,Boutique,Carte bancaire,Livrée,4.0,11.65
-CMD00384,C0068,P004,2025-04-01,1,15.0,Site web,PayPal,Livrée,2.0,180.43
-CMD00005,C0017,P010,2025-08-09,1,15.0,Marketplace,PayPal,Livrée,5.0,80.31
-CMD00193,C0011,P014,2025-11-18,3,0.0,Boutique,PayPal,Livrée,2.0,13.4
-CMD00390,C0002,P016,2025-12-10,1,5.0,Application,Virement,Livrée,5.0,66.95
-CMD00201,C0009,P023,2025-02-02,1,0.0,Site web,PayPal,Livrée,,92.73
-CMD00178,C0006,P024,2025-02-24,3,0.0,Application,Carte bancaire,Livrée,5.0,21.52
-CMD00144,C0062,P015,2025-07-22,5,,Boutique,Carte bancaire,En cours,5.0,23.72
-CMD00408,C0095,P015,2025-02-15,4,0.0,Boutique,Carte bancaire,Livrée,5.0,24.17
-CMD00153,C0044,P003,2025-04-08,3,0.0,Application,Carte bancaire,Livrée,5.0,35.9
-CMD00081,C0017,P019,2025-04-21,2,20.0,Site web,Carte cadeau,Livrée,1.0,40.04
-CMD00118,C0044,P022,2025-08-15,3,5.0,Marketplace,Virement,Livrée,5.0,37.09
-CMD00157,C0077,P007,2025-02-24,2,0.0,Marketplace,Carte cadeau,Livrée,5.0,31.55
-CMD00348,C0027,P029,2025-10-05,1,0.0,Site web,Virement,Livrée,5.0,176.33
-CMD00280,C0040,P017,2025-07-10,4,15.0,Site web,Carte bancaire,Livrée,4.0,101.61
-CMD00329,C0070,P009,2025-07-10,3,10.0,Marketplace,Carte bancaire,Livrée,5.0,44.02
-CMD00105,C0046,P020,2025-07-21,4,5.0,Site web,Carte bancaire,Retournée,5.0,146.15
-CMD00062,C0073,P015,2025-03-20,3,5.0,Site web,PayPal,Livrée,5.0,25.83
-CMD00109,C0052,P009,2025-05-22,2,0.0,Application,Carte bancaire,Livrée,1.0,45.7
-CMD00128,C0011,P030,2025-08-31,3,20.0,Application,Carte bancaire,Livrée,3.0,122.96
-CMD00082,C0053,P028,2025-09-27,1,0.0,Marketplace,Carte bancaire,Livrée,5.0,59.33
-CMD00416,C0008,P028,2025-03-01,1,10.0,Site web,Virement,Livrée,5.0,59.4
-CMD00331,C0026,P015,2025-01-30,1,0.0,Marketplace,Carte bancaire,Livrée,2.0,24.23
-CMD00045,C0075,P010,2025-07-23,1,0.0,Marketplace,Virement,Retournée,4.0,86.1
-CMD00165,C0001,P008,2025-05-11,5,0.0,Site web,Carte bancaire,Livrée,3.0,40.48
-CMD00276,C0059,P029,2025-03-15,1,15.0,Site web,Carte bancaire,Livrée,5.0,176.67
-CMD00090,C0036,P001,2025-02-15,2,5.0,Site web,Virement,Livrée,4.0,93.78
-CMD00338,C0047,P020,2025-08-02,2,15.0,Boutique,Carte bancaire,Livrée,4.0,147.7
-CMD00397,C0068,P017,2025-04-14,1,0.0,Marketplace,Carte bancaire,Livrée,5.0,103.83
-CMD00374,C0092,P007,2025-09-17,2,0.0,Site web,PayPal,Livrée,4.0,27.68
-CMD00287,C0058,P017,2025-01-04,3,10.0,Site web,Carte bancaire,Livrée,4.0,105.03
-CMD00319,C0092,P026,2025-03-23,1,15.0,Site web,Carte bancaire,Livrée,4.0,50.36
-CMD00167,C0015,P002,2025-06-06,2,20.0,Site web,Carte bancaire,Livrée,,116.98
-CMD00211,C0010,P016,2025-10-12,3,20.0,Application,Carte cadeau,Livrée,5.0,70.87
-CMD00168,C0005,P012,2025-05-29,1,5.0,Boutique,Carte bancaire,Livrée,4.0,13.77
-CMD00314,C0041,P024,2025-01-27,2,10.0,Site web,Carte bancaire,Livrée,4.0,20.45
-CMD00296,C0022,P018,2025-02-10,3,0.0,Marketplace,Carte bancaire,Livrée,4.0,11.53
-CMD00008,C0057,P028,2025-02-20,1,20.0,Site web,Carte bancaire,Livrée,5.0,60.06
-CMD00298,C0055,P020,2025-04-03,5,5.0,Boutique,Virement,Annulée,5.0,148.51
-CMD00116,C0029,P004,2025-07-15,3,5.0,Site web,Carte bancaire,En cours,2.0,159.12
-CMD00402,C0094,P008,2025-07-15,5,0.0,Site web,Carte bancaire,Livrée,4.0,40.54
-CMD00261,C0066,P003,2025-01-18,1,0.0,Marketplace,Carte cadeau,Livrée,,32.48
-CMD00377,C0043,P015,2025-07-29,1,30.0,Marketplace,Carte bancaire,Livrée,5.0,26.72
-CMD00137,C0005,P001,2025-11-06,1,0.0,Site web,Carte bancaire,Livrée,1.0,88.94
-CMD00334,C0030,P017,2025-02-28,1,5.0,Marketplace,Carte bancaire,Livrée,5.0,96.87
-CMD00265,C0013,P017,2025-09-23,1,20.0,Site web,Virement,Livrée,4.0,102.17
-CMD00253,C0025,P015,2025-05-13,4,5.0,Application,Carte bancaire,Livrée,5.0,24.91
-CMD00353,C0070,P002,2025-08-09,1,0.0,Site web,Carte bancaire,Livrée,5.0,117.77
-CMD00146,C0009,P030,2025-05-25,1,5.0,Boutique,Carte bancaire,Livrée,5.0,121.05
-CMD00293,C0046,P030,2025-09-03,1,10.0,Marketplace,Carte bancaire,Annulée,4.0,129.64
-CMD00086,C0075,P010,2025-11-21,2,5.0,Site web,Carte bancaire,Livrée,4.0,80.67
-CMD00330,C0050,P024,2025-03-02,1,15.0,Marketplace,Carte bancaire,Retournée,5.0,21.13
-CMD00050,C0063,P026,2025-12-26,1,30.0,Site web,Carte bancaire,Retournée,4.0,48.02
-CMD00038,C0047,P011,2025-10-10,1,0.0,Application,Carte bancaire,Livrée,5.0,8.78
-CMD00035,C0088,P019,2025-06-17,2,0.0,Site web,Carte bancaire,Livrée,5.0,40.0
-CMD00352,C0017,P002,2025-03-17,2,0.0,Site web,Virement,Livrée,4.0,111.33
-CMD00220,C0059,P012,2025-03-16,2,5.0,Application,Carte bancaire,Livrée,4.0,14.35
-CMD00024,C0017,P008,2025-07-27,1,20.0,Site web,Carte bancaire,Livrée,,42.14
-CMD00242,C0055,P005,2025-05-30,3,15.0,Site web,Virement,En cours,,60.02
-CMD00388,C0061,P001,2025-02-28,2,5.0,Application,Virement,Livrée,5.0,89.28
-CMD00283,C0080,P011,2025-06-15,1,10.0,Application,Carte bancaire,Livrée,2.0,9.16
-CMD00229,C0036,P021,2025-10-21,1,30.0,Application,Carte bancaire,Livrée,4.0,227.48
-CMD00011,C0095,P019,2025-02-02,10,5.0,Boutique,Carte bancaire,Retournée,3.0,40.12
-CMD00067,C0051,P001,2025-10-28,1,0.0,Site web,PayPal,Livrée,5.0,85.19
-CMD00029,C0046,P017,2025-06-30,10,15.0,Marketplace,Carte bancaire,Livrée,4.0,97.3
-CMD00208,C0019,P008,2025-07-28,1,0.0,Site web,PayPal,Livrée,4.0,41.28
-CMD00364,C0036,P002,2025-11-05,5,15.0,Site web,Carte bancaire,Livrée,3.0,113.45
-CMD00125,C0071,P013,2025-02-18,2,15.0,Marketplace,Carte bancaire,Livrée,5.0,24.1
-CMD00070,C0015,P028,2025-01-11,1,0.0,Application,PayPal,Livrée,4.0,59.37
-CMD00162,C0063,P028,2025-01-05,2,5.0,Boutique,PayPal,Retournée,3.0,61.94
-CMD00230,C0009,P011,2025-09-20,3,0.0,Marketplace,Carte bancaire,Livrée,1.0,9.38
-CMD00195,C0067,P029,2025-08-24,1,5.0,Site web,Virement,Livrée,4.0,169.9
-CMD00138,C0011,P004,2025-11-15,1,5.0,Boutique,Carte bancaire,Livrée,2.0,165.49
-CMD00311,C0033,P002,2025-05-10,1,20.0,Site web,Carte bancaire,Annulée,4.0,122.08
-CMD00342,C0007,P016,2025-04-19,4,0.0,Site web,Carte bancaire,Annulée,3.0,73.53
-CMD00113,C0069,P014,2025-02-03,4,0.0,Site web,PayPal,Livrée,4.0,12.52
-CMD00101,C0084,P027,2025-04-07,4,0.0,Site web,Carte bancaire,Livrée,,91.86
-CMD00285,C0091,P012,2025-02-16,1,10.0,Boutique,Carte bancaire,Livrée,4.0,13.74
-CMD00391,C0065,P009,2025-01-28,2,0.0,Site web,Virement,Livrée,4.0,46.41
-CMD00401,C0088,P016,2025-05-24,1,10.0,Boutique,Carte bancaire,Retournée,4.0,69.62
-CMD00111,C0010,P019,2025-07-29,1,10.0,Application,Carte bancaire,Livrée,,39.92
-CMD00188,C0080,P008,2025-11-30,1,15.0,Site web,Carte bancaire,Livrée,4.0,43.88
-CMD00123,C0049,P029,2025-06-13,1,10.0,Marketplace,Carte bancaire,Retournée,4.0,191.13
-CMD00273,C0059,P014,2025-05-06,1,10.0,Application,Carte cadeau,Livrée,3.0,12.57
-CMD00093,C0001,P006,2025-09-02,1,5.0,Marketplace,Carte bancaire,Livrée,3.0,49.41
-CMD00339,C0004,P010,2025-07-11,1,0.0,Marketplace,PayPal,Livrée,4.0,74.57
-CMD00196,C0048,P016,2025-11-17,4,20.0,Marketplace,PayPal,Livrée,3.0,73.98
-CMD00063,C0061,P026,2025-07-08,2,15.0,Boutique,Carte bancaire,Livrée,3.0,46.82
-CMD00406,C0080,P008,2025-02-18,1,0.0,Site web,Carte bancaire,Livrée,4.0,39.51
-CMD00175,C0028,P023,2025-02-28,1,10.0,Application,PayPal,En cours,3.0,90.18
-CMD00347,C0008,P029,2025-02-10,2,15.0,Site web, carte bancaire ,Livrée,5.0,178.26
-CMD00046,C0012,P015,2025-06-15,1,30.0,Boutique,Carte bancaire,Livrée,5.0,25.62
-CMD00051,C0070,P012,2025-01-29,4,0.0,Application,Carte bancaire,Livrée,3.0,14.76
-CMD00131,C0005,P025,2025-03-11,1,0.0,Site web,Virement,Livrée,5.0,10.24
-CMD00051,C0070,P012,2025-01-29,4,0.0,Application,Carte bancaire,Livrée,3.0,14.76
-CMD00098,C0012,P030,2025-07-05,2,5.0,Site web,Carte bancaire,Livrée,3.0,138.46
-CMD00198,C0071,P021,2025-05-19,2,5.0,Site web,PayPal,Livrée,5.0,237.31
-CMD00216,C0059,P009,2025-10-19,3,0.0,Site web,Carte bancaire,Livrée,5.0,46.79
-CMD00239,C0025,P024,2025-07-28,1,0.0,Site web,Carte bancaire,Livrée,5.0,21.03
-CMD00011,C0095,P019,2025-02-02,10,5.0,Boutique,Carte bancaire,Retournée,3.0,40.12
-CMD00417,C0080,P015,2025-05-16,2,0.0,Marketplace,PayPal,Livrée,5.0,24.57
-CMD00336,C0080,P004,2025-11-07,4,0.0,Boutique,Carte bancaire,Livrée,5.0,174.19
-CMD00064,C0026,P016,2025-06-01,4,20.0,Boutique,Carte bancaire,Livrée,2.0,69.05
-CMD00299,C0034,P001,2025-02-19,2,5.0,Site web,PayPal,En cours,3.0,89.26
-CMD00170,C0058,P002,2025-02-04,2,15.0,Site web,Carte bancaire,En cours,4.0,120.79
-CMD00248,C0029,P022,2025-06-20,2,20.0,Site web,Carte bancaire,Livrée,3.0,35.39
-CMD00258,C0015,P005,2025-03-01,2,10.0,Boutique,PayPal,Livrée,5.0,56.11
-CMD00252,C0067,P012,2025-05-18,1,0.0,Site web,Carte bancaire,En cours,4.0,14.9
-CMD00270,C0027,P020,2025-10-03,1,0.0,Site web,Carte bancaire,Livrée,4.0,153.56
-CMD00307,C0059,P011,2025-02-08,1,0.0,Site web,PayPal,Livrée,1.0,8.62
-CMD00414,C0038,P010,2025-12-14,10,10.0,Site web,Virement,Retournée,4.0,83.84
-CMD00154,C0014,P024,2025-10-04,1,0.0,Site web,Carte bancaire,Livrée,5.0,19.99
-CMD00375,C0008,P030,2025-02-18,10,0.0,Application,Carte bancaire,Livrée,5.0,124.99
-CMD00041,C0014,P027,2025-04-17,2,20.0,Site web,Carte bancaire,En cours,4.0,87.96
-CMD00328,C0048,P028,2025-07-17,1,5.0,Marketplace,Carte bancaire,Livrée,3.0,58.83
-CMD00333,C0024,P006,2025-06-15,3,10.0,Marketplace,PayPal,Livrée,4.0,46.73
-CMD00066,C0035,P004,2025-04-26,2,0.0,Marketplace,Carte bancaire,Livrée,5.0,173.64
-CMD00207,C0006,P008,2025-12-13,2,0.0,Site web,Carte bancaire,Livrée,4.0,36.94
-CMD00009,C0043,P029,2025-01-08,2,5.0,Application,Carte bancaire,Livrée,5.0,180.73
-CMD00078,C0037,P006,2025-09-22,3,0.0,Site web,Carte bancaire,Livrée,5.0,52.06
-CMD00059,C0071,P012,2025-02-11,3,10.0,Application, carte bancaire ,Livrée,5.0,15.71
-CMD00251,C0052,P002,2025-05-04,1,10.0,Boutique,Carte bancaire,Livrée,1.0,115.55
-CMD00120,C0043,P014,2025-04-10,1,10.0,Site web,Carte bancaire,En cours,4.0,12.22
-CMD00142,C0064,P024,2025-08-11,1,0.0,Site web,Carte bancaire,Livrée,5.0,20.35
-CMD00089,C0014,P017,2025-03-28,2,5.0,Site web,Carte bancaire,Livrée,,103.91
-CMD00387,C0088,P005,2025-04-19,2,10.0,Site web,Carte bancaire,Livrée,,56.36
-CMD00308,C0031,P027,2025-12-26,1,10.0,Site web,Carte bancaire,Livrée,,86.8
-CMD00301,C0057,P026,2025-04-25,5,10.0,Application,Carte bancaire,Livrée,5.0,49.62
-CMD00255,C0043,P007,2025-10-08,1,0.0,Site web,PayPal,Livrée,5.0,29.39
-CMD00061,C0078,P018,2025-04-19,2,15.0,Site web,Carte cadeau,En cours,4.0,12.58
-CMD00257,C0016,P011,2025-05-02,2,0.0,Application,PayPal,En cours,4.0,8.84
-CMD00302,C0067,P008,2025-10-07,1,20.0,Application,Carte bancaire,Livrée,2.0,39.46
-CMD00297,C0010,P019,2025-03-27,1,5.0,Marketplace,Virement,Livrée,5.0,40.73
-CMD00365,C0068,P026,2025-08-14,5,0.0,Site web,Carte bancaire,Livrée,2.0,50.74
-CMD00047,C0069,P016,2025-12-20,2,0.0,Site web,Carte bancaire,Annulée,3.0,73.99
-CMD00087,C0059,P005,2025-02-23,4,5.0,Application,Carte bancaire,Livrée,2.0,63.35
-CMD00110,C0002,P029,2025-02-16,1,10.0,Boutique,Carte bancaire,Livrée,4.0,179.47
-CMD00134,C0027,P023,2025-08-06,3,10.0,Site web,Virement,Livrée,5.0,91.17
-CMD00017,C0069,P030,2025-02-26,1,20.0,Application,Carte bancaire,Retournée,3.0,144.52
-CMD00304,C0062,P010,2025-11-16,2,10.0,Application,Carte bancaire,Retournée,3.0,82.04
-CMD00194,C0012,P001,2025-09-25,1,0.0,Application,Carte bancaire,Livrée,4.0,98.59
-CMD00385,C0072,P013,2025-05-02,4,10.0,Application,Carte bancaire,En cours,,22.56
-CMD00117,C0092,P016,2025-03-02,3,10.0,Site web,Virement,Livrée,5.0,67.33
-CMD00295,C0015,P999,2025-11-19,2,0.0,Application,Virement,Livrée,4.0,29.01
-CMD00028,C0055,P020,2025-11-07,1,,Site web,PayPal,Annulée,4.0,153.06
-CMD00141,C0003,P016,2025-08-15,1,0.0,Boutique,Carte bancaire,Annulée,4.0,67.77
-CMD00199,C0053,P016,2025-05-31,3,0.0,Site web,Carte bancaire,Livrée,,65.29
-CMD00015,C0009,P006,2025-10-26,1,0.0,Marketplace,Carte bancaire,Livrée,5.0,52.02
-CMD00088,C0046,P018,2025-08-05,1,,Site web,PayPal,Livrée,2.0,11.88
-CMD00266,C0012,P001,2025-03-30,1,0.0,Application,Carte bancaire,Livrée,4.0,82.95
-CMD00263,C0087,P011,2025-01-09,1,0.0,Site web,Carte bancaire,Livrée,1.0,9.07
-CMD00223,C9999,P017,2025-06-16,4,10.0,Site web,Carte bancaire,Livrée,4.0,102.8
-CMD00244,C0014,P018,2025-08-08,1,10.0,Marketplace,Carte bancaire,Livrée,5.0,12.02
-CMD00260,C0049,P011,2025-09-07,1,15.0,Application,Carte bancaire,Livrée,3.0,8.51
-CMD00393,C0072,P001,2025-01-02,2,0.0,Marketplace,Carte bancaire,Livrée,1.0,88.75
-CMD00104,C0012,P023,2025-01-07,5,10.0,Application,Carte bancaire,Livrée,,84.89
-CMD00150,C0003,P030,2025-09-22,4,5.0,Application,PayPal,Livrée,4.0,132.03
-CMD00140,C0095,P002,2025-04-03,1,0.0,Boutique,Carte bancaire,Livrée,3.0,124.93
-CMD00068,C0030,P012,2025-01-29,1,5.0,Site web,Carte bancaire,En cours,2.0,15.26
-CMD00004,C0092,P005,2025-02-24,4,0.0,Site web,Carte cadeau,Livrée,5.0,55.05
-CMD00057,C0070,P004,2025-07-20,5,20.0,Boutique,Virement,Retournée,4.0,173.24
-CMD00305,C0056,P006,2025-10-10,1,10.0,Site web,Carte cadeau,Livrée,4.0,49.61
-CMD00234,C0094,P025,2025-05-25,3,0.0,Boutique,Carte bancaire,Livrée,,10.56
-CMD00052,C0040,P016,2025-05-12,3,0.0,Boutique,Carte bancaire,Livrée,4.0,72.06
-CMD00002,C0014,P015,2025-09-17,1,15.0,Site web,PayPal,Livrée,,24.86
-CMD00019,C0005,P022,2025-09-15,1,15.0,Boutique,Carte bancaire,Livrée,4.0,35.43
-CMD00269,C0091,P029,2025-06-22,1,0.0,Site web,PayPal,Livrée,4.0,172.36
-CMD00396,C0016,P013,2025-07-08,2,15.0,Application,Carte bancaire,En cours,5.0,23.18
-CMD00313,C0019,P008,2025-08-03,1,0.0,Site web,Carte bancaire,Livrée,,39.97
-CMD00026,C0054,P026,2025-08-04,1,10.0,Site web,Carte bancaire,Livrée,2.0,50.11
-CMD00184,C0074,P025,2025-03-14,1,15.0,Site web,Carte bancaire,Annulée,4.0,10.43
-CMD00187,C0078,P028,2025-12-25,1,10.0,Site web,Carte bancaire,Livrée,3.0,59.0
-CMD00044,C0012,P026,2025-12-02,5,0.0,Marketplace,Virement,En cours,5.0,51.31
-CMD00130,C0095,P009,2025-11-02,1,0.0,Site web,Carte bancaire,Livrée,,44.3
-CMD00245,C0024,P006,2025-07-30,1,30.0,Site web,Carte bancaire,En cours,4.0,51.6
-CMD00256,C0090,P015,2025-02-17,4,5.0,Boutique,Carte bancaire,Livrée,5.0,25.21
-CMD00271,C0009,P027,2025-08-02,4,0.0,Site web,Carte bancaire,En cours,4.0,87.43
-CMD00398,C0016,P024,2025-06-29,1,10.0,Site web,Carte bancaire,Livrée,4.0,17.81
-CMD00155,C0082,P020,2025-09-19,1,5.0,Marketplace,Carte bancaire,Livrée,3.0,142.37
-CMD00071,C0092,P019,2025-09-26,1,10.0,Application,Carte cadeau,Livrée,4.0,41.72
-CMD00382,C0066,P001,2025-07-13,3,10.0,Application,PayPal,Livrée,4.0,88.13
-CMD00159,C0002,P017,2025-12-04,2,0.0,Site web,PayPal,Livrée,5.0,102.77
-CMD00400,C0080,P026,2025-07-13,1,0.0,Site web,Carte bancaire,Livrée,,50.22
-CMD00272,C0029,P011,2025-11-18,1,10.0,Site web,PayPal,Livrée,5.0,8.93
-CMD00147,C0065,P026,2025-10-02,1,10.0,Application,Virement,Livrée,4.0,51.75
-CMD00206,C0070,P021,2025-10-13,3,10.0,Application,Carte cadeau,En cours,5.0,-1.0
-CMD00279,C0093,P016,2025-06-24,4,0.0,Marketplace,Carte bancaire,Livrée,5.0,66.51
-CMD00315,C0051,P018,2025-05-30,4,5.0,Site web,Carte bancaire,Livrée,3.0,12.35
-CMD00332,C9999,P006,2025-04-03,2,0.0,Site web,PayPal,Livrée,5.0,48.95
-CMD00065,C0076,P016,2025-08-21,1,0.0,Boutique,Carte bancaire,Retournée,5.0,72.96
-CMD00326,C0088,P025,2025-08-14,1,10.0,Application,PayPal,Annulée,,9.75
-CMD00415,C0032,P008,2025-02-23,5,10.0,Marketplace,Carte bancaire,Livrée,5.0,39.8
-CMD00169,C0078,P029,2025-12-09,1,10.0,Marketplace,Carte bancaire,Livrée,4.0,182.34
-CMD00077,C0071,P010,2025-08-29,1,5.0,Site web,Carte bancaire,Annulée,5.0,82.69
-CMD00291,C0029,P010,2025-03-31,1,10.0,Marketplace,Carte bancaire,En cours,4.0,76.51
-CMD00351,C0047,P009,2025-01-16,2,0.0,Site web,Carte bancaire,Annulée,5.0,45.61
-CMD00119,C0030,P025,2025-03-08,2,0.0,Site web,Carte bancaire,Retournée,3.0,10.05
-CMD00214,C0094,P026,2025-11-12,1,15.0,Site web,Carte bancaire,Livrée,3.0,48.65
-CMD00354,C0030,P008,2025-12-10,3,20.0,Site web,Carte bancaire,Livrée,4.0,41.11
-CMD00359,C0042,P008,2025-09-23,1,5.0,Site web,Carte bancaire,Livrée,,41.38
-CMD00181,C0092,P023,2025-04-07,1,0.0,Site web,PayPal,Livrée,,87.02
-CMD00349,C0054,P023,2025-01-12,3,5.0,Site web,Carte bancaire,En cours,2.0,89.19
-CMD00381,C0074,P005,2025-07-15,3,5.0,Site web,Virement,Annulée,5.0,64.17
-CMD00100,C0081,P019,2025-12-28,1,5.0,Marketplace,Carte bancaire,Livrée,5.0,40.61
-CMD00362,C0082,P010,2025-04-07,2,0.0,Site web,Virement,Retournée,4.0,82.3
-CMD00136,C0080,P011,2025-03-26,3,0.0,Boutique,PayPal,Livrée,4.0,9.04
-CMD00177,C0024,P020,2025-06-21,3,0.0,Site web,Carte bancaire,Livrée,4.0,151.75
-CMD00407,C0077,P028,2025-05-12,2,5.0,Site web,Carte bancaire,Livrée,5.0,62.65
-CMD00085,C0035,P013,2025-02-15,1,5.0,Site web,Carte bancaire,Livrée,3.0,22.64
-CMD00420,C0042,P014,2025-03-17,1,0.0,Application,Virement,Livrée,4.0,13.02
-CMD00040,C0057,P017,2025-11-09,2,5.0,Marketplace,Virement,Livrée,,103.81
-CMD00341,C0006,P024,2025-09-28,1,20.0,Application,Carte bancaire,Annulée,5.0,19.32
-CMD00003,C0092,P028,2025-03-11,1,0.0,Marketplace,Carte bancaire,Annulée,5.0,54.64
-CMD00312,C0053,P017,2025-12-14,1,30.0,Site web, carte bancaire ,En cours,5.0,101.02
-CMD00306,C0062,P005,2025-11-26,1,5.0,Boutique,Carte bancaire,Livrée,4.0,60.09
-CMD00069,C0030,P030,2025-11-11,1,20.0,Application,Carte bancaire,Livrée,5.0,118.79
-CMD00209,C0002,P013,2025-06-12,1,15.0,Application,Carte bancaire,Livrée,4.0,23.99
-CMD00410,C0014,P021,2025-12-14,1,10.0,Site web,Carte bancaire,Livrée,4.0,231.59
-CMD00254,C0062,P028,2025-05-24,2,0.0,Site web,Carte bancaire,En cours,5.0,60.86
-CMD00335,C0050,P010,2025-02-08,3,5.0,Site web,Carte bancaire,Livrée,5.0,74.44
-CMD00340,C0012,P029,2025-09-26,5,0.0,Site web,Carte cadeau,Livrée,3.0,186.38
-CMD00112,C0044,P024,2025-11-24,4,20.0,Site web,Carte bancaire,Retournée,4.0,20.42
-CMD00225,C0044,P026,2025-03-18,4,15.0,Site web,Carte bancaire,Livrée,4.0,48.6
-CMD00033,C0070,P024,2025-07-14,1,5.0,Site web,Carte bancaire,Livrée,,21.48
-CMD00074,C0089,P006,2025-01-07,2,0.0,Marketplace,Carte bancaire,Livrée,2.0,51.68
-CMD00048,C0009,P024,2025-08-09,3,5.0,Site web,Carte bancaire,Livrée,5.0,19.23
-CMD00127,C0052,P004,2025-05-06,1,0.0,Site web,Carte bancaire,Livrée,4.0,173.1
-CMD00114,C0079,P027,2025-11-18,3,,Site web,Carte bancaire,Livrée,3.0,90.05
-CMD00097,C0041,P022,2025-10-17,1,30.0,Site web,Carte bancaire,Livrée,3.0,35.13
-CMD00226,C0068,P006,2025-12-24,1,0.0,Marketplace,Carte bancaire,Livrée,,49.65
-CMD00215,C0072,P028,2025-11-11,1,0.0,Site web,Carte bancaire,Livrée,3.0,57.78
-CMD00058,C0032,P026,2025-10-19,1,5.0,Site web,PayPal,Livrée,3.0,54.02
-CMD00124,C0088,P020,2025-08-06,1,10.0,Marketplace,Carte bancaire,Livrée,5.0,148.78
-CMD00107,C0004,P016,2025-07-30,2,15.0,Application,Virement,Retournée,5.0,70.9
-CMD00084,C0089,P014,2025-04-26,1,5.0,Site web,Carte bancaire,Livrée,3.0,12.41
-CMD00018,C0057,P018,2025-02-10,1,0.0,Application,Carte bancaire,Livrée,4.0,12.08
-CMD00231,C0074,P014,2025-12-06,2,0.0,Site web,Virement,Livrée,,13.02
-CMD00099,C0026,P025,2025-02-14,1,15.0,Marketplace,Carte bancaire,Livrée,2.0,9.83
-CMD00323,C0054,P018,2025-10-26,2,30.0,Boutique,Carte bancaire,Livrée,,-1.0
-CMD00383,C0014,P009,2025-09-20,1,10.0,Marketplace,Carte bancaire,Livrée,1.0,44.04
-CMD00366,C0015,P004,2025-03-07,4,5.0,Application,Virement,Livrée,4.0,173.61
+commande_id,client_id,produit_id,date_commande,quantite,remise_pct,canal_vente,mode_paiement,statut_commande,note_client,commentaire_client,created_at,updated_at,devise,prix_unitaire_commande
+CMD00385,C0108,P052,2026-01-23,1,5.0,Application,carte cadeau,Livrée,1.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.98
+CMD00293,C0001,P031,2025-11-16,6,5.0,Site web,PayPal,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00454,C0085,P042,2025-08-30,1,0.0,Marketplace,Carte bancaire,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.79
+CMD00989,C0105,P015,2026-03-05,1,10.0,Marketplace,Carte bancaire,Livrée,4.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,94.24
+CMD00438,C0124,P056,2026-03-31,1,15.0,Marketplace,Carte bancaire,Livrée,5.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,61.23
+CMD00624,C0065,P888,2025-03-06,10,15.0,Application,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,103.35
+CMD00911,C0049,P003,2025-01-11,10,0.0,Application,PayPal,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,56.75
+CMD00520,C0070,P073,2025-09-10,35,0.0,Boutique,Virement,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.83
+CMD00023,C0095,P071,2026-02-12,1,0.0,Site web,PayPal,Retournée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.6
+CMD00172,C0147,P019,2025-05-10,5,10.0,Application,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,132.22
+CMD00421,C0045,P028,2025-06-30,1,0.0,Marketplace,Carte cadeau,En cours,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,215.87
+CMD00674,C0097,P065,2026-02-04,1,10.0,Marketplace,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,87.39
+CMD00775,C0110,P048,2025-08-19,1,10.0,Site web,Carte bancaire,En cours,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,77.02
+CMD00132,C0038,P009,2025-09-23,1,5.0,Marketplace,PayPal,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.57
+CMD00125,C0131,P014,2025-03-24,1,20.0,Site web,Carte bancaire,Livrée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,61.89
+CMD00151,C0049,P044,2026-01-13,3,0.0,Site web,Carte bancaire,Retournée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,110.93
+CMD00387,C0066,P071,2025-03-20,5,0.0,Marketplace,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.62
+CMD00812,C0060,P003,2025-05-22,1,25.0,Site web,Carte bancaire,En cours,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,53.07
+CMD00139,C0026,P008,2025-10-08,2,0.0,Boutique,PayPal,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,32.09
+CMD00871,C0056,P048,2025-03-26,4,20.0,Marketplace,PayPal,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,70.98
+CMD01028,C0155,P023,2025-09-30,1,0.0,Marketplace,Carte bancaire,En cours,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,29.82
+CMD00216,C0068,P041,2025-03-13,3,,Marketplace,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,4080.19
+CMD01025,C0008,P074,2025-09-15,1,0.0,Site web,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.46
+CMD00004,C0150,P055,2025-08-15,3,15.0,Marketplace,Carte bancaire,Annulée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.88
+CMD00439,C0113,P012,2026-01-20,2,10.0,Application,Carte cadeau,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,84.56
+CMD00628,C0127,P012,2025-05-29,2,0.0,Site web,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,85.27
+CMD00573,C0118,P031,2025-09-17,1,5.0,Marketplace,Carte bancaire,Livrée,,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00051,C0080,P069,2025-12-16,1,0.0,Marketplace,Carte bancaire,Livrée,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.16
+CMD00436,C0151,P026,2026-03-15,1,15.0,Site web,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,128.1
+CMD00153,C0054,P073,2025-09-02,3,,Marketplace,Carte cadeau,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.23
+CMD00819,C0007,P014,2025-03-11,1,5.0,Application,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,53.68
+CMD00231,C0140,P022,2025-12-23,2,0.0,Site web,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,9.38
+CMD00768,C0017,P019,2025-10-13,1,0.0,Site web,Carte bancaire,Livrée,5.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,134.37
+CMD00584,C0035,P071,2025-04-26,8,5.0,Site web,PayPal,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.71
+CMD00268,C0073,P058,2025-04-10,2,5.0,Site web,PayPal,Livrée,2.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,101.23
+CMD00021,C0122,P018,2025-10-30,1,0.0,Boutique,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,99.97
+CMD00678,C0125,P068,2025-10-19,3,5.0,Site web,PayPal,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00838,C0116,P015,2025-12-15,4,10.0,Boutique,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,99.51
+CMD00058,C0058,P025,2026-01-15,1,0.0,Application,Carte bancaire,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.63
+CMD01004,C0127,P034,2026-03-28,3,0.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,59.58
+CMD00693,C0106,P043,2025-12-23,3,0.0,Boutique,Carte bancaire,Livrée,4.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00168,C0146,P073,2026-03-29,1,0.0,Site web,Virement,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.27
+CMD00137,C0081,P048,2025-04-11,1,20.0,Site web,Carte bancaire,En cours,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,72.17
+CMD00223,C0081,P028,2025-03-04,8,10.0,Marketplace,Carte bancaire,Livrée,4.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,208.97
+CMD00384,C0051,P034,2025-06-24,1,15.0,Boutique,Carte bancaire,En cours,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,53.07
+CMD00457,C0048,P041,2025-03-02,1,15.0,Site web,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,3496.25
+CMD00967,C0017,P064,2026-02-25,3,5.0,Application,Carte bancaire,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,32.52
+CMD00707,C0097,P048,2026-01-05,1,25.0,Application,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,63.94
+CMD01038,C0013,P062,2025-08-14,4,10.0,Marketplace,PayPal,Annulée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,125.87
+CMD00647,C0099,P041,2025-11-14,10,10.0,Site web,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,4058.07
+CMD00490,C0109,P049,2026-01-13,1,5.0,Marketplace,PayPal,Retournée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,32.49
+CMD00173,C0088,P065,2025-10-18,1,10.0,Site web,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,85.13
+CMD00178,C0047,P039,2025-03-09,6,0.0,Site web,PayPal,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,83.89
+CMD00114,C0132,P013,2025-09-25,1,15.0,Application,PayPal,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,84.05
+CMD00130,C0142,P054,2025-02-03,3,5.0,Site web,Carte bancaire,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.0
+CMD00530,C0142,P028,2026-03-04,1,15.0,Site web,Virement,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,216.56
+CMD00829,C0139,P056,2025-03-23,1,0.0,Site web,PayPal,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,59.13
+CMD00968,C0106,P008,2026-01-06,2,0.0,Marketplace,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,30.93
+CMD00764,C0099,P043,2025-03-20,1,25.0,Site web,Carte bancaire,Annulée,4.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00465,C0028,P011,2025-12-15,2,0.0,Marketplace,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.88
+CMD00289,C0083,P066,2026-03-05,2,10.0,Marketplace,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.72
+CMD00499,C0132,P040,2025-07-12,2,20.0,Site web,Carte bancaire,En cours,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.22
+CMD00823,C8888,P058,2025-04-23,5,0.0,Site web,Carte cadeau,Retournée,4.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,102.1
+CMD00982,C0151,P009,2025-09-10,1,0.0,Site web,Carte bancaire,Annulée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.37
+CMD00398,C0089,P044,2026-01-27,1,0.0,Marketplace,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,114.59
+CMD00453,C0090,P035,2025-10-11,2,0.0,Application,PayPal,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-9.68
+CMD00857,C0106,P025,2025-03-12,1,5.0,Site web,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.49
+CMD00888,C0078,P060,2025-11-10,1,10.0,Application,Carte bancaire,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.03
+CMD00757,C0019,P015,2026-03-15,2,10.0,Marketplace,Virement,En cours,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,105.57
+CMD00367,C0136,P023,2025-08-05,1,20.0,Site web,Carte bancaire,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,29.5
+CMD00127,C0131,P034,2025-01-18,1,0.0,Site web,Virement,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,56.46
+CMD00970,C0130,P004,2025-11-23,1,30.0,Marketplace,Carte cadeau,Livrée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,53.25
+CMD00655,C0070,P030,2025-05-02,1,0.0,Site web,Carte bancaire,En cours,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,40.06
+CMD00144,C0122,P017,2025-08-25,2,,Site web,PayPal,Livrée,3.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,17.94
+CMD00087,C0065,P014,2025-09-16,1,10.0,Marketplace,PayPal,Livrée,,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,50.24
+CMD00581,C7777,P048,2025-07-04,8,0.0,Application,Carte cadeau,Livrée,5.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,67.12
+CMD00904,C0117,P041,2025-01-03,1,15.0,Site web,Carte bancaire,Livrée,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,4023.67
+CMD00246,C0085,P066,2025-03-13,10,20.0,Site web,Carte bancaire,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.37
+CMD00075,C0002,P070,2025-10-02,3,0.0,Site web,Carte cadeau,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,163.2
+CMD00650,C0011,P021,2026-01-16,5,10.0,Site web,Carte cadeau,Livrée,2.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,93.11
+CMD00687,C0148,P056,2025-04-14,2,5.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.72
+CMD00979,C0062,P007,2025-03-18,1,25.0,Application,Carte bancaire,En cours,3.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,82.52
+CMD00047,C0140,P040,2025-09-05,1,0.0,Marketplace,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.9
+CMD00288,C0018,P018,2025-01-13,1,0.0,Marketplace,Virement,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,89.17
+CMD00378,C0091,P028,2026-02-22,4,0.0,Site web,PayPal,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,228.93
+CMD00758,C0060,P062,2025-11-03,4,20.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,111.57
+CMD00344,C0107,P064,2025-06-14,1,0.0,Site web,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,32.62
+CMD00681,C0125,P028,2025-06-09,1,15.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,207.47
+CMD00803,C0117,P034,2025-03-26,3,0.0,Site web,Carte bancaire,Livrée,1.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,56.75
+CMD00675,C0064,P009,2026-03-27,1,30.0,Site web,Carte bancaire,Livrée,4.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.67
+CMD00670,C0158,P029,2026-03-15,6,20.0,Application,Carte bancaire,Livrée,5.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.16
+CMD00263,C0137,P015,2025-11-04,1,0.0,Marketplace,Virement,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,92.84
+CMD00533,C0101,P017,2025-07-01,4,30.0,Application,PayPal,Livrée,1.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,20.48
+CMD00718,C0142,P043,2026-01-31,1,5.0,Site web,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00694,C0137,P051,2025-01-28,1,15.0,Boutique,PayPal,Livrée,2.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,61.6
+CMD01009,C0007,P029,2026-01-31,1,5.0,Marketplace,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.83
+CMD00931,C0149,P038,2025-12-17,1,10.0,Site web,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,67.59
+CMD00881,C0075,P075,2025-09-30,1,0.0,Site web,Carte bancaire,Retournée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.3
+CMD00155,C0089,P051,2026-02-22,1,5.0,Site web,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,62.58
+CMD00408,C0110,P073,2025-03-16,2,0.0,Application,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,56.68
+CMD00379,C0082,P032,2025-01-15,5,0.0,Marketplace,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,112.55
+CMD00915,C0103,P048,2025-05-25,3,0.0,Marketplace,Carte bancaire,Livrée,,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,74.84
+CMD00572,C0145,P018,2025-12-04,4,10.0,Application,PayPal,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,85.43
+CMD00905,C0040,P017,2025-05-24,1,0.0,Marketplace,Virement,Livrée,,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,18.63
+CMD00391,C0088,P009,2025-05-26,3,0.0,Marketplace,PayPal,Annulée,4.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.38
+CMD00503,C0044,P064,2025-08-01,3,20.0,Boutique,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,34.68
+CMD00437,C0025,P055,2025-09-24,3,0.0,Site web,Carte bancaire,Annulée,,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,66.54
+CMD00225,C0046,P001,2025-06-22,1,0.0,Site web,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,124.37
+CMD00510,C0003,P001,2026-03-24,6,10.0,Site web,Carte bancaire,Livrée,3.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,130.27
+CMD00709,C0012,P026,2025-09-05,4,10.0,Boutique,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,122.85
+CMD00110,C0148,P061,2026-03-04,8,5.0,Marketplace,Virement,Livrée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,15.99
+CMD00601,C0156,P054,2025-11-03,1,,Site web,Carte cadeau,Livrée,5.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,37.31
+CMD00609,C0058,P048,2025-03-08,2,5.0,Application,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,66.52
+CMD00254,C0159,P001,2026-03-15,1,20.0,Site web,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,124.69
+CMD00214,C0110,P041,2025-11-28,8,0.0,Boutique,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,4126.41
+CMD00321,C0063,P042,2025-08-22,1,15.0,Application,PayPal,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.43
+CMD00993,C0034,P050,2025-02-23,1,,Boutique,PayPal,En cours,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.16
+CMD00108,C0119,P021,2025-11-23,1,0.0,Site web,Carte bancaire,Livrée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,79.5
+CMD00677,C0082,P032,2025-05-17,8,5.0,Site web,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,91.54
+CMD00063,C0109,P044,2025-12-15,10,0.0,Application,Carte bancaire,Annulée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,110.25
+CMD00752,C0033,P069,2026-03-23,1,0.0,Application,PayPal,Livrée,5.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.19
+CMD00154,C0120,P047,2025-12-06,1,0.0,Application,Carte bancaire,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.1
+CMD00744,C0036,P009,2025-05-22,1,10.0,Site web,Carte cadeau,Annulée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.98
+CMD00064,C0128,P016,2026-03-15,1,0.0,Marketplace,Virement,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,101.86
+CMD00101,C0084,P051,2025-11-19,1,,Application,Carte bancaire,Livrée,4.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,64.17
+CMD00209,C0070,P008,2025-04-30,1,0.0,Site web,Carte bancaire,En cours,5.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,33.01
+CMD00406,C0083,P006,2026-01-13,2,0.0,Marketplace,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.34
+CMD00049,C0153,P061,2025-09-01,2,30.0,Site web,Virement,Livrée,2.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,15.25
+CMD00654,C0095,P063,2025-01-08,1,0.0,Site web,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,23.37
+CMD00481,C0091,P055,2025-05-03,1,0.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,59.46
+CMD00270,C0138,P003,2025-04-30,3,10.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,56.15
+CMD00537,C0114,P074,2025-08-31,2,25.0,Site web,PayPal,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.22
+CMD00003,C0011,P060,2025-02-28,2,0.0,Site web,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.25
+CMD00273,C0118,P017,2026-03-29,2,30.0,Marketplace,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,19.0
+CMD00884,C0072,P018,2025-07-05,1,5.0,Site web,Carte cadeau,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,93.72
+CMD00876,C0069,P001,2025-02-28,3,20.0,Application,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,122.2
+CMD00875,C0075,P016,2026-02-11,2,,Application,Carte bancaire,En cours,1.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,121.37
+CMD00373,C0124,P059,2025-03-18,1,0.0,Site web,PayPal,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.18
+CMD00559,C0127,P006,2025-12-07,3,15.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,37.59
+CMD00769,C0116,P024,2025-04-30,3,10.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.64
+CMD00296,C0111,P059,2025-11-13,2,0.0,Site web,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,57.65
+CMD00743,C0025,P033,2026-01-23,1,0.0,Site web,Carte bancaire,Retournée,,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,67.5
+CMD00604,C0154,P001,2025-05-21,1,0.0,Site web,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,131.27
+CMD00220,C0152,P005,2026-02-05,1,0.0,Boutique,PayPal,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,17.62
+CMD00376,C0139,P004,2025-06-17,3,25.0,Site web,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.02
+CMD00686,C0017,P040,2025-01-31,2,5.0,Application,Carte bancaire,Livrée,2.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.9
+CMD00085,C0101,P069,2026-03-01,1,0.0,Application,Carte bancaire,Livrée,5.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,35.04
+CMD00278,C0077,P006,2026-02-19,5,10.0,Site web,Virement,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.0
+CMD00482,C0067,P059,2025-04-02,8,25.0,Site web,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,57.54
+CMD00320,C0041,P054,2026-02-20,6,10.0,Site web,Virement,Retournée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,35.82
+CMD00781,C0015,P075,2025-06-12,10,5.0,Site web,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.29
+CMD00852,C0038,P047,2026-02-23,1,10.0,Site web,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,34.6
+CMD00714,C0017,P009,2025-08-27,1,0.0,Application,Carte bancaire,Livrée,,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,40.73
+CMD00895,C0029,P046,2026-03-06,3,20.0,Site web,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.23
+CMD00466,C0119,P039,2025-04-05,2,0.0,Site web,Carte bancaire,En cours,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,76.54
+CMD00568,C0148,P070,2025-02-07,1,,Site web,PayPal,Retournée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,140.12
+CMD00922,C0014,P065,2026-03-16,3,15.0,Boutique,Virement,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,89.03
+CMD00847,C0009,P071,2026-02-12,1,,Site web,Carte bancaire,Annulée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.73
+CMD01005,C0044,P031,2025-08-17,1,10.0,Site web,Carte bancaire,Annulée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00909,C0156,P016,2025-08-08,1,5.0,Marketplace,PayPal,Annulée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,116.09
+CMD00567,C0152,P029,2025-12-18,1,20.0,Boutique,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.41
+CMD00521,C0158,P075,2025-06-16,2,20.0,Application,Carte cadeau,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.71
+CMD00065,C0073,P059,2026-03-27,2,10.0,Application,Carte cadeau,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,56.64
+CMD00133,C0105,P035,2025-05-05,1,15.0,Application,PayPal,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-10.08
+CMD00958,C0134,P055,2025-06-18,6,10.0,Application,Carte bancaire,Livrée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,66.64
+CMD00613,C0122,P053,2025-07-16,2,,Site web,Carte bancaire,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,25.5
+CMD00708,C0134,P058,2025-06-09,8,20.0,Site web, carte bancaire ,Retournée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,110.96
+CMD00082,C0125,P031,2025-12-23,2,15.0,Application,PayPal,Annulée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00276,C0114,P022,2026-03-09,4,0.0,Marketplace,Carte bancaire,Retournée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,7.85
+CMD00639,C0128,P027,2025-04-29,4,0.0,Marketplace,Virement,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,74.8
+CMD00116,C0077,P071,2025-02-06,5,30.0,Site web,PayPal,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.15
+CMD00192,C0026,P017,2025-04-22,1,,Marketplace,Carte bancaire,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,19.24
+CMD00813,C0020,P004,2025-06-05,8,5.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.18
+CMD00951,C0139,P053,2025-06-29,2,10.0,Site web,Virement,Livrée,4.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,24.59
+CMD01006,C0111,P025,2025-06-27,5,20.0,Application,Carte bancaire,Livrée,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.47
+CMD00805,C0119,P044,2025-08-13,2,0.0,Site web,PayPal,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,110.0
+CMD00318,C0093,P012,2025-09-14,2,,Application,Carte bancaire,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,79.96
+CMD00501,C0157,P016,2025-09-14,1,5.0,Site web,Carte bancaire,En cours,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,107.09
+CMD00260,C0099,P028,2025-02-17,2,5.0,Application,PayPal,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,224.78
+CMD00667,C0115,P038,2025-10-26,1,0.0,Marketplace,Carte bancaire,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.02
+CMD00183,C0044,P067,2025-04-07,2,0.0,Site web,Carte cadeau,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,70.0
+CMD00698,C0111,P033,2025-03-14,4,0.0,Site web,Carte bancaire,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,86.73
+CMD00832,C0083,P036,2025-01-10,2,20.0,Site web,Carte bancaire,Retournée,4.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.1
+CMD00596,C0048,P056,2026-01-06,2,10.0,Site web,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.55
+CMD00587,C0122,P068,2026-03-20,2,0.0,Site web,Carte bancaire,En cours,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00937,C0021,P016,2025-02-22,1,10.0,Boutique,Carte bancaire,Livrée,,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,116.68
+CMD00553,C0074,P044,2025-06-08,2,,Site web,Carte bancaire,Livrée,,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,111.07
+CMD00723,C0075,P021,2025-11-30,35,10.0,Application,Carte bancaire,Livrée,5.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,73.55
+CMD00007,C0155,P053,2025-10-29,1,15.0,Marketplace,Carte bancaire,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,25.99
+CMD00893,C0081,P026,2025-09-25,1,5.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,117.0
+CMD00818,C0010,P019,2025-07-22,1,5.0,Web,Carte bancaire,Livrée,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,129.68
+CMD00422,C0114,P021,2025-12-20,1,5.0,Site web,Carte bancaire,Livrée,2.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,85.44
+CMD00697,C0064,P048,2025-11-08,1,10.0,Application,Carte cadeau,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,68.95
+CMD00041,C0013,P021,2026-01-07,4,25.0,Site web,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,79.48
+CMD00333,C0132,P070,2025-05-26,1,20.0,Site web,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,146.55
+CMD00789,C0125,P033,2025-10-11,3,0.0,Site web,Carte bancaire,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.33
+CMD00309,C0006,P007,2025-05-13,2,25.0,Marketplace,PayPal,Livrée,3.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,76.79
+CMD00358,C0143,P011,2025-10-14,3,10.0,Site web,Carte bancaire,En cours,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.48
+CMD00018,C0037,P002,2025-05-20,1,15.0,Application,Virement,Livrée,5.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.64
+CMD00939,C0086,P075,2025-08-04,1,0.0,Marketplace,Carte bancaire,Livrée,4.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.83
+CMD00226,C0129,P001,2026-02-04,2,10.0,Application,PayPal,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,135.53
+CMD00886,C0038,P052,2025-09-17,1,0.0,Application,Carte cadeau,En cours,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,77.17
+CMD00301,C0087,P068,2026-01-04,3,10.0,Site web,Carte bancaire,Retournée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00699,C0072,P013,2026-02-03,2,5.0,Application,Carte cadeau,Retournée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,95.65
+CMD00607,C0111,P032,2025-10-18,1,20.0,Site web,Carte bancaire,En cours,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,94.7
+CMD00620,C0072,P033,2025-03-10,4,5.0,Site web,Carte bancaire,En cours,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,76.4
+CMD01023,C0090,P017,2025-04-26,1,0.0,Site web,Virement,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,17.19
+CMD01049,C0109,P017,2025-03-16,1,0.0,Site web,Carte bancaire,Livrée,1.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,19.22
+CMD00474,C0113,P009,2025-10-27,1,0.0,Site web,Virement,Livrée,3.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.69
+CMD00991,C0018,P069,2026-02-19,1,0.0,Site web,Carte cadeau,Annulée,4.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,37.21
+CMD00782,C0102,P060,2025-08-28,3,10.0,Site web,Carte bancaire,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.26
+CMD00500,C0140,P038,2025-07-12,1,0.0,Application,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,71.69
+CMD00944,C0041,P027,2025-10-06,2,15.0,Marketplace,Carte bancaire,Livrée,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,84.16
+CMD00019,C0145,P038,2025-03-26,1,5.0,Marketplace,PayPal,Retournée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,67.57
+CMD00545,C0147,P038,2025-04-04,8,20.0,Site web,PayPal,Retournée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,67.58
+CMD01046,C0127,P037,2025-08-02,2,15.0,Site web,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.66
+CMD00539,C0105,P060,2025-09-12,5,5.0,Site web,PayPal,Livrée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.57
+CMD00033,C0049,P047,2025-10-10,5,20.0,Marketplace,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,32.48
+CMD00054,C0073,P017,2025-01-13,5,5.0,Site web,PayPal,Livrée,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,19.65
+CMD00215,C0144,P038,2025-12-07,4,10.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,76.06
+CMD01021,C0081,P046,2025-01-29,1,15.0,Site web,PayPal,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.02
+CMD00643,C0133,P040,2026-02-19,1,5.0,Site web,PayPal,Livrée,1.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,40.2
+CMD00778,C0146,P001,2025-12-24,3,5.0,Site web,Virement,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,135.97
+CMD00237,C0149,P033,2025-09-17,2,0.0,Marketplace,PayPal,Livrée,3.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,77.36
+CMD00295,C0119,P054,2025-04-15,1,25.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,37.3
+CMD00913,C0042,P051,2025-11-21,5,0.0,Application,PayPal,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,64.63
+CMD00629,C0049,P036,2025-09-08,5,0.0,Application,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,37.29
+CMD00975,C0029,P037,2026-02-26,6,0.0,Site web,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.85
+CMD00079,C0017,P035,2026-03-17,1,5.0,Site web,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-10.17
+CMD00582,C0040,P030,2025-10-31,1,0.0,Application,PayPal,Livrée,3.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.19
+CMD00615,C0123,P057,2026-03-27,1,10.0,Marketplace,Carte bancaire,Annulée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.23
+CMD00043,C0160,P075,2026-02-18,1,30.0,Application,PayPal,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.5
+CMD00357,C0048,P066,2025-05-18,3,5.0,Application,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.56
+CMD00016,C0008,P026,2025-08-24,2,0.0,Application,PayPal,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,127.56
+CMD00308,C0157,P004,2025-06-04,1,10.0,Marketplace,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.0
+CMD00637,C0140,P024,2025-04-15,1,0.0,Boutique,Virement,Retournée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,84.99
+CMD00028,C0082,P009,2025-07-26,4,10.0,Site web,Carte bancaire,Livrée,4.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.4
+CMD00302,C0073,P063,2025-01-04,3,0.0,Application,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,20.55
+CMD00564,C0140,P050,2025-04-05,1,20.0,Site web,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.04
+CMD00494,C0048,P008,2025-09-08,2,10.0,Site web,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,30.72
+CMD01019,C0076,P027,2026-01-14,2,10.0,Application,Carte bancaire,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,80.62
+CMD00026,C0014,P028,2026-01-06,5,,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,235.41
+CMD00965,C0131,P016,2025-11-19,1,15.0,Application,Virement,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,113.62
+CMD00571,C0078,P023,2025-06-17,1,0.0,Application,virement,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,28.52
+CMD00978,C0025,P073,2025-09-22,2,30.0,Application,Carte bancaire,Livrée,4.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.29
+CMD00031,C0013,P046,2025-08-23,1,5.0,Marketplace,Carte bancaire,Livrée,1.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.45
+CMD00479,C0102,P070,2025-02-02,8,0.0,Site web,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,144.6
+CMD00527,C0108,P030,2025-05-13,1,5.0,Marketplace,Carte bancaire,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.58
+CMD00862,C0042,P054,2025-01-21,1,0.0,Site web,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.05
+CMD00496,C0028,P030,2025-07-19,2,15.0,Site web,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.35
+CMD00767,C0010,P053,2026-03-03,4,10.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,24.42
+CMD00516,C0160,P023,2025-03-16,4,0.0,Site web,PayPal,Livrée,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,31.66
+CMD00267,C0155,P051,2025-08-22,1,10.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,63.56
+CMD00135,C0113,P069,2026-03-13,5,0.0,Application,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,34.24
+CMD00106,C0032,P007,2025-06-10,1,,Marketplace,Carte bancaire,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,74.91
+CMD00008,C0142,P005,2026-12-21,2,15.0,Site web,Virement,Livrée,5.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,16.11
+CMD00513,C0027,P054,2025-07-20,2,5.0,Site web,Carte bancaire,Livrée,4.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.26
+CMD00126,C0044,P072,2025-01-25,1,0.0,Application,Carte bancaire,Livrée,4.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,22.01
+CMD00959,C0139,P050,2025-05-02,1,0.0,Marketplace,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.61
+CMD00284,C0112,P018,2025-11-16,3,5.0,Site web,PayPal,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,93.09
+CMD00374,C0160,P047,2025-03-08,8,0.0,Site web,PayPal,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.45
+CMD00866,C0093,P021,2025-03-29,2,0.0,Application,PayPal,Livrée,2.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,79.43
+CMD00692,C0019,P048,2025-04-27,2,0.0,Site web,Carte bancaire,Livrée,,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,74.86
+CMD00846,C0054,P073,2026-03-24,1,0.0,Application,Carte bancaire,En cours,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.71
+CMD00200,C0027,P063,2025-09-13,1,0.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,21.93
+CMD00851,C0131,P042,2025-05-24,2,0.0,Boutique,Carte bancaire,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,37.23
+CMD00120,C0024,P011,2025-08-21,10,15.0,Site web,Virement,Livrée,2.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.18
+CMD00081,C0105,P004,2025-12-30,1,10.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,50.37
+CMD00682,C0067,P063,2025-09-03,2,15.0,Application,Carte bancaire,Livrée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,22.51
+CMD00633,C0105,P019,2025-02-12,1,0.0,Site web,Virement,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,132.07
+CMD00212,C0129,P005,2025-01-23,2,5.0,Application,Virement,Retournée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,17.43
+CMD00715,C0058,P050,2025-08-03,1,5.0,Site web,Carte bancaire,Livrée,4.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.46
+CMD00570,C0076,P004,2025-08-24,1,10.0,Site web,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.05
+CMD00306,C0133,P033,2025-05-21,1,,Application,CB,Livrée,,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,82.63
+CMD00859,C0109,P070,2025-02-07,5,0.0,Site web,Carte bancaire,Livrée,3.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,142.99
+CMD00685,C0049,P038,2025-08-22,2,0.0,Boutique,PayPal,Livrée,1.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,70.96
+CMD00825,C0038,P016,2025-07-31,2,,Site web,PayPal,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,116.8
+CMD01020,C0055,P054,2025-07-29,1,15.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,32.05
+CMD00259,C0143,P024,2025-08-14,8,15.0,Application,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,65.3
+CMD00272,C0117,P070,2025-01-03,2,10.0,Application,Carte bancaire,Annulée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,147.15
+CMD00887,C0024,P040,2025-11-06,1,10.0,Site web,Carte bancaire,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.1
+CMD00102,C0036,P040,2025-07-06,5,15.0,Boutique,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.68
+CMD00617,C0139,P056,2025-12-05,2,10.0,Site web,Carte bancaire,En cours,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.67
+CMD00502,C0061,P054,2025-09-26,10,,Application,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00577,C0062,P062,2026-03-11,2,10.0,Application,PayPal,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,106.19
+CMD00599,C0021,P070,2025-03-24,3,25.0,Site web,Carte bancaire,Livrée,2.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,130.37
+CMD00848,C0145,P061,2025-07-16,1,0.0,Site web,PayPal,En cours,5.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,16.56
+CMD00952,C0007,P047,2025-09-04,3,0.0,Application,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,33.22
+CMD00806,C0104,P022,2025-03-21,1,15.0,Application,Virement,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,8.24
+CMD00300,C0157,P048,2026-01-21,2,0.0,Marketplace,PayPal,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,69.39
+CMD00684,C0114,P061,2025-10-06,2,0.0,Site web,PayPal,Retournée,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,17.44
+CMD00880,C0090,P049,2025-11-29,2,10.0,Site web,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,28.59
+CMD00175,C0126,P043,2025-06-18,2,5.0,Marketplace,Carte bancaire,Retournée,1.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00517,C0150,P040,2025-04-26,2,15.0,Application,Carte bancaire,Livrée,1.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.03
+CMD00957,C0109,P009,2025-05-12,3,,Application,VIREMENT,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,40.73
+CMD00400,C0087,P055,2025-06-07,3,5.0,Application,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,59.94
+CMD00917,C0054,P075,2025-12-30,2,15.0,Site web,Carte bancaire,Livrée,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.76
+CMD00788,C0084,P059,2025-02-15,3,5.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.41
+CMD00873,C0079,P008,2025-08-24,1,0.0,Site web,Carte bancaire,Retournée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,30.91
+CMD00810,C0087,P064,2025-04-20,2,5.0,Site web,Carte cadeau,Livrée,5.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,29.55
+CMD00375,C0113,P047,2025-07-10,1,10.0,Site web,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,35.3
+CMD01016,C0144,P045,2025-10-29,8,10.0,Site web,Carte bancaire,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.6
+CMD00663,C0066,P004,2025-11-09,2,20.0,Marketplace,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.02
+CMD00543,C0064,P008,2026-02-23,1,10.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,32.85
+CMD00371,C8888,P075,2025-09-04,1,0.0,Site web,Carte bancaire,Livrée,2.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.64
+CMD00186,C0076,P059,2025-09-12,1,10.0,Site web,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.56
+CMD01007,C0101,P007,2026-03-08,1,0.0,Application,PayPal,Annulée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.14
+CMD00835,C0035,P020,2025-12-07,8,10.0,Marketplace,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.58
+CMD00597,C0145,P073,2025-10-04,2,15.0,Site web,Carte bancaire,Retournée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,53.23
+CMD00816,C0009,P009,2025-08-13,2,0.0,Site web,Carte cadeau,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.96
+CMD00594,C0151,P020,2026-01-18,5,0.0,Marketplace,Carte bancaire,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.9
+CMD00417,C0002,P024,2025-11-24,1,25.0,Marketplace,Carte bancaire,Livrée,3.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,84.7
+CMD00890,C0160,P055,2025-09-06,2,0.0,Application,Virement,En cours,,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.11
+CMD00924,C0160,P052,2025-04-10,4,0.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.99
+CMD00390,C0003,P032,2026-01-24,3,10.0,Site web,PayPal,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,96.54
+CMD00933,C0103,P011,2025-07-29,1,0.0,Site web,PayPal,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.22
+CMD00397,C0134,P029,2025-10-06,2,0.0,Site web,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.42
+CMD00792,C0036,P050,2025-08-20,4,15.0,Site web,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.36
+CMD00562,C0154,P054,2025-06-01,1,0.0,Application,Virement,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.1
+CMD00755,C0159,P050,2025-11-30,3,10.0,Marketplace,Carte bancaire,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.47
+CMD00369,C0093,P016,2025-10-02,1,10.0,Site web,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,103.55
+CMD00960,C0049,P049,2025-09-15,1,5.0,Marketplace,Virement,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,28.64
+CMD00136,C0090,P033,2025-03-18,1,0.0,Marketplace,Carte bancaire,Livrée,4.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,76.68
+CMD00680,C0150,P064,2026-01-01,5,10.0,Application,Carte cadeau,Retournée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,30.95
+CMD00370,C0030,P003,2025-08-19,2,0.0,Application,Carte bancaire,En cours,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.01
+CMD00861,C0077,P069,2025-08-23,4,10.0,Site web,Carte cadeau,Livrée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.56
+CMD00248,C0088,P017,2025-09-07,1,25.0,Application,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,19.02
+CMD00351,C0155,P054,2025-12-14,2,0.0,Boutique,PayPal,Livrée,,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.84
+CMD00435,C0062,P040,2025-03-05,1,10.0,Marketplace,Carte bancaire,En cours,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.0
+CMD00419,C0076,P020,2025-11-29,1,10.0,Marketplace,Carte bancaire,Annulée,2.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.08
+CMD00549,C0135,P058,2025-04-25,1,0.0,Marketplace,Carte bancaire,En cours,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,101.77
+CMD01033,C0097,P042,2025-05-10,1,0.0,Marketplace,Carte cadeau,Retournée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,35.58
+CMD00822,C0148,P037,2025-08-24,2,,Application,Carte bancaire,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,50.01
+CMD00719,C0005,P075,2025-11-18,1,0.0,Application,Virement,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.95
+CMD00804,C0010,P048,2025-12-29,2,10.0,Site web,Carte bancaire,Livrée,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,66.8
+CMD00669,C0023,P060,2025-01-02,5,0.0,Application,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.74
+CMD00595,C0151,P070,2025-10-25,8,0.0,Application,Virement,Livrée,4.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,146.07
+CMD00147,C0101,P020,2025-06-06,1,0.0,Site web,Carte bancaire,En cours,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.76
+CMD00638,C0145,P022,2025-07-04,1,,Site web,Virement,En cours,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,8.66
+CMD00864,C0033,P049,2025-11-16,3,5.0,Application,Carte bancaire,Retournée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,29.43
+CMD01047,C0048,P022,2025-09-04,3,0.0,Site web,Carte bancaire,Retournée,1.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,7.73
+CMD00327,C0127,P048,2025-08-28,10,10.0,Site web,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,68.26
+CMD01003,C0127,P074,2025-08-28,1,,Site web,Carte cadeau ,Livrée,5.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.62
+CMD00141,C0122,P025,2025-12-22,1,5.0,Site web,Carte bancaire,Livrée,3.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.82
+CMD00962,C0139,P020,2025-03-30,1,0.0,Site web,PayPal,Livrée,2.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,53.67
+CMD00475,C0119,P011,2025-08-11,1,5.0,Site web,PayPal,Livrée,,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.39
+CMD00426,C0082,P051,2025-07-16,4,30.0,Site web,Carte bancaire,En cours,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,62.68
+CMD00798,C0139,P071,2025-10-10,1,30.0,Site web,Virement,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,53.76
+CMD01017,C0091,P015,2025-05-24,1,0.0,Boutique,Carte bancaire,Livrée,3.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,87.55
+CMD00027,C0109,P014,2025-12-10,8,30.0,Site web,Virement,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.45
+CMD00156,C0158,P072,2025-04-19,1,5.0,Application,Carte bancaire,Livrée,,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,21.55
+CMD00949,C0035,P049,2025-08-22,2,0.0,Application,Virement,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,30.67
+CMD00442,C0160,P003,2025-06-07,2,5.0,Application,Virement,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.09
+CMD00705,C0127,P056,2025-08-11,1,0.0,Application,Carte bancaire,En cours,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.61
+CMD00729,C0073,P003,2025-07-08,6,10.0,Site web,Carte cadeau,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.96
+CMD00495,C0009,P066,2025-05-14,5,5.0,Application,PayPal,Livrée,,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.65
+CMD00575,C0021,P004,2026-02-20,1,10.0,Site web,Carte bancaire,Retournée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,56.68
+CMD00971,C0051,P002,2025-09-27,1,5.0,Site web,Carte cadeau,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,61.83
+CMD00452,C0155,P036,2025-07-06,1,0.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.07
+CMD00100,C0150,P031,2025-12-16,2,10.0,Site web,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00349,C0009,P049,2026-02-11,1,,Site web,Carte bancaire,Livrée,5.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,27.81
+CMD00428,C0056,P045,2026-01-11,2,10.0,Site web,Virement,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,59.25
+CMD00879,C0059,P009,2025-12-17,1,0.0,Application,Carte bancaire,Annulée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.46
+CMD00167,C0032,P063,2026-02-19,4,0.0,Marketplace,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,21.45
+CMD00345,C0031,P069,2025-08-03,1,0.0,Site web,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,37.55
+CMD00631,C0048,P039,2025-05-28,1,0.0,Site web,Carte bancaire,Livrée,,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,78.78
+CMD00024,C0076,P041,2025-11-25,2,10.0,Application,PayPal,Annulée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,4087.35
+CMD00589,C0030,P012,2025-02-13,2,,Marketplace,Carte bancaire,Retournée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,73.82
+CMD00205,C0121,P004,2025-11-04,3,5.0,Site web,Carte bancaire,Livrée,,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.54
+CMD00034,C0124,P035,2026-01-29,1,0.0,Site web,Carte bancaire,Livrée,4.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-10.49
+CMD00198,C0056,P009,2026-03-31,3,15.0,Site web,PayPal,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,40.87
+CMD00619,C0085,P065,2025-02-08,3,5.0,Site web,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,91.58
+CMD00877,C0136,P073,2025-03-24,1,0.0,Site web,PayPal,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,59.88
+CMD00736,C0012,P060,2026-02-16,2,10.0,Marketplace,Carte cadeau,Livrée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.95
+CMD00679,C0132,P016,2025-04-22,1,0.0,Marketplace,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,117.84
+CMD01010,C0038,P053,2027-01-24,1,10.0,Site web,Carte bancaire,Livrée,4.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,25.16
+CMD00914,C0121,P035,2025-12-26,3,0.0,Application,Virement,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-10.91
+CMD00010,C0147,P050,2025-10-29,1,5.0,Boutique,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.87
+CMD00011,C0112,P023,2026-01-24,2,20.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,27.38
+CMD00080,C0125,P013,2025-08-31,6,0.0,Application,PayPal,Annulée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,97.43
+CMD00616,C0026,P011,2026-02-04,2,0.0,Application,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.62
+CMD00702,C0153,P021,2025-05-11,1,15.0,Site web,Carte bancaire,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,88.46
+CMD00119,C0004,P020,2025-12-19,1,10.0,Marketplace,Virement,Livrée,3.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.09
+CMD00997,C0039,P052,2026-01-01,1,0.0,Application,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,77.19
+CMD00235,C0085,P044,2025-10-23,10,0.0,Marketplace,Carte bancaire,En cours,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,104.91
+CMD00554,C0043,P032,2025-09-20,2,20.0,Application,Carte bancaire,Livrée,,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,106.35
+CMD00579,C0048,P006,2026-01-25,3,15.0,Site web,Carte bancaire,Livrée,5.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.99
+CMD00290,C0041,P018,2025-10-06,2,0.0,Site web,PayPal,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,81.37
+CMD00217,C0024,P035,2025-04-14,1,0.0,Application,Carte bancaire,Annulée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-10.47
+CMD00050,C0041,P001,2025-06-29,2,0.0,Marketplace,Virement,Livrée,1.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,124.19
+CMD00921,C0069,P035,2026-01-21,2,0.0,Site web,Carte bancaire,Retournée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-9.91
+CMD00467,C0052,P055,2025-11-06,2,0.0,Site web,Carte bancaire,Livrée,,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,62.41
+CMD00955,C0079,P073,2025-03-18,5,0.0,Application,Carte bancaire,En cours,1.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,50.71
+CMD00566,C0117,P009,2026-12-25,2,15.0,Site web,Virement,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.79
+CMD00652,C0105,P066,2025-08-19,2,5.0,Site web,Carte bancaire,Retournée,3.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.73
+CMD00145,C0011,P071,2025-07-07,3,15.0,Site web,Carte bancaire,Livrée,,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.47
+CMD00523,C0099,P060,2025-02-03,5,15.0,Application,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.27
+CMD00730,C0050,P028,2025-04-26,1,5.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,225.09
+CMD00833,C0068,P052,2025-12-16,2,0.0,Marketplace,Carte bancaire,Livrée,4.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,79.1
+CMD00334,C0038,P025,2025-03-23,10,15.0,Application,Carte bancaire,Livrée,,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,34.9
+CMD00113,C0134,P011,2025-03-03,1,0.0,Site web,PayPal,Livrée,4.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.99
+CMD00469,C0020,P026,2025-03-31,2,0.0,Site web,PayPal,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,131.73
+CMD00612,C0033,P065,2025-04-16,5,10.0,Site web,Carte bancaire,Retournée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,93.48
+CMD00361,C0093,P047,2025-11-03,8,20.0,Site web,Carte bancaire,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,33.2
+CMD00683,C0100,P055,2026-02-05,4,5.0,Marketplace,Carte bancaire,Annulée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,62.95
+CMD00712,C0003,P003,2025-11-25,1,5.0,Marketplace,Carte cadeau,Livrée,4.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,53.6
+CMD00701,C0100,P006,2025-04-26,1,30.0,Boutique,Carte bancaire,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.44
+CMD00339,C0031,P008,2025-02-08,2,0.0,Site web,Carte bancaire,Livrée,4.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,32.51
+CMD00878,C0055,P003,2026-03-30,2,5.0,Application,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,56.12
+CMD00999,C0157,P058,2025-03-07,2,5.0,Application,Carte bancaire,Livrée,2.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,104.04
+CMD00688,C0030,P052,2025-08-01,2,0.0,Application,PayPal,Livrée,4.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,90.59
+CMD00636,C0104,P009,2025-06-10,4,0.0,Marketplace,Carte bancaire,Livrée,3.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.79
+CMD00352,C0007,P042,2025-04-02,4,10.0,Application,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.66
+CMD00717,C0089,P017,2026-02-13,3,5.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,17.57
+CMD00727,C0114,P007,2025-06-01,1,0.0,Marketplace,PayPal,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,80.9
+CMD00990,C0052,P010,2025-11-19,1,0.0,Site web,Carte bancaire,Annulée,2.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,23.19
+CMD00754,C0135,P020,2025-12-15,1,10.0,Boutique,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,45.62
+CMD00772,C0031,P057,2025-05-08,1,0.0,Site web,PayPal,Livrée,5.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,74.28
+CMD00412,C0048,P067,2025-03-14,1,5.0,Marketplace,Virement,Livrée,3.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,65.83
+CMD00323,C0123,P002,2025-07-03,1,25.0,Application,Carte bancaire,Livrée,,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,61.6
+CMD00776,C0124,P017,2025-07-29,1,10.0,Site web,Carte bancaire,Retournée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,19.41
+CMD00703,C0052,P061,2026-03-18,5,,Site web,Virement,Annulée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,16.68
+CMD00910,C0111,P072,2025-09-21,2,0.0,Application,Carte bancaire,En cours,5.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,22.37
+CMD00184,C0043,P052,2026-02-28,3,5.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,80.69
+CMD00892,C0079,P057,2025-06-20,1,10.0,Site web,Carte cadeau,Livrée,3.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,72.19
+CMD00368,C0148,P030,2025-09-11,3,0.0,Site web,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.73
+CMD00807,C0120,P069,2025-07-23,4,10.0,Site web,Carte cadeau,Livrée,,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,34.67
+CMD00462,C0138,P043,2025-10-16,1,20.0,Boutique,Virement,Livrée,2.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00343,C0022,P033,2025-07-15,3,0.0,Marketplace,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,71.5
+CMD00307,C0124,P050,2025-10-08,8,10.0,Site web,Carte bancaire,Livrée,2.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.91
+CMD00218,C0078,P032,2025-04-06,2,5.0,Marketplace,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,100.56
+CMD00790,C7777,P040,2025-07-31,3,10.0,Site web,Carte bancaire,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.73
+CMD00038,C0130,P010,2025-10-30,2,0.0,Boutique,Carte cadeau,Livrée,4.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,21.87
+CMD00314,C0135,P010,2025-05-17,3,20.0,Site web,PayPal,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,21.6
+CMD00747,C0155,P054,2025-02-04,1,0.0,Site web,Carte bancaire,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.9
+CMD00189,C0040,P005,2026-02-22,1,0.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,16.79
+CMD00332,C0032,P053,2026-02-26,1,10.0,Site web,PayPal,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,27.7
+CMD00037,C0141,P016,2025-09-01,3,30.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,115.8
+CMD00901,C0147,P047,2025-12-15,1,,Marketplace,Carte bancaire,Livrée,2.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,34.38
+CMD00540,C0145,P028,2025-05-14,1,10.0,Marketplace,PayPal,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,211.88
+CMD00928,C0146,P003,2025-07-31,6,10.0,Boutique,Carte bancaire,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.31
+CMD00556,C0041,P013,2026-02-26,2,5.0,Application,PayPal,En cours,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,87.15
+CMD00404,C0111,P065,2025-10-05,1,20.0,Application,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,91.07
+CMD00700,C0098,P068,2025-08-15,1,10.0,Application,Carte bancaire,Retournée,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00661,C0075,P064,2025-10-20,1,25.0,Marketplace,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,35.04
+CMD00234,C0126,P073,2025-09-17,8,30.0,Site web,Carte bancaire,En cours,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.81
+CMD00103,C0117,P020,2025-08-25,1,10.0,Application,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.5
+CMD01027,C0148,P060,2026-01-09,1,5.0,Marketplace,PayPal,Annulée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,53.72
+CMD00477,C0047,P012,2025-04-28,6,5.0,Site web,Carte cadeau,Annulée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,77.93
+CMD01024,C0089,P066,2025-05-07,4,,Site web,Carte bancaire,Retournée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.07
+CMD00066,C0060,P060,2025-03-11,4,20.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.02
+CMD00722,C0102,P015,2025-04-15,3,0.0,Site web,PayPal,Livrée,,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,97.27
+CMD00434,C0149,P054,2026-02-24,1,0.0,Marketplace,Virement,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,34.69
+CMD00164,C0036,P042,2025-03-25,1,20.0,Application,Carte cadeau,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.0
+CMD00264,C0054,P045,2026-01-08,1,10.0,Site web,Carte bancaire,Retournée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,50.59
+CMD00232,C0086,P039,2025-07-08,3,0.0,Boutique,Carte bancaire,Livrée,5.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,89.98
+CMD00470,C0123,P019,2026-02-18,10,0.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,123.29
+CMD00236,C0153,P016,2025-12-31,5,0.0,Site web,Carte bancaire,Livrée,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,116.78
+CMD00416,C0028,P072,2025-01-25,2,10.0,Site web,Virement,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,21.22
+CMD00176,C0091,P070,2026-02-13,2,0.0,Site web,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,142.65
+CMD00889,C0014,P058,2025-11-15,3,0.0,Boutique,Carte bancaire,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,100.58
+CMD00992,C0033,P024,2025-06-30,1,0.0,Site web,Carte bancaire,Livrée,,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.26
+CMD00303,C0085,P021,2025-11-30,1,5.0,Site web,Carte bancaire,Livrée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,73.69
+CMD00072,C0059,P075,2025-07-09,2,15.0,Application,Carte bancaire,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.09
+CMD00169,C0024,P003,2025-07-02,2,0.0,Site web,Carte bancaire,Livrée,3.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,59.17
+CMD00456,C0121,P025,2025-12-01,1,10.0,Marketplace,PayPal,Retournée,3.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,34.56
+CMD00090,C0022,P006,2025-12-12,1,,Application,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,37.33
+CMD00118,C0090,P024,2025-02-06,1,0.0,Site web,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,76.18
+CMD00322,C0127,P043,2026-03-23,1,0.0,Marketplace,Carte bancaire,Livrée,2.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00463,C0027,P049,2025-05-26,2,5.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,25.94
+CMD00676,C0031,P033,2026-02-01,1,30.0,Application,Carte cadeau,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,77.28
+CMD00460,C0137,P038,2025-12-10,4,0.0,Application,PayPal,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,66.86
+CMD01032,C0159,P020,2025-09-01,1,15.0,Site web,PayPal,Retournée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.55
+CMD00583,C0012,P009,2025-06-26,2,10.0,Application,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.08
+CMD00062,C0021,P025,2025-03-06,1,10.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,35.73
+CMD00760,C0011,P014,2026-02-27,2,10.0,Site web,PayPal,Livrée,3.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-1.0
+CMD00187,C0077,P050,2025-07-12,8,5.0,Site web,PayPal,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.47
+CMD00492,C0104,P041,2026-03-15,2,10.0,Application,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,4088.47
+CMD00402,C0096,P018,2025-03-16,2,10.0,Marketplace,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,89.46
+CMD00233,C0157,P056,2025-11-12,1,0.0,Site web,Virement,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,63.54
+CMD00542,C0009,P066,2025-06-16,1,0.0,Boutique,PayPal,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.76
+CMD00724,C0054,P043,2025-01-22,1,0.0,Site web,PAYPAL,Livrée,1.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00073,C0058,P064,2025-05-16,1,0.0,Site web,Carte bancaire,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,33.18
+CMD00468,C0041,P066,2025-10-11,1,0.0,Application,Carte bancaire,Retournée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.1
+CMD00894,C0075,P022,2025-05-07,8,0.0,Marketplace,Carte bancaire,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,7.78
+CMD00271,C0108,P014,2025-10-10,2,5.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,56.04
+CMD00112,C0138,P002,2025-09-17,3,15.0,Marketplace,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,63.22
+CMD00519,C0005,P013,2025-12-28,2,0.0,Marketplace,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,100.3
+CMD00548,C0106,P023,2025-07-16,4,10.0,Boutique,PayPal,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,28.78
+CMD00672,C0090,P066,2025-02-04,1,10.0,Site web, PayPal ,Retournée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.24
+CMD00227,C0103,P058,2026-02-21,1,0.0,Application,Carte bancaire,Livrée,,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,97.58
+CMD00330,C0010,P068,2025-04-26,1,5.0,Site web,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00464,C0127,P070,2026-02-19,2,0.0,Marketplace,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,155.52
+CMD00598,C0100,P075,2026-01-03,8,10.0,Boutique,Carte bancaire,Annulée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.34
+CMD00759,C0019,P026,2025-07-17,1,0.0,Site web,Carte bancaire,Retournée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,127.31
+CMD00196,C0116,P052,2025-02-16,2,,Application,Carte bancaire,En cours,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,85.01
+CMD00337,C0091,P003,2026-01-17,1,10.0,Application,Virement,Livrée,,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,56.54
+CMD00366,C0112,P016,2025-10-27,8,20.0,Application,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,118.85
+CMD00827,C0020,P048,2025-08-04,2,15.0,Site web,Carte cadeau,En cours,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,70.28
+CMD00029,C0005,P045,2025-09-02,1,0.0,Site web,PayPal,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,50.62
+CMD00820,C0117,P070,2025-09-02,1,15.0,boutique,Carte cadeau,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,136.74
+CMD00626,C0032,P003,2025-07-21,3,0.0,Marketplace,Virement,Livrée,2.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.25
+CMD00943,C0036,P050,2025-12-04,4,5.0,site web ,Carte bancaire,Livrée,2.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.02
+CMD00733,C0106,P074,2025-09-28,4,0.0,Site web,PayPal,Livrée,5.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.56
+CMD00138,C0060,P043,2026-03-16,10,5.0,Site web,Carte bancaire,Livrée,3.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00746,C0122,P024,2025-03-11,3,5.0,Site web,Carte bancaire,Livrée,1.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.86
+CMD00811,C0032,P014,2026-01-08,2,5.0,Application,PayPal,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.51
+CMD00478,C0089,P045,2025-11-02,1,0.0,Application,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.55
+CMD00508,C0083,P057,2025-10-03,2,20.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,74.5
+CMD00528,C0080,P026,2025-03-18,3,0.0,Application,PayPal,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,119.4
+CMD00394,C0083,P043,2025-07-12,1,5.0,Boutique,Carte bancaire,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00383,C0040,P057,2025-03-21,2,20.0,Site web,PayPal,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,84.02
+CMD00222,C0149,P027,2025-10-26,1,30.0,Site web,PayPal,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,85.99
+CMD00713,C0096,P043,2025-11-17,10,20.0,Boutique,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00704,C0022,P029,2025-07-31,1,0.0,Boutique,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,45.18
+CMD00329,C0147,P004,2025-01-05,1,5.0,Site web,Carte bancaire,Annulée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.53
+CMD00013,C0084,P022,2025-09-24,2,0.0,WEB,Carte bancaire,Retournée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,7.97
+CMD00645,C0061,P047,2025-01-29,1,15.0,Site web,Virement,En cours,5.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,35.1
+CMD00987,C0073,P008,2025-05-13,1,10.0,Site web,Carte bancaire,En cours,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,33.12
+CMD00207,C0035,P068,2025-10-15,4,0.0,Site web,PayPal,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00104,C0042,P024,2025-09-04,1,,Site web,Carte bancaire,Livrée,1.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,82.08
+CMD00310,C0136,P021,2025-11-25,2,25.0,Application,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.53
+CMD00550,C0081,P072,2025-03-06,6,5.0,Application,Carte bancaire,Livrée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,20.06
+CMD00181,C0106,P018,2025-10-07,5,0.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,87.33
+CMD00953,C0046,P009,2026-01-25,1,0.0,Site web,Virement,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.53
+CMD00498,C0148,P039,2025-08-07,1,15.0,Site web,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,87.22
+CMD00317,C0049,P011,2025-05-04,1,10.0,Boutique,Carte bancaire,Livrée,3.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.96
+CMD00142,C0126,P056,2025-07-30,1,5.0,Marketplace,Virement,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,62.17
+CMD00710,C0056,P066,2025-03-08,5,10.0,Boutique,Virement,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.46
+CMD00834,C0132,P007,2025-03-01,1,5.0,Application,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,76.72
+CMD01035,C0156,P014,2026-02-21,1,0.0,Application,PayPal,Livrée,1.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.01
+CMD00211,C0091,P069,2025-09-08,1,0.0,Site web,PayPal,Annulée,3.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.96
+CMD00143,C0117,P057,2025-07-24,1,10.0,Site web,PayPal,En cours,4.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,71.89
+CMD00515,C0157,P030,2025-12-17,1,5.0,Site web,Carte cadeau,En cours,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.03
+CMD00363,C0033,P032,2025-08-08,3,10.0,Site web,Carte cadeau,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,104.63
+CMD00005,C0011,P056,2025-03-08,1,0.0,Site web,Carte cadeau,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,61.86
+CMD00045,C0070,P044,2025-02-17,2,0.0,Marketplace,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,105.43
+CMD00282,C0070,P064,2025-06-08,1,0.0,Application,Carte bancaire,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,29.05
+CMD00203,C0048,P999,2025-05-16,2,10.0,Site web,Carte cadeau,En cours,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-1.0
+CMD00608,C0054,P032,2025-02-19,4,10.0,Site web,Carte bancaire,Livrée,,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,101.6
+CMD00359,C0081,P068,2025-07-30,1,20.0,Site web,Carte bancaire,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00561,C0096,P018,2025-03-01,2,20.0,Site web,PayPal,Livrée,3.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,87.7
+CMD00372,C0058,P068,2026-01-27,2,5.0,Application,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00649,C0014,P018,2025-10-11,3,5.0,Site web,PayPal,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,89.69
+CMD00773,C0091,P016,2025-08-18,1,5.0,Marketplace,Carte bancaire,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,122.21
+CMD00238,C0078,P027,2025-03-12,5,10.0,Site web,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,83.87
+CMD00671,C0014,P048,2025-10-29,8,20.0,Site web,PayPal,Livrée,1.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.34
+CMD00274,C7777,P063,2025-06-26,2,10.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,21.05
+CMD00735,C0043,P029,2026-03-06,1,,Site web,Carte bancaire,Livrée,,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.21
+CMD00195,C0063,P033,2025-06-24,4,10.0,Application,Carte bancaire,En cours,,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,83.35
+CMD00514,C0029,P075,2026-02-24,4,10.0,Application,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.75
+CMD01039,C0049,P035,2025-05-31,2,,Application,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-8.94
+CMD00563,C0047,P011,2025-01-17,3,0.0,Site web,Carte bancaire,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.22
+CMD00210,C0080,P065,2025-06-20,1,0.0,Boutique,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,89.07
+CMD00163,C0134,P057,2025-07-26,1,0.0,Site web,Carte bancaire,Livrée,2.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.18
+CMD00721,C0015,P029,2025-07-26,1,0.0,Site web,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.21
+CMD00976,C0055,P003,2025-04-18,5,15.0,Boutique,Carte bancaire,Livrée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.74
+CMD00088,C0040,P017,2026-01-23,1,20.0,Marketplace,PayPal,Livrée,3.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,18.14
+CMD00799,C0020,P060,2025-12-19,1,5.0,Application,Carte bancaire,Annulée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.21
+CMD00925,C0057,P032,2025-08-08,1,0.0,Site web,Carte bancaire,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,107.79
+CMD00191,C0011,P001,2025-08-11,120,10.0,Application,Virement,Livrée,2.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,123.59
+CMD00179,C0044,P072,2025-02-17,1,15.0,Marketplace,Virement,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,20.72
+CMD00557,C0069,P032,2025-08-03,1,5.0,Site web,PayPal,En cours,,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,101.95
+CMD00611,C0019,P013,2026-02-20,1,0.0,Marketplace,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,91.93
+CMD00393,C0140,P021,2025-12-05,1,0.0,Site web,Virement,Retournée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,72.2
+CMD00021,C0122,P018,2025-10-30,1,0.0,Boutique,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,99.97
+CMD00606,C0018,P999,2026-01-02,1,0.0,Site web,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.44
+CMD00984,C0144,P051,2025-08-03,1,15.0,Marketplace,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,62.01
+CMD00748,C0083,P048,2025-02-20,2,10.0,Site web,Carte bancaire,Livrée,3.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,67.84
+CMD00512,C0058,P070,2025-02-13,6,,Site web,Carte bancaire,Livrée,,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,148.34
+CMD00665,C0006,P027,2025-11-16,1,10.0,Application,Carte cadeau,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,83.49
+CMD00440,C0085,P030,2025-09-16,2,0.0,Site web,Carte cadeau,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.71
+CMD00472,C0073,P027,2026-01-05,2,0.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,83.08
+CMD00399,C0132,P043,2026-02-18,2,10.0,Site web,Carte bancaire,Livrée,1.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00657,C0050,P058,2025-10-27,1,10.0,Site web,PayPal,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,92.93
+CMD00036,C0002,P033,2025-12-19,1,0.0,Application,Carte bancaire,Retournée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,72.01
+CMD00753,C0019,P042,2025-02-25,1,15.0,Site web,Virement,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.63
+CMD00793,C0059,P018,2025-05-30,1,10.0,Application,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,80.48
+CMD00044,C0049,P046,2026-02-04,1,0.0,Site web,Carte bancaire,Livrée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.18
+CMD00262,C0078,P040,2025-03-29,2,0.0,Site web,Virement,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.08
+CMD00603,C0053,P059,2025-06-27,2,5.0,Site web,Carte bancaire,Livrée,2.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,57.14
+CMD00430,C0037,P031,2025-10-02,1,0.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00229,C0110,P036,2026-01-01,10,25.0,Marketplace,Carte bancaire,Livrée,3.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.23
+CMD00006,C0036,P011,2025-04-10,1,10.0,Boutique,Carte bancaire,Livrée,3.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.71
+CMD01048,C0062,P040,2025-06-12,3,15.0,Application,Carte bancaire,En cours,4.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.58
+CMD00963,C0086,P026,2025-10-31,8,5.0,Site web,Carte bancaire,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,125.01
+CMD00586,C0064,P070,2025-05-02,1,0.0,Site web,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,137.8
+CMD00319,C0100,P023,2025-08-16,3,0.0,Application,Carte bancaire,Annulée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,27.17
+CMD00938,C0071,P073,2025-12-22,10,0.0,Application,Carte bancaire,Annulée,2.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,57.93
+CMD00313,C0025,P039,2025-01-04,3,25.0,Site web,Carte bancaire,En cours,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,76.56
+CMD00076,C0040,P035,2025-12-10,2,0.0,Site web,Carte cadeau,Retournée,,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-9.68
+CMD00174,C0006,P063,2025-01-16,2,30.0,Boutique,Virement,Retournée,3.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,22.3
+CMD00897,C0070,P028,2025-12-16,1,10.0,Site web,Carte bancaire,En cours,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,220.24
+CMD00052,C0033,P010,2025-10-19,4,0.0,Site web,PayPal,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,23.01
+CMD00552,C0026,P074,2025-05-25,2,10.0,Site web,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.03
+CMD00845,C0066,P074,2025-01-07,4,0.0,Site web,Carte bancaire,Livrée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.93
+CMD00981,C0095,P030,2025-10-26,1,0.0,application,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.92
+CMD00221,C0037,P039,2025-07-11,5,15.0,Application,Virement,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,81.28
+CMD00509,C0006,P046,2026-01-17,8,,Marketplace,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.14
+CMD00802,C0123,P051,2025-10-25,2,0.0,Boutique,Carte bancaire,Livrée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,63.17
+CMD00388,C0160,P042,2026-01-02,1,5.0,Marketplace,Carte bancaire,Annulée,2.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.84
+CMD00094,C0030,P020,2025-04-07,1,0.0,Marketplace,Carte bancaire,Livrée,1.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.41
+CMD00149,C0112,P010,2026-03-25,5,5.0,Site web,Carte bancaire,Livrée,1.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,23.14
+CMD00483,C0014,P016,2025-05-16,6,0.0,Marketplace,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,117.39
+CMD00908,C0136,P049,2026-03-18,1,5.0,Application,Carte bancaire,Livrée,2.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,29.67
+CMD00250,C0123,P009,2025-09-12,5,10.0,Marketplace,PayPal,Annulée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.12
+CMD00341,C0032,P023,2025-05-21,2,0.0,Application,Carte bancaire,Annulée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,28.08
+CMD00720,C0089,P075,2025-06-22,1,10.0,Application,PayPal,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,45.05
+CMD00201,C0153,P069,2025-11-10,4,10.0,Marketplace,Carte bancaire,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,34.27
+CMD00092,C0032,P067,2025-09-20,2,0.0,Site web,Carte bancaire,Livrée,3.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,65.35
+CMD00541,C0072,P021,2025-05-16,1,15.0,Marketplace,Carte bancaire,Livrée,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,77.81
+CMD00585,C0019,P071,2025-07-14,5,,Site web,Virement,Livrée,2.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.14
+CMD00443,C0109,P068,2025-04-13,3,0.0,Marketplace,Virement,Livrée,4.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00610,C0037,P050,2025-11-29,2,20.0,Site web,PayPal,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,45.41
+CMD01040,C0047,P023,2025-05-02,2,,Site web,PayPal,Livrée,2.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,30.63
+CMD00281,C0027,P064,2025-02-22,8,0.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,32.59
+CMD00411,C0131,P057,2025-08-07,1,5.0,Boutique,Carte bancaire,Livrée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,73.35
+CMD00668,C0100,P019,2025-11-09,2,25.0,Marketplace,Carte bancaire,En cours,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,139.43
+CMD00784,C0128,P034,2026-01-10,2,0.0,Site web,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.21
+CMD00569,C0035,P062,2026-02-24,1,10.0,Marketplace,Carte bancaire,Livrée,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,123.39
+CMD00809,C0010,P016,2025-03-31,3,,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,116.43
+CMD00988,C0131,P074,2025-09-11,5,5.0,Site web,PayPal,Livrée,,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,45.49
+CMD00336,C0126,P012,2025-07-06,1,15.0,Site web,Carte bancaire,Annulée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,90.96
+CMD00929,C0018,P031,2025-11-08,1,0.0,Site web,Carte bancaire,Livrée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00837,C0072,P014,2025-12-12,2,0.0,Application,Carte bancaire,Retournée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,53.12
+CMD00985,C0088,P025,2025-05-29,2,0.0,Marketplace,Virement,Annulée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,32.46
+CMD00756,C0079,P002,2025-06-29,2,20.0,Marketplace,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,59.86
+CMD00507,C0146,P008,2025-10-16,1,5.0,Site web,PayPal,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,32.97
+CMD00801,C0118,P020,2025-01-20,3,5.0,Site web,Carte bancaire,Livrée,3.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.38
+CMD01043,C0078,P049,2025-05-11,1,,Boutique,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,28.13
+CMD00093,C0114,P016,2025-12-26,4,0.0,Site web,Virement,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,107.41
+CMD00593,C0111,P023,2025-12-03,1,0.0,Site web,Carte bancaire,Livrée,,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,27.39
+CMD01029,C0103,P035,2026-02-25,1,0.0,APP,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-9.26
+CMD00787,C0038,P015,2025-12-27,1,,Site web,Carte bancaire,Livrée,4.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,90.79
+CMD00919,C0129,P019,2025-04-04,1,0.0,Site web,Virement,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,130.18
+CMD00972,C0134,P017,2025-11-25,1,5.0,Marketplace,Carte bancaire,Livrée,5.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,16.2
+CMD00576,C0119,P071,2025-08-19,1,0.0,Marketplace,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,56.31
+CMD00574,C0100,P004,2025-12-25,1,15.0,Boutique,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.65
+CMD00279,C0022,P034,2026-01-06,1,5.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.75
+CMD00280,C0101,P025,2026-02-10,4,0.0,Site web,Carte bancaire,Livrée,2.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,31.85
+CMD00640,C0124,P018,2025-04-25,2,0.0,Marketplace,Carte bancaire,En cours,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,84.12
+CMD00338,C0159,P035,2025-08-27,1,10.0,Application,Carte bancaire,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-9.82
+CMD00228,C0149,P070,2025-06-17,1,0.0,Application,Carte cadeau,Retournée,4.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,152.46
+CMD00009,C0134,P065,2025-03-28,2,5.0,Marketplace,Virement,Livrée,,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,83.32
+CMD00086,C0005,P017,2025-04-29,2,10.0,Marketplace,Carte cadeau,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,20.53
+CMD00797,C0050,P041,2025-05-12,2,30.0,Site web,Carte bancaire,Livrée,4.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,3994.78
+CMD00660,C0073,P005,2025-01-24,4,20.0,Site web,Virement,Livrée,,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,16.22
+CMD00779,C0137,P030,2025-03-07,1,15.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.61
+CMD00896,C0142,P012,2025-03-03,1,10.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,78.68
+CMD00097,C0133,P015,2025-12-27,2,,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,94.28
+CMD00342,C0009,P048,2025-11-11,2,5.0,Boutique,PayPal,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,62.45
+CMD00122,C0089,P043,2025-12-08,2,20.0,Boutique,PayPal,Livrée,5.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00157,C0049,P054,2025-05-26,1,0.0,Application,Carte bancaire,Livrée,2.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.54
+CMD00800,C0064,P073,2025-11-18,1,15.0,Application,Carte bancaire,Livrée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.06
+CMD00940,C0101,P065,2025-10-07,1,0.0,Site web,Carte bancaire,Livrée,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,74.62
+CMD00725,C0109,P002,2026-02-06,4,15.0,Site web,Carte bancaire,Livrée,1.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,57.33
+CMD00634,C0023,P015,2026-02-06,1,20.0,Application,Carte bancaire,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,89.84
+CMD00471,C0153,P067,2025-09-19,1,0.0,Application,Carte bancaire,Livrée,2.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,65.82
+CMD00558,C0143,P013,2025-04-15,1,,Marketplace,Carte bancaire,Livrée,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,92.76
+CMD00294,C0037,P032,2025-12-03,2,15.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,100.85
+CMD00872,C0025,P018,2026-01-19,1,5.0,Boutique,Carte bancaire,Retournée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,91.74
+CMD00794,C0070,P062,2025-12-24,3,0.0,Site web,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,129.98
+CMD00165,C0143,P055,2026-02-11,2,10.0,Marketplace,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,64.31
+CMD00795,C0094,P003,2025-10-28,3,5.0,Site web,Carte bancaire,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.36
+CMD00283,C0134,P055,2026-01-10,8,,Site web,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.69
+CMD00365,C0017,P039,2025-05-21,3,0.0,Application,Carte bancaire,Retournée,1.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,69.2
+CMD00311,C0074,P059,2025-05-18,2,0.0,Site web,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.5
+CMD00511,C0004,P016,2025-06-06,2,0.0,Site web,Carte bancaire,Livrée,2.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,118.88
+CMD00180,C0066,P057,2025-11-25,3,,Application,Carte bancaire,Livrée,1.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,72.78
+CMD00070,C0108,P030,2026-03-17,1,0.0,Site web,Carte bancaire,Livrée,2.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.99
+CMD00996,C0020,P069,2025-06-17,1,0.0,Site web,Carte bancaire,Retournée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,32.24
+CMD00956,C0015,P014,2026-03-03,2,10.0,Site web,Carte cadeau,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.73
+CMD00731,C0123,P051,2025-08-04,1,0.0,Site web,Virement,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,62.38
+CMD01012,C0061,P003,2026-02-21,1,,Application,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,57.65
+CMD00059,C0058,P041,2025-12-16,1,20.0,Marketplace,Carte cadeau,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,4292.95
+CMD00945,C0050,P046,2025-04-19,1,15.0,Site web,Carte bancaire,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.21
+CMD00364,C0042,P050,2025-09-04,1,15.0,Site web,Carte bancaire,Livrée,5.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.01
+CMD00899,C0060,P045,2025-05-16,3,0.0,Site web,Carte bancaire,Livrée,1.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.91
+CMD00266,C0054,P062,2025-09-30,1,10.0,Application,Carte bancaire,Livrée,2.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,109.0
+CMD00817,C0050,P002,2025-06-13,2,5.0,Site web,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,63.03
+CMD00853,C0084,P040,2025-08-06,1,0.0,Site web,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.06
+CMD00381,C0040,P064,2025-11-05,10,15.0,Marketplace,PayPal,Annulée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,34.25
+CMD00605,C0025,P036,2025-05-23,1,5.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.25
+CMD00728,C0084,P002,2026-01-11,4,10.0,Application,PayPal,Livrée,1.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,63.28
+CMD00814,C0028,P055,2025-09-10,6,5.0,Site web,Carte cadeau,Retournée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,63.16
+CMD00777,C0014,P049,2025-01-19,3,0.0,Boutique,Carte cadeau,Retournée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,29.86
+CMD00148,C0033,P060,2025-11-01,2,0.0,Application,Carte bancaire,Livrée,3.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.12
+CMD00252,C0139,P007,2026-03-28,4,5.0,Marketplace,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,76.2
+CMD00690,C0085,P037,2026-01-16,5,0.0,Site web,Carte bancaire,Livrée,5.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.54
+CMD00926,C0099,P011,2025-12-06,1,0.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,45.83
+CMD00213,C0040,P016,2025-03-21,4,0.0,Site web,Virement,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00441,C0117,P019,2025-08-09,2,5.0,Marketplace,Carte bancaire,Livrée,3.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,114.24
+CMD00936,C0031,P007,2026-03-19,1,5.0,Site web,Carte bancaire,Retournée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,78.9
+CMD00331,C0136,P058,2025-05-27,3,,Site web,Carte cadeau,Livrée,1.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,97.03
+CMD00830,C0010,P062,2026-03-14,1,0.0,Site web,Carte bancaire,Retournée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,125.61
+CMD00277,C0041,P069,2026-02-15,10,0.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.5
+CMD00850,C0122,P008,2025-06-11,2,0.0,Site web,Carte bancaire,Retournée,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,30.78
+CMD00836,C0023,P014,2026-03-04,2,,Site web,Carte bancaire,Retournée,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,56.87
+CMD00711,C0030,P066,2025-06-26,1,5.0,Site web,Carte bancaire,Livrée,5.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.69
+CMD00961,C0150,P065,2025-02-23,1,0.0,Site web,Carte bancaire,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,81.54
+CMD00449,C0119,P062,2025-02-20,2,25.0,Marketplace,Carte bancaire,Livrée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,104.51
+CMD00386,C0078,P041,2025-08-01,1,25.0,Site web,PayPal,Livrée,,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,3474.4
+CMD00750,C0138,P021,2025-04-05,1,0.0,Application,Carte cadeau,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,81.03
+CMD00525,C0065,P054,2025-04-23,1,0.0,Site web,PayPal,Annulée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,35.99
+CMD00304,C0067,P075,2026-01-14,2,0.0,Marketplace,PayPal,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,50.86
+CMD00488,C0013,P063,2026-02-23,2,0.0,Application,Carte cadeau,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,23.59
+CMD00786,C0066,P045,2025-09-17,5,10.0,Marketplace,Carte bancaire,En cours,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.51
+CMD00912,C0132,P011,2026-02-26,2,10.0, Site web,Carte bancaire,Retournée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.39
+CMD00020,C0096,P071,2026-01-25,1,10.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.95
+CMD00325,C0132,P005,2025-05-25,1,30.0,Application,Carte bancaire,Livrée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,17.86
+CMD00261,C0041,P043,2025-10-22,2,0.0,Site web,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00903,C0049,P071,2025-04-09,1,0.0,Marketplace,Virement,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,59.06
+CMD00410,C0096,P021,2026-02-14,1,0.0,Site web,Carte bancaire,En cours,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,73.91
+CMD00401,C0146,P061,2025-10-20,1,5.0,Application,Carte cadeau,Livrée,2.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,16.84
+CMD01050,C0156,P009,2025-01-04,1,5.0,Site web,PayPal,Livrée,4.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.37
+CMD00055,C0120,P025,2026-03-05,1,0.0,Boutique,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.74
+CMD00947,C0127,P048,2026-01-04,6,15.0,Site web,Carte bancaire,Livrée,5.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,65.79
+CMD00151,C0049,P044,2026-01-13,3,0.0,Site web,Carte bancaire,Retournée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,110.93
+CMD00927,C0068,P015,2025-12-08,2,10.0,Site web,Virement,Livrée,2.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,82.93
+CMD00935,C0030,P010,2025-03-08,3,0.0,Marketplace,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,24.11
+CMD01041,C0008,P050,2025-06-16,1,5.0,Site web,PayPal,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.29
+CMD00770,C0067,P042,2026-03-21,1,0.0,Site web,Carte bancaire,Annulée,5.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.87
+CMD00107,C0089,P041,2025-09-13,1,15.0,Marketplace,Virement,Annulée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,4068.56
+CMD00771,C0022,P011,2025-07-01,3,0.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.48
+CMD00025,C0146,P047,2025-08-18,1,10.0,Boutique,PayPal,Annulée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,33.53
+CMD00977,C0024,P073,2026-03-02,1,0.0,Marketplace,Carte bancaire,Annulée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.43
+CMD00534,C0146,P060,2025-10-15,1,5.0,Application,Carte bancaire,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.57
+CMD00867,C0150,P018,2025-10-28,1,5.0,Application,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,86.9
+CMD00083,C0039,P011,2025-04-25,1,10.0,Application,Carte bancaire,En cours,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.86
+CMD00898,C0017,P002,2025-10-15,5,30.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.49
+CMD00918,C0116,P018,2026-02-27,1,10.0,Site web,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,85.12
+CMD00614,C0087,P021,2025-09-04,1,10.0,Site web,paypal,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,82.8
+CMD00380,C0146,P005,2027-01-02,2,0.0,Site web,Carte bancaire,Livrée,3.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,20.15
+CMD00077,C0075,P025,2025-12-30,1,10.0,Site web,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,34.35
+CMD00389,C0033,P051,2025-04-18,3,0.0,Site web,Carte bancaire,Retournée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,59.13
+CMD00407,C0021,P001,2025-04-30,1,,Marketplace,Virement,Livrée,4.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,136.54
+CMD00292,C0025,P034,2025-09-08,5,0.0,Marketplace,Carte bancaire,Annulée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.87
+CMD00716,C0116,P045,2026-02-21,1,0.0,Boutique,Carte bancaire,Livrée,2.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,45.0
+CMD00111,C0057,P037,2026-02-12,1,15.0,Site web,Virement,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.66
+CMD00625,C0026,P015,2026-03-30,1,0.0,Site web,PayPal,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,100.18
+CMD00842,C0054,P074,2026-03-21,2,5.0,Application,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.73
+CMD00821,C0080,P025,2025-11-12,1,25.0,Site web,Carte bancaire,Annulée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.81
+CMD00247,C0134,P040,2025-01-31,2,0.0,Marketplace,Carte bancaire,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,37.41
+CMD00146,C0138,P020,2026-03-23,1,0.0,Marketplace,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.47
+CMD00129,C0040,P033,2025-09-18,5,10.0,Boutique,Virement,Livrée,1.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,72.68
+CMD00907,C0039,P017,2025-02-22,6,0.0,Marketplace,Virement,Livrée,2.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,17.55
+CMD00623,C0140,P033,2025-12-29,4,,Marketplace,PayPal,Livrée,2.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,85.15
+CMD01034,C0037,P056,2025-03-16,1,0.0,Application,Carte cadeau,Livrée,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.21
+CMD01008,C0079,P013,2025-02-21,1,0.0,Marketplace,Carte bancaire,Retournée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,89.11
+CMD00487,C0122,P044,2025-02-26,1,0.0,Application,Carte bancaire,Livrée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,114.01
+CMD00969,C0095,P012,2025-01-20,2,30.0,Application,Carte bancaire,Livrée,3.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,74.86
+CMD00091,C0141,P045,2025-07-25,2,5.0,Marketplace,Carte bancaire,Livrée,3.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.45
+CMD00206,C0012,P015,2025-10-28,3,0.0,Marketplace,Virement,Retournée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,87.31
+CMD00493,C0136,P031,2025-04-26,1,0.0,Site web,Carte bancaire,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00171,C0048,P043,2025-12-12,2,5.0,Site web,Carte bancaire,Annulée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00980,C0050,P009,2025-03-25,1,0.0,Marketplace,Carte cadeau,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.55
+CMD00934,C0116,P021,2025-08-26,5,5.0,Marketplace,Virement,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,83.86
+CMD00057,C0079,P045,2025-09-20,1,0.0,Marketplace ,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,50.45
+CMD00405,C0146,P069,2025-02-15,2,10.0,Marketplace,Carte bancaire,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.67
+CMD00242,C0082,P057,2025-03-31,5,20.0,Site web,Carte bancaire,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,77.32
+CMD00600,C0004,P013,2025-06-16,1,0.0,Application,Carte bancaire,Annulée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,92.53
+CMD00347,C0141,P035,2025-02-23,3,15.0,Site web,Carte cadeau,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-10.92
+CMD00098,C0004,P019,2025-11-07,1,,Site web,Carte bancaire,Livrée,4.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,132.27
+CMD00117,C0146,P025,2026-01-13,6,15.0,Application,Virement,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.43
+CMD00202,C0076,P060,2025-05-19,5,5.0,Application,PayPal,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.15
+CMD00946,C0151,P002,2025-01-26,10,20.0,Site web,Carte bancaire,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,62.75
+CMD00480,C0091,P032,2025-08-24,2,,Site web,PayPal,Livrée,,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,115.84
+CMD00324,C0050,P044,2025-04-22,1,0.0,Boutique,Carte bancaire,Retournée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,109.6
+CMD00194,C0156,P038,2026-03-08,2,5.0,Site web,Carte bancaire,En cours,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,64.4
+CMD00964,C8888,P037,2025-07-01,1,0.0,Site web,PayPal,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.66
+CMD00444,C0077,P057,2025-12-08,1,20.0,Site web,Carte bancaire,En cours,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,62.11
+CMD00726,C0052,P017,2026-02-23,2,0.0,Boutique,Virement,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,18.84
+CMD00865,C0002,P049,2026-01-01,1,10.0,Marketplace,Carte bancaire,Livrée,4.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,28.8
+CMD00455,C0131,P006,2025-06-17,4,25.0,Site web,PayPal,Retournée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.11
+CMD00529,C0151,P041,2026-01-26,6,20.0,Site web,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,3929.4
+CMD00855,C0026,P060,2025-07-02,1,20.0,Site web,Carte bancaire,Retournée,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.2
+CMD00551,C0016,P059,2025-11-08,1,0.0,Application,Virement,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.94
+CMD01031,C0038,P053,2025-12-22,1,10.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,29.02
+CMD00069,C0038,P010,2025-08-24,2,20.0,Site web,Carte bancaire,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,19.79
+CMD00425,C0040,P020,2025-02-13,2,10.0,Site web,Carte bancaire,Annulée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.76
+CMD00297,C0113,P041,2025-06-06,1,5.0,Application,PayPal,Livrée,,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,4079.25
+CMD00738,C0040,P033,2025-11-18,1,0.0,Site web,PayPal,Livrée,2.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.85
+CMD00954,C0119,P042,2026-02-12,2,10.0,Site web,Carte bancaire,En cours,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.72
+CMD00602,C0106,P005,2025-08-25,1,20.0,Application,Carte cadeau,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,19.15
+CMD00874,C0046,P017,2026-02-18,1,5.0,Marketplace,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,18.17
+CMD00396,C0108,P005,2025-01-15,2,15.0,Marketplace,Virement,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,16.29
+CMD00427,C0121,P030,2025-08-05,1,0.0,Boutique,Carte cadeau,Livrée,,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.97
+CMD00870,C0129,P071,2025-05-04,1,0.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.92
+CMD00560,C0055,P064,2025-01-31,2,0.0,Boutique,Carte bancaire,Livrée,1.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,32.21
+CMD00526,C0154,P072,2026-02-13,1,5.0,Marketplace,Carte bancaire,Livrée,,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,20.51
+CMD01030,C0134,P057,2025-05-12,1,20.0,Site web,Carte bancaire,Livrée,5.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,67.77
+CMD00015,C0133,P054,2025-06-05,2,20.0,Marketplace,Virement,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.8
+CMD00253,C0090,P050,2025-01-27,3,0.0,Site web,PayPal,Livrée,3.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.95
+CMD00239,C0117,P070,2025-03-03,4,5.0,Site web,cb,Livrée,4.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,138.69
+CMD00121,C0018,P011,2025-01-29,1,5.0,Marketplace,Carte bancaire,Livrée,,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.98
+CMD00286,C0032,P021,2026-02-03,3,10.0,Marketplace,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,81.53
+CMD00555,C0040,P010,2025-03-13,1,20.0,Application,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,24.11
+CMD00197,C0058,P039,2025-04-13,2,25.0,Application,Carte bancaire,En cours,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,71.99
+CMD00346,C0040,P026,2025-05-27,1,0.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,125.65
+CMD00546,C0051,P017,2026-02-05,2,10.0,Site web,PayPal,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,19.5
+CMD00251,C0070,P011,2025-04-01,2,5.0,Marketplace,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.99
+CMD00995,C0097,P061,2025-05-23,1,0.0,Marketplace,Carte bancaire,Livrée,,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-1.0
+CMD00646,C0098,P018,2026-01-28,5,5.0,Application,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,90.95
+CMD01014,C0154,P049,2025-07-23,10,10.0,Marketplace,PayPal,Livrée,4.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,29.51
+CMD00413,C0027,P016,2025-01-16,3,,Site web,Virement,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,118.71
+CMD00486,C0050,P034,2025-03-17,2,5.0,Application,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,57.39
+CMD00431,C0154,P060,2025-01-22,3,30.0,Application,PayPal,Retournée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.18
+CMD00841,C0115,P025,2025-08-23,3,5.0,Site web,Carte cadeau,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.11
+CMD00815,C0031,P056,2025-05-13,2,0.0,Site web,CB,En cours,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.55
+CMD00291,C0097,P015,2026-02-24,1,0.0,Marketplace,Virement,Livrée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,93.87
+CMD00017,C0105,P007,2026-01-16,1,0.0,Site web,Carte bancaire,Livrée,5.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.63
+CMD00159,C0011,P057,2025-04-11,1,,Application,Carte bancaire,En cours,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,79.93
+CMD00244,C0160,P055,2026-01-05,2,0.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,65.69
+CMD00067,C0050,P051,2025-04-29,1,25.0,Site web,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,69.07
+CMD00986,C0014,P049,2025-04-29,2,10.0,Site web,Carte Bancaire,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,31.56
+CMD00360,C0060,P040,2025-09-15,1,15.0,Site web,Carte bancaire,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,40.56
+CMD01015,C0044,P046,2025-08-09,1,0.0,Application,PayPal,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.28
+CMD00632,C0062,P066,2025-05-15,3,0.0,Site web,Carte bancaire,Livrée,3.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.77
+CMD00505,C0141,P044,2025-12-29,1,5.0,Marketplace,PayPal,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,118.77
+CMD00473,C0110,P062,2025-08-26,4,0.0,Application,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,121.72
+CMD01026,C0092,P018,2025-11-19,1,,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,88.68
+CMD00578,C0139,P039,2025-12-11,1,0.0,Marketplace,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.82
+CMD01037,C0062,P025,2025-09-02,4,15.0,Site web,Carte bancaire,Livrée,4.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,33.65
+CMD00522,C0084,P060,2025-04-22,2,10.0,Site web,Carte cadeau,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.4
+CMD00932,C0045,P031,2025-07-11,1,25.0,Application,Carte bancaire,Annulée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00531,C0013,P008,2025-02-23,1,0.0,Application,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,35.73
+CMD00409,C0140,P026,2025-02-28,5,0.0,Application,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,132.59
+CMD00666,C0026,P007,2025-12-03,2,0.0,Site web,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,79.76
+CMD00973,C0019,P043,2025-07-17,1,15.0,Site web,Carte cadeau,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00433,C0040,P021,2026-02-25,1,,Application,PayPal,Livrée,4.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,85.15
+CMD00432,C0081,P026,2026-02-25,1,15.0,Site web,Carte bancaire,En cours,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,120.2
+CMD00485,C0123,P063,2025-02-10,1,25.0,Marketplace,Carte bancaire,Livrée,4.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,21.65
+CMD00152,C0021,P060,2025-09-25,2,20.0,Site web,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.81
+CMD00328,C0062,P055,2025-03-07,4,20.0,Site web,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,60.85
+CMD00257,C0109,P038,2026-02-22,5,10.0,Site web,Carte cadeau,En cours,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,76.19
+CMD00312,C0097,P063,2025-07-31,1,10.0,Site web,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,22.26
+CMD00854,C0002,P006,2025-07-04,1,5.0,Site web,Carte bancaire,Livrée,1.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.93
+CMD00305,C0152,P002,2025-12-04,3,0.0,Marketplace,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.91
+CMD00785,C0004,P001,2025-01-30,2,20.0,Site web,Carte bancaire,Livrée,,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,112.61
+CMD00414,C0141,P036,2025-11-07,2,0.0,Site web,Carte bancaire,En cours,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.37
+CMD00134,C0111,P003,2025-05-28,2,5.0,Application,Carte bancaire,Livrée,3.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.46
+CMD00032,C0028,P054,2025-08-06,1,20.0,Marketplace,Carte bancaire,En cours,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,37.44
+CMD00766,C0134,P052,2025-06-02,1,0.0,Site web,PayPal,Livrée,2.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,77.38
+CMD00783,C0050,P016,2025-12-14,2,15.0,Application,Carte bancaire,Annulée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,101.93
+CMD00459,C0041,P071,2025-08-03,1,0.0,Marketplace,PayPal,En cours,,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,56.06
+CMD00162,C0116,P065,2025-06-17,2,5.0,Marketplace,Carte bancaire,Livrée,2.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,87.99
+CMD00340,C0002,P020,2025-10-15,2,0.0,Application,Virement,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.2
+CMD00287,C0160,P049,2025-08-22,1,0.0,Boutique,Carte bancaire,Retournée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,30.79
+CMD00249,C0021,P049,2025-07-06,1,0.0,Application,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,29.31
+CMD01002,C0081,P025,2025-02-22,1,5.0,Site web,Carte bancaire,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,35.78
+CMD00580,C0136,P004,2025-07-13,2,0.0,Site web,Virement,Livrée,1.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,50.29
+CMD00891,C0042,P003,2025-11-26,1,10.0,Site web,PayPal,Annulée,,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,57.35
+CMD00849,C0062,P072,2025-09-18,1,0.0,Application,PayPal,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,22.18
+CMD00998,C0021,P060,2025-09-09,2,30.0,Application,Virement,Livrée,,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.31
+CMD00002,C0049,P075,2026-01-06,1,0.0,Application,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,44.49
+CMD00737,C0066,P044,2025-05-28,1,15.0,Site web,Carte bancaire,Livrée,,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,116.35
+CMD00208,C0108,P061,2026-01-02,3,0.0,Site web,Virement,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,18.14
+CMD00630,C0121,P074,2025-04-23,1,10.0,Marketplace,PayPal,Retournée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.41
+CMD00994,C0089,P048,2026-01-26,8,15.0,Application,Carte bancaire,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,74.44
+CMD00906,C0063,P038,2025-05-23,2,0.0,Site web,Carte bancaire,Livrée,4.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,64.85
+CMD00916,C0094,P010,2026-01-29,1,20.0,Site web,Carte bancaire,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,20.46
+CMD00265,C0123,P021,2025-11-27,1,10.0,Site web,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,76.32
+CMD00275,C0041,P033,2025-10-01,5,10.0,Marketplace,PayPal,Annulée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,76.48
+CMD00071,C0113,P034,2025-09-08,1,10.0,Site web,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,53.16
+CMD00641,C0137,P067,2025-06-21,2,5.0,Application,PayPal,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,60.76
+CMD00445,C0020,P064,2025-06-25,2,,Boutique,PayPal,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,32.34
+CMD00902,C0141,P052,2025-04-16,5,,Site web,Carte cadeau,Livrée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,70.74
+CMD00099,C0143,P002,2025-08-08,3,0.0,Marketplace,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,71.09
+CMD00923,C0132,P045,2025-01-17,1,5.0,Site web,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.49
+CMD00022,C0146,P057,2025-08-29,2,15.0,Boutique,Virement,Retournée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,74.34
+CMD00706,C0078,P067,2026-02-08,3,5.0,Marketplace,Virement,Retournée,5.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,67.11
+CMD00415,C0031,P010,2025-01-27,1,0.0,Marketplace,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,23.31
+CMD00518,C0066,P003,2025-04-01,1,0.0,Site web,Carte bancaire,Livrée,1.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,53.13
+CMD00150,C0054,P034,2025-07-10,2,20.0,Site web,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,59.05
+CMD00826,C0009,P005,2025-10-10,2,0.0,Site web,PayPal,Livrée,,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,18.2
+CMD00648,C0052,P020,2025-09-06,2,0.0,Marketplace,Carte bancaire,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.57
+CMD00355,C0125,P008,2025-05-29,1,0.0,Marketplace,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,30.1
+CMD00858,C0148,P043,2025-02-27,3,10.0,Site web,PayPal,En cours,4.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD01013,C0024,P012,2025-03-16,3,20.0,Site web,Carte bancaire,Annulée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,83.82
+CMD00053,C0050,P070,2026-01-24,2,,Site web,Carte bancaire,Livrée,,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,147.75
+CMD00840,C0115,P061,2025-10-29,1,25.0,Site web,Virement,Livrée,3.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,17.58
+CMD00199,C0028,P069,2025-04-25,1,15.0,Marketplace,Carte cadeau,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,37.63
+CMD00123,C0142,P062,2025-11-23,1,5.0,Site web,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,115.55
+CMD00204,C0110,P010,2025-11-28,6,0.0,Site web,PayPal,Annulée,4.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,22.05
+CMD00068,C0149,P054,2025-01-14,6,5.0,Application,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,34.24
+CMD00224,C0106,P004,2025-11-23,1,0.0,Boutique,Carte bancaire,Annulée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.03
+CMD00128,C0107,P004,2025-08-09,10,0.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,53.53
+CMD00656,C0068,P023,2026-02-18,8,0.0,Site web,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,31.5
+CMD00839,C0142,P069,2025-09-16,1,0.0,Marketplace,Carte bancaire,Retournée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.47
+CMD00966,C0155,P061,2025-03-14,1,15.0,Boutique,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,16.55
+CMD00140,C0073,P057,2025-04-04,2,15.0,Boutique,Virement,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,76.13
+CMD00418,C0009,P014,2025-02-11,1,10.0,Site web,Carte bancaire,En cours,,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,50.21
+CMD00219,C0044,P030,2025-08-05,5,0.0,Application,Carte bancaire,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.75
+CMD00547,C0122,P065,2025-04-02,3,0.0,Site web,Carte bancaire,Annulée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,77.77
+CMD00843,C0124,P055,2025-03-20,1,,Site web,Carte bancaire,Livrée,4.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,65.23
+CMD00158,C0133,P034,2026-03-29,2,20.0,Site web,Carte bancaire,Livrée,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,59.08
+CMD00095,C0004,P057,2025-06-11,1,10.0,Site web,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,67.54
+CMD00256,C0027,P072,2025-10-15,3,0.0,Marketplace,Carte bancaire,Livrée,1.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,21.37
+CMD01042,C0112,P068,2025-05-19,3,5.0,Site web,Carte bancaire,Annulée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00644,C0041,P013,2025-09-26,3,5.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,93.66
+CMD00739,C0087,P039,2026-03-10,5,5.0,Boutique,Carte bancaire,Livrée,4.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,75.2
+CMD00040,C0020,P020,2025-03-25,1,15.0,Site web,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.82
+CMD00131,C0116,P013,2025-04-16,1,25.0,Marketplace,Carte bancaire,Livrée,4.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,101.34
+CMD00255,C0011,P022,2025-06-05,1,5.0,Site web,Carte bancaire,Livrée,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00190,C0149,P004,2025-01-09,3,0.0,Site web,Carte bancaire,Livrée,3.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.34
+CMD01022,C0146,P074,2025-11-08,2,10.0,Marketplace,Carte cadeau,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.89
+CMD00590,C0012,P042,2025-01-11,5,0.0,Marketplace,PayPal,Livrée,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,35.79
+CMD00403,C0076,P041,2025-07-21,8,5.0,Application,Carte bancaire,Retournée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,4299.1
+CMD00761,C0056,P005,2025-01-18,1,5.0,Marketplace,PayPal,Livrée,,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,15.65
+CMD00039,C0109,P008,2025-08-27,1,10.0,Site web,Carte bancaire,Livrée,,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,29.62
+CMD00243,C0136,P036,2026-02-01,8,0.0,Site web,PayPal,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,37.12
+CMD00885,C0099,P047,2025-05-28,1,20.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,35.98
+CMD00354,C0083,P061,2025-05-13,2,0.0,Marketplace,Virement,Livrée,1.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,16.86
+CMD00621,C0070,P075,2025-06-01,2,10.0,Application,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.98
+CMD00651,C0026,P011,2027-02-07,1,20.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.55
+CMD00535,C0077,P067,2025-01-13,1,0.0,Site web,Carte cadeau,En cours,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,65.8
+CMD00504,C0093,P038,2025-08-19,5,0.0,Site web,PayPal,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,69.75
+CMD00160,C0148,P046,2025-10-02,1,0.0,Site web,PayPal,Retournée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.67
+CMD00395,C0149,P005,2026-02-26,1,10.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,17.04
+CMD00883,C0077,P050,2026-02-08,2,0.0,Site web,PayPal,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.95
+CMD00538,C0141,P051,2025-12-21,5,5.0,Site web,Carte bancaire,Livrée,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,57.78
+CMD00696,C0067,P051,2025-03-04,1,15.0,Application,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,68.75
+CMD00241,C0145,P012,2025-01-12,4,5.0,Site web,Carte bancaire,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,79.98
+CMD00014,C0076,P001,2025-02-09,1,15.0,Site web,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,129.51
+CMD00658,C0005,P014,2025-01-24,8,25.0,Application,Virement,Livrée,4.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.06
+CMD00476,C0036,P016,2025-11-11,1,0.0,Boutique,Carte bancaire,Livrée,2.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,104.22
+CMD00974,C0026,P031,2025-02-07,2,20.0,Site web,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00941,C0108,P049,2025-09-15,2,0.0,Site web,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,29.18
+CMD00315,C0039,P001,2025-02-14,2,10.0,Marketplace,Carte bancaire,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,128.29
+CMD00362,C0121,P025,2025-03-20,1,0.0,Application,PayPal,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,35.27
+CMD00591,C0061,P999,2025-05-22,1,,Boutique,PayPal,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.23
+CMD00321,C0063,P042,2025-08-22,1,15.0,Application,PayPal,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.43
+CMD00983,C0039,P055,2025-04-14,1,0.0,Application,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,60.9
+CMD00745,C0146,P047,2025-08-18,1,5.0,Marketplace,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,30.19
+CMD00673,C0049,P007,2025-12-10,1,0.0,Site web,Carte bancaire,En cours,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,84.18
+CMD00565,C0125,P063,2025-11-25,1,5.0,Marketplace,Carte bancaire,Livrée,5.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,22.63
+CMD00356,C0024,P023,2026-02-18,4,10.0,Application,Carte cadeau,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,28.45
+CMD00035,C0069,P004,2026-03-16,3,0.0,Application,Carte bancaire,Livrée,3.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.72
+CMD00335,C0088,P009,2025-05-09,6,0.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.89
+CMD00689,C0073,P058,2025-04-30,2,0.0,Application,Carte bancaire,Livrée,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,100.33
+CMD00377,C0089,P047,2025-11-28,4,0.0,Application,Carte bancaire,Livrée,,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,35.72
+CMD00185,C0144,P065,2025-08-31,1,10.0,Application,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,89.98
+CMD00824,C0002,P031,2025-11-02,3,10.0,Marketplace,Carte bancaire,Livrée,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00424,C0045,P018,2025-05-23,1,5.0,Application,PayPal,En cours,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,90.13
+CMD00948,C0154,P060,2025-01-30,2,0.0,Site web,Carte bancaire,Livrée,5.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,51.2
+CMD00326,C0130,P068,2025-08-14,5,5.0,Application,Carte bancaire,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00188,C0054,P047,2025-12-31,6,5.0,Site web,PayPal,Retournée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,35.3
+CMD00942,C0094,P066,2025-07-08,1,5.0,Marketplace,Carte bancaire,En cours,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,47.98
+CMD00285,C0022,P067,2025-08-21,1,25.0,Marketplace,Carte bancaire,Retournée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,65.71
+CMD00392,C0008,P061,2025-09-07,2,10.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,15.91
+CMD00900,C0109,P033,2025-07-06,1,5.0,Boutique,Carte bancaire,Livrée,2.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,72.08
+CMD00161,C0123,P060,2025-07-04,3,10.0,Site web,Carte cadeau,Annulée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.82
+CMD00166,C0144,P021,2026-03-08,1,15.0,Application,Carte bancaire,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,67.09
+CMD00348,C0107,P068,2025-07-13,3,0.0,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00299,C0120,P041,2025-04-02,4,0.0,Site web,Virement,Retournée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,3935.18
+CMD00536,C0061,P035,2025-09-04,10,10.0,Application,Carte bancaire,Annulée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-9.34
+CMD00230,C0004,P042,2025-03-25,4,15.0,Marketplace,Carte bancaire,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.29
+CMD00860,C0040,P024,2026-02-14,1,5.0,Application,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00828,C0001,P050,2025-10-19,10,5.0,Application,PayPal,Livrée,4.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.92
+CMD00695,C0008,P067,2025-07-08,1,,Application,Virement,Livrée,2.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,67.34
+CMD00856,C0050,P019,2025-04-09,2,20.0,Marketplace,Carte bancaire,Retournée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,134.85
+CMD00042,C0033,P067,2026-03-16,1,25.0,Site web,PayPal,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,63.82
+CMD00869,C0032,P042,2025-09-17,3,0.0,Application,PayPal,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.52
+CMD00749,C0058,P057,2025-06-17,1,10.0,Application,PayPal,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,64.64
+CMD01000,C0151,P069,2025-01-20,1,5.0,Application,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,34.04
+CMD00863,C0147,P028,2025-11-20,8,5.0,Application,PayPal,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,222.1
+CMD00588,C0069,P005,2025-11-28,1,0.0,Application,Carte bancaire,Livrée,3.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,17.62
+CMD00544,C0104,P066,2025-03-15,1,15.0,Marketplace,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.53
+CMD00447,C0160,P075,2025-03-31,1,,Application,PayPal,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,50.91
+CMD00448,C0128,P068,2025-12-13,8,10.0,Application,PayPal,Livrée,,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00350,C0066,P020,2025-04-14,8,15.0,Site web,Carte bancaire,Retournée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,50.91
+CMD00046,C0090,P060,2025-01-09,2,30.0,Application,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.97
+CMD01011,C0132,P047,2025-05-25,3,5.0,Marketplace,Carte cadeau,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.39
+CMD01036,C0105,P038,2025-06-05,1,5.0,Boutique,PayPal,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,58.43
+CMD00109,C0042,P051,2025-08-08,2,5.0,Site web,Virement,Livrée,4.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,63.3
+CMD00618,C0063,P027,2025-01-18,1,,Application,Carte bancaire,En cours,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,85.47
+CMD00662,C0103,P035,2025-08-03,4,,Application,Virement,Retournée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-9.88
+CMD00030,C0029,P038,2025-02-22,1,0.0,Site web,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,66.46
+CMD00182,C0001,P070,2025-04-29,1,0.0,Site web,Carte cadeau,Annulée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,142.21
+CMD00622,C0110,P045,2025-12-27,1,10.0,Application,Carte cadeau,Retournée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.37
+CMD00420,C0018,P069,2025-01-12,1,0.0,Marketplace,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,37.18
+CMD00635,C0036,P038,2025-03-10,5,0.0,Application,Carte bancaire,Livrée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,70.84
+CMD00796,C0066,P067,2025-11-03,2,0.0,Site web,Carte bancaire,Livrée,2.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,64.05
+CMD00105,C0046,P009,2025-02-12,1,20.0,Application,Carte bancaire,Annulée,5.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,42.48
+CMD00061,C0030,P029,2026-01-09,2,0.0,Marketplace,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.93
+CMD00659,C0135,P072,2025-05-13,1,0.0,Site web,Carte bancaire,Retournée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,21.44
+CMD00084,C0116,P001,2026-03-17,1,10.0,Application,PayPal,Annulée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,148.65
+CMD00491,C0076,P065,2025-07-19,1,0.0,Application,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,80.71
+CMD00316,C0055,P073,2025-01-29,4,0.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.37
+CMD00451,C0096,P043,2025-09-08,8,0.0,Site web,Carte bancaire,Annulée,,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00382,C0113,P058,2025-10-10,1,5.0,Site web,Carte bancaire,Livrée,,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,99.22
+CMD00423,C0021,P018,2025-01-16,1,5.0,Site web,PayPal,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,85.63
+CMD00497,C0136,P043,2025-09-01,1,20.0,Marketplace,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD01018,C0025,P040,2025-05-18,3,10.0,Application,Carte bancaire,Livrée,,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.18
+CMD00740,C0025,P049,2025-08-18,2,25.0,Application,Carte bancaire,Livrée,3.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,29.23
+CMD00524,C0139,P065,2026-01-09,4,0.0,Boutique,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,81.7
+CMD00446,C0064,P025,2025-04-24,1,0.0,Site web,Carte bancaire,Livrée,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,34.22
+CMD00664,C0019,P029,2025-11-20,1,15.0,Site web,Carte cadeau,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.18
+CMD00001,C0071,P052,2025-07-21,1,0.0,Site web,PayPal,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,82.37
+CMD00780,C0108,P042,2025-11-23,1,0.0,Application,Carte bancaire,Livrée,5.0,Produit abîmé,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.62
+CMD01001,C0122,P041,2025-09-04,1,0.0,Application,PayPal,Livrée,2.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,4016.67
+CMD01044,C0069,P061,2025-01-12,2,10.0,Application,Carte bancaire,Retournée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,16.42
+CMD00627,C0045,P074,2025-12-23,3,15.0,Marketplace,PayPal,Livrée,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.22
+CMD00458,C0097,P048,2025-04-10,4,25.0,Application,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,60.59
+CMD00489,C0020,P046,2026-03-18,2,10.0,Marketplace,PayPal,En cours,5.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,45.31
+CMD00089,C0150,P008,2025-02-03,1,15.0,Marketplace,Carte bancaire,En cours,5.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,33.86
+CMD00484,C0086,P070,2025-01-22,4,10.0,Site web,PayPal,Livrée,,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,150.83
+CMD00461,C0130,P004,2026-03-15,2,20.0,Boutique,PayPal,Annulée,4.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.84
+CMD00078,C0059,P035,2025-04-05,2,0.0,Site web,PayPal,Livrée,3.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,-9.71
+CMD00269,C0153,P047,2025-09-04,4,10.0,Application,Carte bancaire,Annulée,2.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,31.9
+CMD00930,C0118,P045,2025-08-12,2,0.0,Application,Carte bancaire,Retournée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.36
+CMD00124,C0111,P026,2026-01-16,2,5.0,Site web,PayPal,Livrée,2.0,Emballage léger,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,132.36
+CMD00298,C0049,P044,2025-07-16,1,15.0,Site web,Carte bancaire,Annulée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,109.04
+CMD00882,C0025,P060,2025-07-21,2,15.0,Application,Carte bancaire,Livrée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.34
+CMD00096,C0140,P049,2025-12-07,2,0.0,Site web,PayPal,Retournée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,26.39
+CMD00734,C0006,P030,2026-01-11,1,15.0,Site web,Carte bancaire,Retournée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,43.97
+CMD00012,C0136,P015,2025-01-07,4,0.0,Application,Carte bancaire,Annulée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,93.82
+CMD00115,C0144,P073,2025-06-27,4,10.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.27
+CMD00844,C0003,P038,2026-01-16,1,20.0,Application,Virement,Livrée,3.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,67.19
+CMD00429,C0075,P042,2026-01-09,6,0.0,Site web,PayPal,En cours,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,46.18
+CMD00258,C0131,P064,2026-02-05,2,10.0,Site web,PayPal,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,29.75
+CMD00732,C0080,P016,2026-01-29,1,20.0,Site web,Carte bancaire,Retournée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,105.93
+CMD00950,C0061,P031,2025-04-14,8,5.0,Site web,Carte bancaire,Livrée,2.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,0.0
+CMD00765,C0007,P073,2026-02-26,1,10.0,Boutique,Virement,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,55.17
+CMD00353,C0143,P046,2025-03-05,1,5.0,Marketplace,PayPal,Livrée,1.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,50.76
+CMD01045,C0153,P003,2025-01-21,1,0.0,Application,PayPal,Livrée,1.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,54.45
+CMD00774,C0103,P010,2025-09-23,2,0.0,Site web,PayPal,Retournée,5.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,22.2
+CMD00691,C0107,P020,2026-03-02,2,10.0,Site web,PayPal,Livrée,4.0,Déçu,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.56
+CMD00791,C0112,P039,2025-10-10,4,0.0,Application,Carte bancaire,Livrée,3.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,79.39
+CMD00532,C0160,P030,2025-04-09,5,,Site web,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.66
+CMD00868,C0018,P024,2025-06-17,4,0.0,Marketplace,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,71.65
+CMD00170,C0152,P070,2025-07-21,2,5.0,Site web,Carte cadeau,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,136.7
+CMD00240,C0106,P060,2025-03-26,1,5.0,Application,Carte bancaire,Retournée,5.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,49.99
+CMD00074,C0011,P070,2025-11-16,1,15.0,Site web,Carte bancaire,Retournée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,151.7
+CMD00762,C0112,P070,2025-12-09,8,0.0,Marketplace,Carte bancaire,Livrée,5.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,130.69
+CMD00741,C0053,P067,2026-03-21,1,0.0,Application,Carte bancaire,Livrée,5.0,nan,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,67.89
+CMD00751,C9999,P070,2025-08-05,4,5.0,Application,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,150.6
+CMD00742,C0155,P042,2025-10-29,2,5.0,Boutique,PayPal,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,38.94
+CMD00831,C0139,P008,2025-03-01,3,10.0,Boutique,Carte bancaire,Retournée,5.0,Retard livraison,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,30.78
+CMD00048,C0145,P059,2025-02-28,1,15.0,Site web,PayPal,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,60.66
+CMD00763,C0138,P041,2025-06-25,1,10.0,Application,Carte bancaire,Annulée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,4404.01
+CMD00592,C0094,P027,2025-05-23,3,20.0,Application,Carte bancaire,Livrée,3.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,89.07
+CMD00808,C0043,P005,2025-09-14,1,5.0,Site web,Carte bancaire,Livrée,4.0,Bon rapport qualité prix,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,15.42
+CMD00506,C8888,P069,2025-12-16,2,10.0,Site web,Carte bancaire,Livrée,2.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,36.57
+CMD00653,C0147,P073,2026-02-25,2,0.0,Site web,Carte bancaire,Livrée,5.0,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,48.43
+CMD00193,C0143,P063,2025-04-26,10,0.0,Marketplace,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,22.72
+CMD00245,C0074,P032,2026-03-14,2,5.0,Site web,Carte bancaire,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,104.9
+CMD00060,C0121,P020,2025-02-11,35,10.0,Application,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.77
+CMD00177,C0105,P073,2025-03-28,1,15.0,Application,Carte bancaire,Livrée,4.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,52.43
+CMD00450,C0085,P999,2026-01-28,1,5.0,Site web,Carte cadeau,Livrée,4.0,RAS,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,29.29
+CMD00056,C0078,P009,2026-02-27,4,15.0,Marketplace,PayPal,Livrée,,Produit conforme,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,41.14
+CMD00920,C0033,P888,2025-10-13,6,5.0,Site web,Carte bancaire,Livrée,4.0,Livraison rapide,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,39.06
+CMD00642,C0110,P067,2025-07-06,2,5.0,Site web,Carte bancaire,Livrée,5.0,Très satisfait,2026-01-05 09:00:00,2026-01-05 09:00:00,EUR,71.62
