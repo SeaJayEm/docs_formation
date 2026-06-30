@@ -1,0 +1,96 @@
+client_id,nom_client,ville,segment_client,source_acquisition,date_inscription,age
+C0001,Client 1,Strasbourg,Professionnel,SEO,2025-07-03,69.0
+C0002,Client 2,Lyon,Particulier,Marketplace,2025-08-15,40.0
+C0003,Client 3,Rennes,Particulier,Marketplace,2024-01-13,33.0
+C0004,Client 4,Toulouse,Particulier,Réseaux sociaux,2025-04-09,20.0
+C0005,Client 5,Lille,Premium,SEO,2024-03-17,18.0
+C0006,Client 6, lille ,Premium,SEO,2024-07-20,38.0
+C0007,Client 7,Strasbourg,Professionnel,SEO,2025-08-03,67.0
+C0008,Client 8,Strasbourg,Particulier,Accès direct,2024-06-24,
+C0009,Client 9,Lille,Premium,,2025-07-11,66.0
+C0010,Client 10,Marseille,Étudiant,SEO,2024-11-20,23.0
+C0011,Client 11,Lyon,Professionnel,Accès direct,2024-06-11,23.0
+C0012,Client 12,Montpellier,Particulier,Réseaux sociaux,2024-08-21,63.0
+C0013,Client 13,Bordeaux,premium,Email,2025-01-06,23.0
+C0014,Client 14,Strasbourg,Particulier,Publicité,2025-06-19,20.0
+C0015,Client 15,Marseille,Premium,Accès direct,2025-02-28,39.0
+C0016,Client 16,Paris,Particulier,Marketplace,2025-10-15,67.0
+C0017,Client 17,Nantes,Particulier,SEO,2025-08-30,55.0
+C0018,Client 18,Lille,Particulier,Réseaux sociaux,2025-06-11,23.0
+C0019,Client 19,Strasbourg,Professionnel,Réseaux sociaux,2025-02-26,63.0
+C0020,Client 20,Bordeaux,Particulier,Réseaux sociaux,2024-07-21,63.0
+C0021,Client 21,Toulouse,Étudiant,Marketplace,2024-10-15,61.0
+C0022,Client 22,Lyon,Étudiant,Accès direct,2024-03-24,66.0
+C0023,Client 23,Montpellier,Professionnel,Réseaux sociaux,2024-09-18,30.0
+C0024,Client 24,Rennes,Particulier,Marketplace,2025-10-10,70.0
+C0025,Client 25,Strasbourg,Professionnel,Email,2024-10-25,35.0
+C0026,Client 26,Paris,Professionnel,Publicité,2024-03-20,61.0
+C0027,Client 27,Marseille,Professionnel,Email,2025-04-01,49.0
+C0028,Client 28,Lille,Particulier,SEO,2025-11-04,60.0
+C0029,Client 29,Lille,Particulier,Marketplace,2025-08-30,51.0
+C0030,Client 30,Toulouse,Particulier,SEO,2024-07-10,52.0
+C0031,Client 31,Toulouse,Particulier,Réseaux sociaux,2024-11-13,51.0
+C0032,Client 32,Montpellier,Particulier,Réseaux sociaux,2025-01-06,60.0
+C0033,Client 33,Paris,Particulier,Réseaux sociaux,2024-06-22,57.0
+C0034,Client 34,Lyon,Particulier,SEO,2024-07-07,25.0
+C0035,Client 35,Marseille,Professionnel,SEO,2024-06-14,62.0
+C0036,Client 36,Paris,Particulier,Accès direct,2025-11-27,46.0
+C0037,Client 37,Lille,Premium,Marketplace,2025-06-06,35.0
+C0038,Client 38,Marseille,Professionnel,SEO,2025-08-11,45.0
+C0039,Client 39,Paris,Particulier,Réseaux sociaux,2025-07-25,70.0
+C0040,Client 40,Bordeaux,Professionnel,Publicité,2025-11-02,64.0
+C0041,Client 41,Lyon,Particulier,Marketplace,2024-03-14,63.0
+C0042,Client 42,Strasbourg,Premium,Accès direct,2025-09-09,42.0
+C0043,Client 43,Toulouse,Particulier,Accès direct,2024-02-16,60.0
+C0044,Client 44,Paris,Étudiant,Publicité,2024-11-28,38.0
+C0045,Client 45,Strasbourg,Particulier,Email,2025-02-20,55.0
+C0046,Client 46,Strasbourg,Particulier,Réseaux sociaux,2024-09-07,52.0
+C0047,Client 47,,Particulier,Marketplace,2024-04-12,31.0
+C0048,Client 48,Paris,Premium,Accès direct,2024-05-14,32.0
+C0049,Client 49,Toulouse,Professionnel,SEO,2025-07-31,21.0
+C0050,Client 50,Lille,Particulier,Accès direct,2024-08-11,
+C0051,Client 51,Paris,Particulier,SEO,2024-08-05,41.0
+C0052,Client 52,Lille,Particulier,Accès direct,2025-10-08,43.0
+C0053,Client 53,Strasbourg,Particulier,Accès direct,2024-04-10,26.0
+C0054,Client 54,Bordeaux,Particulier,SEO,2025-10-02,40.0
+C0055,Client 55,Toulouse,Particulier,Email,2025-10-06,50.0
+C0056,Client 56,Strasbourg,Étudiant,SEO,2025-02-22,30.0
+C0057,Client 57,Marseille,Étudiant,Publicité,2024-04-25,36.0
+C0058,Client 58,Nantes,Particulier,Marketplace,2024-04-19,37.0
+C0059,Client 59,Lille,Professionnel,SEO,2024-07-18,45.0
+C0060,Client 60,Lille,Particulier,,2025-02-08,37.0
+C0061,Client 61,Bordeaux,Professionnel,Marketplace,2024-04-17,57.0
+C0062,Client 62,Marseille,Particulier,Réseaux sociaux,2024-11-14,35.0
+C0063,Client 63,Nantes,Professionnel,SEO,2024-03-21,41.0
+C0064,Client 64,,Professionnel,Email,2025-01-13,38.0
+C0065,Client 65,Bordeaux,Étudiant,Publicité,2024-01-15,27.0
+C0066,Client 66,Nantes,Particulier,Publicité,2025-05-11,55.0
+C0067,Client 67,Nantes,Premium,Réseaux sociaux,2024-02-08,30.0
+C0068,Client 68,Paris,Particulier,Marketplace,2024-05-16,34.0
+C0069,Client 69,Lille,Particulier,Publicité,2024-05-02,60.0
+C0070,Client 70,Lyon,Professionnel,Réseaux sociaux,2025-08-04,69.0
+C0071,Client 71,Paris,Particulier,Marketplace,2024-02-07,54.0
+C0072,Client 72,Lyon,Étudiant,Marketplace,2024-10-27,67.0
+C0073,Client 73,Rennes,Étudiant,Email,2025-02-17,64.0
+C0074,Client 74,Paris,Particulier,SEO,2024-12-27,43.0
+C0075,Client 75,Lille,Premium,Publicité,2025-04-21,59.0
+C0076,Client 76,Paris,Particulier,Publicité,2025-07-16,35.0
+C0077,Client 77,Paris,Particulier,SEO,2024-10-02,42.0
+C0078,Client 78,Bordeaux,Particulier,Publicité,2025-08-02,46.0
+C0079,Client 79,Nantes,Premium,Marketplace,2024-08-10,69.0
+C0080,Client 80,Strasbourg,Particulier,SEO,2025-11-20,63.0
+C0081,Client 81,,Particulier,Accès direct,2024-12-19,44.0
+C0082,Client 82,Lyon,Particulier,SEO,2025-05-30,53.0
+C0083,Client 83,Strasbourg,Premium,Accès direct,2025-09-04,28.0
+C0084,Client 84,Paris,Étudiant,Email,2025-07-08,61.0
+C0085,Client 85,Lille,Professionnel,SEO,2025-08-18,47.0
+C0086,Client 86,Lille,Étudiant,Marketplace,2025-01-10,46.0
+C0087,Client 87,Toulouse,Étudiant,SEO,2024-01-31,59.0
+C0088,Client 88,,Particulier,Publicité,2024-12-11,52.0
+C0089,Client 89,Paris,Particulier,Réseaux sociaux,2024-05-07,21.0
+C0090,Client 90,Marseille,Étudiant,Marketplace,2025-09-14,33.0
+C0091,Client 91,Lille,Professionnel,Accès direct,2024-06-14,27.0
+C0092,Client 92,Toulouse,Particulier,Accès direct,2024-06-08,57.0
+C0093,Client 93,Marseille,Particulier,Email,2024-06-23,19.0
+C0094,Client 94,Lyon,Professionnel,Email,2025-03-25,28.0
+C0095,Client 95,Paris,Particulier,,2025-02-03,50.0

@@ -1,0 +1,31 @@
+produit_id,nom_produit,categorie,prix_unitaire,marge_theorique_pct,tags
+P001,Casque audio,Audio,89.9,0.32,audio;premium;télétravail
+P002,Clavier mécanique,Informatique,119.9,0.28,informatique;premium;productivité
+P003,Souris sans fil,Informatique,34.9,0.35,informatique;nomade;productivité
+P004,Écran 24 pouces,Informatique,169.9,0.22,informatique;bureau;premium
+P005,Webcam HD,Informatique,59.9,0.3,informatique;télétravail
+P006,Sac ordinateur,Accessoires,49.9,0.38,nomade;bureau
+P007,Chargeur USB-C,Accessoires,29.9,0.4,nomade;accessoire
+P008,Support laptop,Accessoires,39.9,0.37,bureau;ergonomie
+P009,Lampe bureau,Bureau,44.9,0.34,bureau;ergonomie
+P010,Disque SSD,Stockage,79.9,0.25,stockage;informatique
+P011,Carnet A5,Bureau,8.9,0.55,bureau;papeterie
+P012,Stylo premium,Bureau,14.9,0.5,bureau;papeterie;premium
+P013,Gourde inox,Lifestyle,22.9,0.42,nomade;lifestyle
+P014,Tapis souris,Accessoires,12.9,0.48,accessoire;informatique
+P015,Hub USB,Accessoires,24.9,0.39,accessoire;informatique
+P016,Enceinte bluetooth,Audio,69.9,0.31,audio;nomade
+P017,Micro USB,Audio,99.9,0.29,audio;télétravail;premium
+P018,Câble HDMI,Accessoires,11.9,0.45,accessoire;informatique
+P019,Batterie externe,Accessoires,39.9,0.36,nomade;accessoire
+P020,Station d'accueil,Informatique,149.9,0.24,informatique;bureau;premium
+P021,Chaise ergonomique,Bureau,229.9,0.2,bureau;ergonomie;premium
+P022,Repose-pieds,Bureau,34.9,0.33,bureau;ergonomie
+P023,Tablette graphique,Création,89.9,0.27,création;informatique
+P024,Adaptateur USB-C,Accessoires,19.9,0.41,accessoire;informatique
+P025,Protection écran,Accessoires,9.9,0.46,accessoire;informatique
+P026,Écouteurs,Audio,49.9,0.3,audio;nomade
+P027,Routeur Wi-Fi,Réseau,89.9,0.26,réseau;informatique
+P028,Bracelet connecté,Lifestyle,59.9,0.34,lifestyle;nomade
+P029,Mini projecteur,Image,179.9,0.21,image;premium
+P030,Scanner portable,Bureau,129.9,0.23,bureau;nomade

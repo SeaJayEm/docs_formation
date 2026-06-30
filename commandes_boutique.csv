@@ -1,0 +1,423 @@
+commande_id,client_id,produit_id,date_commande,quantite,remise_pct,canal_vente,mode_paiement,statut_commande,note_client,prix_unitaire_commande
+CMD00012,C0076,P007,2025-01-04,3,0.0,Application,Carte bancaire,Livrée,3.0,31.37
+CMD00025,C0013,P026,2025-03-26,4,0.0,Site web,Carte cadeau,Livrée,4.0,49.22
+CMD00037,C0050,P022,2025-11-24,4,0.0,Site web,PayPal,Livrée,4.0,36.44
+CMD00363,C0040,P002,2025-03-06,2,15.0,Application,PayPal,Livrée,,117.79
+CMD00016,C0025,P999,2025-01-12,4,0.0,Site web,Carte bancaire,Annulée,4.0,23.93
+CMD00294,C0046,P023,2025-06-30,5,0.0,Boutique,Carte bancaire,Livrée,5.0,86.69
+CMD00321,C0077,P029,2025-06-05,2,10.0,Site web,Carte bancaire,Livrée,3.0,181.93
+CMD00014,C0090,P009,2025-03-10,2,0.0,Application,Carte bancaire,Livrée,5.0,44.69
+CMD00413,C0081,P023,2025-11-01,2,0.0,Site web,Carte bancaire,Livrée,5.0,93.35
+CMD00237,C0052,P020,2025-05-08,2,0.0,Site web,PayPal,Livrée,2.0,148.26
+CMD00180,C0077,P026,2025-12-17,4,5.0,Site web,Carte cadeau,Livrée,4.0,-1.0
+CMD00190,C0004,P019,2025-03-19,3,15.0,Application,Carte cadeau,Livrée,2.0,38.99
+CMD00236,C0044,P030,2025-04-27,1,10.0,Site web,PayPal,Livrée,2.0,126.54
+CMD00268,C0013,P014,2025-02-06,1,15.0,Site web,Carte bancaire,Retournée,5.0,13.92
+CMD00356,C0071,P002,2025-02-14,4,10.0,Site web,Carte bancaire,Livrée,4.0,122.73
+CMD00344,C0080,P013,2025-05-16,1,0.0,Marketplace,PayPal,Livrée,2.0,22.32
+CMD00411,C0048,P011,2025-02-02,1,5.0,Site web,PayPal,Livrée,4.0,9.46
+CMD00210,C0026,P026,2025-02-08,1,0.0,Site web,PayPal,Livrée,3.0,48.5
+CMD00290,C0004,P028,2025-12-17,10,5.0,Site web,Carte bancaire,Livrée,5.0,59.5
+CMD00139,C0064,P009,2025-11-03,10,0.0,Site web,Carte bancaire,En cours,3.0,47.78
+CMD00369,C0064,P024,2025-01-23,4,20.0,Site web,Carte cadeau,Livrée,1.0,19.18
+CMD00076,C0042,P011,2025-03-02,1,10.0,Site web,Carte bancaire,Livrée,5.0,9.37
+CMD00121,C0002,P020,2025-09-21,1,0.0,Application,Carte bancaire,Livrée,3.0,140.66
+CMD00262,C0039,P003,2025-05-04,2,0.0,Site web,Carte bancaire,Livrée,4.0,35.09
+CMD00317,C0051,P020,2025-12-10,1,0.0,Site web,Carte cadeau,Livrée,4.0,149.3
+CMD00367,C0023,P020,2025-08-26,1,0.0,Site web,Carte bancaire,En cours,4.0,156.44
+CMD00222,C0005,P009,2025-09-29,1,10.0,Application,PayPal,Livrée,5.0,46.03
+CMD00412,C0043,P007,2025-06-25,1,10.0,Site web,PayPal,Livrée,5.0,29.54
+CMD00227,C0040,P021,2025-12-27,1,0.0,Boutique,Carte bancaire,Livrée,5.0,228.32
+CMD00010,C0075,P002,2025-12-02,1,0.0,Application,Carte bancaire,Livrée,4.0,124.43
+CMD00360,C0079,P016,2025-02-06,1,5.0,Application,Carte bancaire,Livrée,5.0,71.15
+CMD00034,C0073,P023,2025-08-14,1,0.0,Boutique,Carte bancaire,Livrée,5.0,90.07
+CMD00282,C0039,P009,2025-06-20,1,5.0,Marketplace,Carte bancaire,Livrée,3.0,47.32
+CMD00324,C0085,P021,2025-11-05,1,15.0,Boutique,Carte cadeau,En cours,1.0,236.35
+CMD00027,C0001,P026,2025-09-08,2,5.0,Site web,Virement,Livrée,2.0,47.35
+CMD00103,C0012,P030,2025-12-04,1,10.0,Boutique,PayPal,Annulée,5.0,132.55
+CMD00259,C0044,P004,2025-04-23,5,20.0,Site web,Carte bancaire,En cours,4.0,169.96
+CMD00073,C0009,P012,2025-05-20,2,0.0,Site web,Carte bancaire,Livrée,,14.6
+CMD00281,C0015,P030,2025-01-21,1,0.0,Site web,Carte bancaire,Livrée,2.0,143.55
+CMD00006,C0077,P006,2025-01-18,2,0.0,Application,Virement,En cours,5.0,49.19
+CMD00049,C0047,P021,2025-11-28,1,20.0,Site web,Virement,Livrée,4.0,232.07
+CMD00043,C0081,P028,2025-04-01,2,0.0,Application,PayPal,Retournée,5.0,56.11
+CMD00042,C0089,P011,2025-04-03,2,5.0,Boutique, carte bancaire ,Livrée,4.0,8.89
+CMD00205,C0078,P019,2025-07-14,2,15.0,Site web,PayPal,Livrée,5.0,38.98
+CMD00376,C0095,P010,2025-11-07,2,0.0,Site web,Carte bancaire,Livrée,4.0,84.22
+CMD00386,C0037,P026,2025-03-31,1,,Marketplace,Carte bancaire,Livrée,5.0,51.34
+CMD00217,C0049,P022,2025-07-03,1,20.0,Marketplace,Carte bancaire,Livrée,5.0,34.81
+CMD00343,C0083,P029,2025-11-06,2,10.0,Marketplace,PayPal,Livrée,4.0,177.87
+CMD00389,C0032,P004,2025-01-14,2,0.0,Site web,PayPal,Livrée,1.0,158.62
+CMD00274,C0041,P013,2025-04-12,1,0.0,Site web,PayPal,Livrée,3.0,23.41
+CMD00160,C0087,P025,2025-07-07,10,0.0,Application,Carte bancaire,Livrée,4.0,9.43
+CMD00380,C0030,P013,2025-05-04,1,15.0,Boutique,Carte bancaire,Livrée,5.0,22.94
+CMD00316,C0060,P024,2025-02-20,5,30.0,Site web,Carte bancaire,Livrée,5.0,20.63
+CMD00096,C0091,P020,2025-03-05,5,0.0,Site web,Carte cadeau,Annulée,5.0,142.76
+CMD00267,C0093,P010,2025-03-14,1,0.0,Boutique,Carte bancaire,Livrée,4.0,75.55
+CMD00055,C0020,P010,2025-02-24,2,0.0,Application,Carte bancaire,Livrée,3.0,75.7
+CMD00250,C0055,P018,2025-03-13,1,10.0,Site web,Carte cadeau,Livrée,4.0,12.81
+CMD00325,C0013,P008,2025-09-29,1,0.0,Application,Carte bancaire,Livrée,5.0,44.44
+CMD00300,C0054,P009,2025-04-18,2,0.0,Site web,Carte bancaire,Retournée,4.0,45.97
+CMD00371,C0049,P027,2025-03-09,1,0.0,Marketplace,Carte bancaire,Livrée,4.0,89.64
+CMD00102,C0061,P015,2025-01-02,2,15.0,Site web,Carte bancaire,Livrée,5.0,23.87
+CMD00310,C0075,P009,2025-12-25,2,10.0,Site web,Carte bancaire,Retournée,,45.7
+CMD00232,C0018,P022,2025-11-20,2,5.0,Marketplace,PayPal,Livrée,4.0,33.02
+CMD00172,C0077,P004,2025-11-21,3,5.0,Site web,PayPal,Livrée,4.0,160.81
+CMD00246,C0090,P030,2025-12-08,2,0.0,Site web,Carte bancaire,Livrée,2.0,133.64
+CMD00108,C0066,P022,2025-08-02,2,10.0,Marketplace,Carte bancaire,Livrée,4.0,34.47
+CMD00357,C0086,P030,2025-03-27,1,10.0,Marketplace,Carte bancaire,Livrée,2.0,129.56
+CMD00318,C0035,P014,2025-04-22,1,0.0,Site web,Carte bancaire,Livrée,,13.62
+CMD00186,C0067,P002,2025-11-10,1,0.0,Marketplace,Carte bancaire,Livrée,5.0,122.05
+CMD00021,C0050,P001,2025-06-23,2,15.0,Site web,Carte bancaire,Livrée,5.0,96.65
+CMD00284,C0021,P027,2025-04-05,2,0.0,Site web,Carte bancaire,Retournée,4.0,89.59
+CMD00122,C0029,P017,2025-01-19,2,0.0,Application,Virement,Annulée,1.0,99.45
+CMD00358,C0002,P014,2025-11-24,2,5.0,Site web,Carte bancaire,Livrée,5.0,13.5
+CMD00192,C0020,P026,2025-06-21,2,0.0,Site web,Carte bancaire,Livrée,5.0,52.69
+CMD00152,C0023,P013,2025-07-26,1,0.0,Site web,Carte bancaire,Livrée,5.0,22.14
+CMD00320,C0049,P015,2025-07-21,2,0.0,Site web,Carte bancaire,Livrée,4.0,25.53
+CMD00238,C0075,P009,2025-08-11,2,0.0,Application,Carte bancaire,En cours,1.0,42.25
+CMD00372,C0035,P021,2025-03-31,3,0.0,Boutique,PayPal,Livrée,3.0,212.56
+CMD00243,C0043,P004,2025-01-04,2,10.0,Site web,PayPal,Livrée,4.0,179.62
+CMD00126,C0075,P030,2025-04-18,1,0.0,Site web,PayPal,Livrée,4.0,131.73
+CMD00404,C0053,P010,2025-06-08,3,10.0,Application,Carte bancaire,Annulée,4.0,78.93
+CMD00395,C0045,P013,2025-04-30,2,0.0,Site web,Carte bancaire,Livrée,5.0,22.7
+CMD00032,C0050,P021,2025-11-08,1,5.0,Application,Carte cadeau,Retournée,3.0,247.6
+CMD00060,C0086,P011,2025-08-08,1,0.0,Marketplace,Carte bancaire,Livrée,,8.23
+CMD00247,C9999,P026,2025-07-04,1,0.0,Boutique,Carte bancaire,En cours,5.0,51.14
+CMD00022,C0059,P003,2025-03-30,3,30.0,Boutique,PayPal,Livrée,,36.01
+CMD00115,C0041,P003,2025-06-01,5,15.0,Site web,PayPal,Livrée,2.0,34.46
+CMD00080,C0070,P001,2025-09-16,1,0.0,Site web,Virement,Retournée,3.0,90.85
+CMD00200,C0060,P001,2025-07-08,1,0.0,Application,PayPal,Livrée,3.0,95.18
+CMD00143,C0013,P029,2025-03-09,2,5.0,Marketplace,Carte bancaire,Livrée,5.0,174.56
+CMD00094,C0069,P022,2025-09-10,2,0.0,Site web,Carte bancaire,Livrée,5.0,36.75
+CMD00056,C0064,P018,2025-04-27,1,5.0,Marketplace,Carte bancaire,Livrée,3.0,11.24
+CMD00083,C0091,P021,2025-10-29,1,0.0,Application,Carte bancaire,Livrée,4.0,218.75
+CMD00182,C0089,P023,2025-03-07,4,5.0,Application,Carte cadeau,Livrée,4.0,87.93
+CMD00145,C0060,P027,2025-07-11,10,0.0,Boutique,Carte bancaire,Retournée,3.0,93.62
+CMD00092,C0094,P009,2025-02-22,2,0.0,Site web,Carte bancaire,Retournée,,-1.0
+CMD00322,C0070,P030,2025-02-05,2,0.0,Marketplace,Carte bancaire,Livrée,5.0,131.18
+CMD00133,C0066,P030,2025-01-19,3,15.0,Site web,Carte bancaire,Livrée,,130.82
+CMD00403,C0092,P007,2025-10-29,1,0.0,Marketplace,Virement,Livrée,4.0,30.22
+CMD00212,C0068,P011,2025-11-26,1,0.0,Site web,Carte bancaire,Livrée,2.0,8.81
+CMD00394,C0050,P010,2025-10-11,1,0.0,Site web,Carte cadeau,Livrée,4.0,77.51
+CMD00158,C0019,P017,2025-06-03,2,10.0,Marketplace,Carte bancaire,Livrée,3.0,106.6
+CMD00053,C0088,P013,2025-09-25,10,0.0,Boutique,Carte bancaire,Livrée,4.0,22.99
+CMD00292,C0040,P016,2025-08-27,1,15.0,Site web,Carte bancaire,Livrée,4.0,66.47
+CMD00264,C0046,P007,2025-12-15,2,0.0,Marketplace,Virement,Livrée,3.0,30.53
+CMD00221,C0001,P004,2025-06-07,1,0.0,Site web,PayPal,Livrée,4.0,178.24
+CMD00278,C0061,P023,2025-03-09,1,0.0,Site web,Carte cadeau,Livrée,4.0,90.86
+CMD00001,C0069,P015,2025-11-12,1,20.0,Site web,Carte bancaire,En cours,1.0,23.36
+CMD00240,C0061,P013,2025-08-01,1,0.0,Site web,Carte bancaire,Livrée,2.0,22.54
+CMD00286,C0056,P008,2025-01-17,4,20.0,Site web,Virement,Livrée,4.0,37.79
+CMD00345,C0079,P005,2025-11-01,1,15.0,Application,Carte bancaire,Livrée,4.0,59.47
+CMD00399,C0040,P015,2025-06-14,1,15.0,Site web,Carte bancaire,Retournée,4.0,24.07
+CMD00361,C0068,P024,2025-05-21,3,10.0,Site web,PayPal,Livrée,4.0,20.64
+CMD00156,C0074,P003,2025-12-25,2,0.0,Site web,PayPal,Livrée,5.0,34.66
+CMD00151,C0024,P008,2025-10-06,2,15.0,Application,Virement,En cours,4.0,40.83
+CMD00148,C0086,P014,2025-09-05,3,10.0,Site web,Carte bancaire,Livrée,1.0,12.77
+CMD00161,C0028,P008,2025-12-11,10,0.0,Site web,Carte bancaire,Livrée,4.0,40.68
+CMD00327,C0081,P021,2025-05-27,1,0.0,Site web,Carte bancaire,Livrée,2.0,230.55
+CMD00288,C0031,P010,2025-06-25,3,5.0,Application,Carte bancaire,Livrée,4.0,77.38
+CMD00007,C0039,P008,2025-04-27,2,5.0,Marketplace,Carte bancaire,Livrée,4.0,38.14
+CMD00173,C0092,P028,2025-08-28,3,15.0,Marketplace,PayPal,Livrée,,61.45
+CMD00418,C0072,P002,2025-07-22,1,5.0,Site web,PayPal,Livrée,5.0,118.67
+CMD00303,C0052,P009,2025-04-21,1,0.0,Site web,PayPal,Livrée,5.0,45.74
+CMD00132,C0084,P023,2025-01-07,1,5.0,Site web,Carte bancaire,Livrée,,86.97
+CMD00189,C0043,P004,2025-03-30,1,30.0,Marketplace,Carte bancaire,Livrée,4.0,166.99
+CMD00183,C0012,P012,2025-09-06,1,5.0,Site web,Carte bancaire,Livrée,4.0,14.87
+CMD00249,C0040,P023,2025-01-25,2,0.0,Site web,Carte bancaire,Livrée,2.0,89.06
+CMD00218,C0006,P018,2025-02-06,10,0.0,Site web,Carte bancaire,Livrée,4.0,12.86
+CMD00135,C0074,P020,2025-02-27,1,10.0,Marketplace,PayPal,Livrée,,148.98
+CMD00228,C0017,P003,2025-05-18,2,5.0,Site web,Carte bancaire,Livrée,4.0,33.1
+CMD00191,C0044,P008,2025-05-06,1,15.0,Marketplace,Carte bancaire,Annulée,2.0,37.07
+CMD00275,C0075,P027,2025-06-24,1,20.0,Application,Carte bancaire,Livrée,4.0,90.39
+CMD00166,C0001,P002,2025-07-09,1,10.0,Site web,Carte cadeau,Livrée,3.0,119.55
+CMD00174,C0023,P021,2025-05-25,3,20.0,Site web,Virement,En cours,4.0,248.79
+CMD00197,C0052,P008,2025-08-24,3,0.0,Application,Carte bancaire,Livrée,3.0,40.01
+CMD00370,C0012,P002,2025-06-14,1,20.0,Boutique,Carte cadeau,Livrée,5.0,122.11
+CMD00219,C0007,P014,2025-01-02,1,5.0,Application,Carte bancaire,En cours,3.0,12.92
+CMD00179,C0064,P001,2025-05-12,2,5.0,Boutique,Carte bancaire,Annulée,5.0,86.22
+CMD00039,C0023,P023,2025-12-30,3,10.0,Site web,PayPal,Livrée,3.0,88.38
+CMD00204,C0015,P027,2025-09-24,3,0.0,Site web,Carte bancaire,Livrée,5.0,87.15
+CMD00176,C0081,P022,2025-09-07,1,5.0,Boutique,Carte bancaire,Livrée,4.0,34.81
+CMD00013,C0089,P006,2025-12-07,3,20.0,Application,Carte bancaire,Livrée,5.0,49.92
+CMD00031,C0065,P013,2025-04-13,1,10.0,Site web,PayPal,Annulée,,22.64
+CMD00149,C0083,P010,2025-07-14,1,15.0,Marketplace,Carte bancaire,Livrée,4.0,79.22
+CMD00185,C0081,P012,2025-12-02,2,0.0,Site web,Carte bancaire,Livrée,2.0,15.97
+CMD00277,C0039,P029,2025-12-23,2,15.0,Site web,Carte cadeau,Livrée,5.0,172.34
+CMD00224,C0084,P027,2025-01-09,5,0.0,Site web,PayPal,Livrée,4.0,94.18
+CMD00309,C0024,P001,2025-08-13,4,20.0,Site web,Carte bancaire,Livrée,4.0,92.67
+CMD00202,C0081,P013,2025-09-28,3,0.0,Site web,PayPal,Livrée,5.0,22.86
+CMD00106,C0056,P028,2025-12-29,1,10.0,Site web,PayPal,Annulée,2.0,62.48
+CMD00213,C0050,P024,2025-09-13,1,10.0,Site web,Carte bancaire,Livrée,4.0,20.16
+CMD00171,C0094,P012,2025-10-09,1,30.0,Marketplace,Carte bancaire,Livrée,5.0,15.23
+CMD00235,C0057,P017,2025-08-17,1,0.0,Boutique,Carte bancaire,Livrée,5.0,99.54
+CMD00020,C0010,P015,2025-08-15,3,10.0,Application,Carte bancaire,Livrée,,25.42
+CMD00030,C0045,P020,2025-01-02,1,30.0,Marketplace,Carte bancaire,Livrée,3.0,150.5
+CMD00079,C0013,P008,2025-11-05,4,10.0,Marketplace,Carte bancaire,Livrée,5.0,41.07
+CMD00378,C0074,P012,2025-11-16,1,0.0,Application,Carte bancaire,Retournée,5.0,14.18
+CMD00163,C0087,P014,2025-01-13,1,0.0,Marketplace,Carte bancaire,Livrée,4.0,13.27
+CMD00233,C0036,P013,2025-08-18,3,15.0,Application,Carte bancaire,Livrée,4.0,21.47
+CMD00392,C0020,P015,2025-11-21,1,10.0,Boutique,Carte cadeau,En cours,5.0,24.85
+CMD00072,C0015,P019,2025-05-07,2,5.0,Application,PayPal,Annulée,3.0,39.93
+CMD00095,C0081,P016,2025-01-22,1,10.0,Application,Carte bancaire,Livrée,5.0,71.68
+CMD00203,C0043,P021,2025-08-27,1,20.0,Site web,Carte bancaire,Annulée,5.0,235.83
+CMD00409,C0062,P026,2025-03-08,2,5.0,Boutique,PayPal,Livrée,,49.77
+CMD00036,C0076,P002,2025-03-01,1,0.0,Application,Carte bancaire,Livrée,5.0,118.11
+CMD00129,C0038,P005,2025-12-23,4,0.0,Site web,Carte cadeau,Livrée,3.0,62.15
+CMD00075,C0053,P001,2025-09-14,1,10.0,Site web,Carte bancaire,Livrée,5.0,93.41
+CMD00054,C0074,P028,2025-10-24,2,0.0,Application,PayPal,Annulée,4.0,56.52
+CMD00023,C0016,P009,2025-02-02,3,15.0,Site web,Carte bancaire,Livrée,5.0,42.02
+CMD00289,C0088,P027,2025-02-02,2,15.0,Site web,Carte bancaire,Livrée,5.0,87.39
+CMD00346,C0006,P002,2025-05-28,2,10.0,Marketplace,Carte bancaire,Livrée,3.0,123.53
+CMD00379,C0041,P007,2025-09-30,1,0.0,Site web,PayPal,Livrée,4.0,29.51
+CMD00350,C0032,P004,2025-10-09,4,10.0,Site web,Virement,Livrée,5.0,161.26
+CMD00164,C0004,P025,2025-10-18,3,0.0,Site web,Carte bancaire,Livrée,3.0,10.21
+CMD00241,C0083,P017,2025-05-21,3,5.0,Boutique,Carte bancaire,Livrée,,105.36
+CMD00091,C0062,P013,2025-10-11,5,5.0,Application,Carte bancaire,Livrée,,22.69
+CMD00337,C0037,P013,2025-05-17,2,0.0,Site web,Carte bancaire,Livrée,4.0,25.46
+CMD00373,C0048,P014,2025-11-17,2,0.0,Marketplace,Carte bancaire,Livrée,2.0,13.09
+CMD00419,C0004,P015,2025-12-17,4,0.0,Site web,PayPal,Livrée,3.0,25.75
+CMD00355,C0007,P018,2025-05-30,1,10.0,Marketplace,Carte bancaire,Livrée,3.0,12.04
+CMD00368,C0058,P012,2025-05-31,2,30.0,Marketplace,Carte bancaire,Livrée,4.0,14.34
+CMD00405,C0020,P018,2025-05-12,5,20.0,Boutique,Carte bancaire,Livrée,4.0,11.65
+CMD00384,C0068,P004,2025-04-01,1,15.0,Site web,PayPal,Livrée,2.0,180.43
+CMD00005,C0017,P010,2025-08-09,1,15.0,Marketplace,PayPal,Livrée,5.0,80.31
+CMD00193,C0011,P014,2025-11-18,3,0.0,Boutique,PayPal,Livrée,2.0,13.4
+CMD00390,C0002,P016,2025-12-10,1,5.0,Application,Virement,Livrée,5.0,66.95
+CMD00201,C0009,P023,2025-02-02,1,0.0,Site web,PayPal,Livrée,,92.73
+CMD00178,C0006,P024,2025-02-24,3,0.0,Application,Carte bancaire,Livrée,5.0,21.52
+CMD00144,C0062,P015,2025-07-22,5,,Boutique,Carte bancaire,En cours,5.0,23.72
+CMD00408,C0095,P015,2025-02-15,4,0.0,Boutique,Carte bancaire,Livrée,5.0,24.17
+CMD00153,C0044,P003,2025-04-08,3,0.0,Application,Carte bancaire,Livrée,5.0,35.9
+CMD00081,C0017,P019,2025-04-21,2,20.0,Site web,Carte cadeau,Livrée,1.0,40.04
+CMD00118,C0044,P022,2025-08-15,3,5.0,Marketplace,Virement,Livrée,5.0,37.09
+CMD00157,C0077,P007,2025-02-24,2,0.0,Marketplace,Carte cadeau,Livrée,5.0,31.55
+CMD00348,C0027,P029,2025-10-05,1,0.0,Site web,Virement,Livrée,5.0,176.33
+CMD00280,C0040,P017,2025-07-10,4,15.0,Site web,Carte bancaire,Livrée,4.0,101.61
+CMD00329,C0070,P009,2025-07-10,3,10.0,Marketplace,Carte bancaire,Livrée,5.0,44.02
+CMD00105,C0046,P020,2025-07-21,4,5.0,Site web,Carte bancaire,Retournée,5.0,146.15
+CMD00062,C0073,P015,2025-03-20,3,5.0,Site web,PayPal,Livrée,5.0,25.83
+CMD00109,C0052,P009,2025-05-22,2,0.0,Application,Carte bancaire,Livrée,1.0,45.7
+CMD00128,C0011,P030,2025-08-31,3,20.0,Application,Carte bancaire,Livrée,3.0,122.96
+CMD00082,C0053,P028,2025-09-27,1,0.0,Marketplace,Carte bancaire,Livrée,5.0,59.33
+CMD00416,C0008,P028,2025-03-01,1,10.0,Site web,Virement,Livrée,5.0,59.4
+CMD00331,C0026,P015,2025-01-30,1,0.0,Marketplace,Carte bancaire,Livrée,2.0,24.23
+CMD00045,C0075,P010,2025-07-23,1,0.0,Marketplace,Virement,Retournée,4.0,86.1
+CMD00165,C0001,P008,2025-05-11,5,0.0,Site web,Carte bancaire,Livrée,3.0,40.48
+CMD00276,C0059,P029,2025-03-15,1,15.0,Site web,Carte bancaire,Livrée,5.0,176.67
+CMD00090,C0036,P001,2025-02-15,2,5.0,Site web,Virement,Livrée,4.0,93.78
+CMD00338,C0047,P020,2025-08-02,2,15.0,Boutique,Carte bancaire,Livrée,4.0,147.7
+CMD00397,C0068,P017,2025-04-14,1,0.0,Marketplace,Carte bancaire,Livrée,5.0,103.83
+CMD00374,C0092,P007,2025-09-17,2,0.0,Site web,PayPal,Livrée,4.0,27.68
+CMD00287,C0058,P017,2025-01-04,3,10.0,Site web,Carte bancaire,Livrée,4.0,105.03
+CMD00319,C0092,P026,2025-03-23,1,15.0,Site web,Carte bancaire,Livrée,4.0,50.36
+CMD00167,C0015,P002,2025-06-06,2,20.0,Site web,Carte bancaire,Livrée,,116.98
+CMD00211,C0010,P016,2025-10-12,3,20.0,Application,Carte cadeau,Livrée,5.0,70.87
+CMD00168,C0005,P012,2025-05-29,1,5.0,Boutique,Carte bancaire,Livrée,4.0,13.77
+CMD00314,C0041,P024,2025-01-27,2,10.0,Site web,Carte bancaire,Livrée,4.0,20.45
+CMD00296,C0022,P018,2025-02-10,3,0.0,Marketplace,Carte bancaire,Livrée,4.0,11.53
+CMD00008,C0057,P028,2025-02-20,1,20.0,Site web,Carte bancaire,Livrée,5.0,60.06
+CMD00298,C0055,P020,2025-04-03,5,5.0,Boutique,Virement,Annulée,5.0,148.51
+CMD00116,C0029,P004,2025-07-15,3,5.0,Site web,Carte bancaire,En cours,2.0,159.12
+CMD00402,C0094,P008,2025-07-15,5,0.0,Site web,Carte bancaire,Livrée,4.0,40.54
+CMD00261,C0066,P003,2025-01-18,1,0.0,Marketplace,Carte cadeau,Livrée,,32.48
+CMD00377,C0043,P015,2025-07-29,1,30.0,Marketplace,Carte bancaire,Livrée,5.0,26.72
+CMD00137,C0005,P001,2025-11-06,1,0.0,Site web,Carte bancaire,Livrée,1.0,88.94
+CMD00334,C0030,P017,2025-02-28,1,5.0,Marketplace,Carte bancaire,Livrée,5.0,96.87
+CMD00265,C0013,P017,2025-09-23,1,20.0,Site web,Virement,Livrée,4.0,102.17
+CMD00253,C0025,P015,2025-05-13,4,5.0,Application,Carte bancaire,Livrée,5.0,24.91
+CMD00353,C0070,P002,2025-08-09,1,0.0,Site web,Carte bancaire,Livrée,5.0,117.77
+CMD00146,C0009,P030,2025-05-25,1,5.0,Boutique,Carte bancaire,Livrée,5.0,121.05
+CMD00293,C0046,P030,2025-09-03,1,10.0,Marketplace,Carte bancaire,Annulée,4.0,129.64
+CMD00086,C0075,P010,2025-11-21,2,5.0,Site web,Carte bancaire,Livrée,4.0,80.67
+CMD00330,C0050,P024,2025-03-02,1,15.0,Marketplace,Carte bancaire,Retournée,5.0,21.13
+CMD00050,C0063,P026,2025-12-26,1,30.0,Site web,Carte bancaire,Retournée,4.0,48.02
+CMD00038,C0047,P011,2025-10-10,1,0.0,Application,Carte bancaire,Livrée,5.0,8.78
+CMD00035,C0088,P019,2025-06-17,2,0.0,Site web,Carte bancaire,Livrée,5.0,40.0
+CMD00352,C0017,P002,2025-03-17,2,0.0,Site web,Virement,Livrée,4.0,111.33
+CMD00220,C0059,P012,2025-03-16,2,5.0,Application,Carte bancaire,Livrée,4.0,14.35
+CMD00024,C0017,P008,2025-07-27,1,20.0,Site web,Carte bancaire,Livrée,,42.14
+CMD00242,C0055,P005,2025-05-30,3,15.0,Site web,Virement,En cours,,60.02
+CMD00388,C0061,P001,2025-02-28,2,5.0,Application,Virement,Livrée,5.0,89.28
+CMD00283,C0080,P011,2025-06-15,1,10.0,Application,Carte bancaire,Livrée,2.0,9.16
+CMD00229,C0036,P021,2025-10-21,1,30.0,Application,Carte bancaire,Livrée,4.0,227.48
+CMD00011,C0095,P019,2025-02-02,10,5.0,Boutique,Carte bancaire,Retournée,3.0,40.12
+CMD00067,C0051,P001,2025-10-28,1,0.0,Site web,PayPal,Livrée,5.0,85.19
+CMD00029,C0046,P017,2025-06-30,10,15.0,Marketplace,Carte bancaire,Livrée,4.0,97.3
+CMD00208,C0019,P008,2025-07-28,1,0.0,Site web,PayPal,Livrée,4.0,41.28
+CMD00364,C0036,P002,2025-11-05,5,15.0,Site web,Carte bancaire,Livrée,3.0,113.45
+CMD00125,C0071,P013,2025-02-18,2,15.0,Marketplace,Carte bancaire,Livrée,5.0,24.1
+CMD00070,C0015,P028,2025-01-11,1,0.0,Application,PayPal,Livrée,4.0,59.37
+CMD00162,C0063,P028,2025-01-05,2,5.0,Boutique,PayPal,Retournée,3.0,61.94
+CMD00230,C0009,P011,2025-09-20,3,0.0,Marketplace,Carte bancaire,Livrée,1.0,9.38
+CMD00195,C0067,P029,2025-08-24,1,5.0,Site web,Virement,Livrée,4.0,169.9
+CMD00138,C0011,P004,2025-11-15,1,5.0,Boutique,Carte bancaire,Livrée,2.0,165.49
+CMD00311,C0033,P002,2025-05-10,1,20.0,Site web,Carte bancaire,Annulée,4.0,122.08
+CMD00342,C0007,P016,2025-04-19,4,0.0,Site web,Carte bancaire,Annulée,3.0,73.53
+CMD00113,C0069,P014,2025-02-03,4,0.0,Site web,PayPal,Livrée,4.0,12.52
+CMD00101,C0084,P027,2025-04-07,4,0.0,Site web,Carte bancaire,Livrée,,91.86
+CMD00285,C0091,P012,2025-02-16,1,10.0,Boutique,Carte bancaire,Livrée,4.0,13.74
+CMD00391,C0065,P009,2025-01-28,2,0.0,Site web,Virement,Livrée,4.0,46.41
+CMD00401,C0088,P016,2025-05-24,1,10.0,Boutique,Carte bancaire,Retournée,4.0,69.62
+CMD00111,C0010,P019,2025-07-29,1,10.0,Application,Carte bancaire,Livrée,,39.92
+CMD00188,C0080,P008,2025-11-30,1,15.0,Site web,Carte bancaire,Livrée,4.0,43.88
+CMD00123,C0049,P029,2025-06-13,1,10.0,Marketplace,Carte bancaire,Retournée,4.0,191.13
+CMD00273,C0059,P014,2025-05-06,1,10.0,Application,Carte cadeau,Livrée,3.0,12.57
+CMD00093,C0001,P006,2025-09-02,1,5.0,Marketplace,Carte bancaire,Livrée,3.0,49.41
+CMD00339,C0004,P010,2025-07-11,1,0.0,Marketplace,PayPal,Livrée,4.0,74.57
+CMD00196,C0048,P016,2025-11-17,4,20.0,Marketplace,PayPal,Livrée,3.0,73.98
+CMD00063,C0061,P026,2025-07-08,2,15.0,Boutique,Carte bancaire,Livrée,3.0,46.82
+CMD00406,C0080,P008,2025-02-18,1,0.0,Site web,Carte bancaire,Livrée,4.0,39.51
+CMD00175,C0028,P023,2025-02-28,1,10.0,Application,PayPal,En cours,3.0,90.18
+CMD00347,C0008,P029,2025-02-10,2,15.0,Site web, carte bancaire ,Livrée,5.0,178.26
+CMD00046,C0012,P015,2025-06-15,1,30.0,Boutique,Carte bancaire,Livrée,5.0,25.62
+CMD00051,C0070,P012,2025-01-29,4,0.0,Application,Carte bancaire,Livrée,3.0,14.76
+CMD00131,C0005,P025,2025-03-11,1,0.0,Site web,Virement,Livrée,5.0,10.24
+CMD00051,C0070,P012,2025-01-29,4,0.0,Application,Carte bancaire,Livrée,3.0,14.76
+CMD00098,C0012,P030,2025-07-05,2,5.0,Site web,Carte bancaire,Livrée,3.0,138.46
+CMD00198,C0071,P021,2025-05-19,2,5.0,Site web,PayPal,Livrée,5.0,237.31
+CMD00216,C0059,P009,2025-10-19,3,0.0,Site web,Carte bancaire,Livrée,5.0,46.79
+CMD00239,C0025,P024,2025-07-28,1,0.0,Site web,Carte bancaire,Livrée,5.0,21.03
+CMD00011,C0095,P019,2025-02-02,10,5.0,Boutique,Carte bancaire,Retournée,3.0,40.12
+CMD00417,C0080,P015,2025-05-16,2,0.0,Marketplace,PayPal,Livrée,5.0,24.57
+CMD00336,C0080,P004,2025-11-07,4,0.0,Boutique,Carte bancaire,Livrée,5.0,174.19
+CMD00064,C0026,P016,2025-06-01,4,20.0,Boutique,Carte bancaire,Livrée,2.0,69.05
+CMD00299,C0034,P001,2025-02-19,2,5.0,Site web,PayPal,En cours,3.0,89.26
+CMD00170,C0058,P002,2025-02-04,2,15.0,Site web,Carte bancaire,En cours,4.0,120.79
+CMD00248,C0029,P022,2025-06-20,2,20.0,Site web,Carte bancaire,Livrée,3.0,35.39
+CMD00258,C0015,P005,2025-03-01,2,10.0,Boutique,PayPal,Livrée,5.0,56.11
+CMD00252,C0067,P012,2025-05-18,1,0.0,Site web,Carte bancaire,En cours,4.0,14.9
+CMD00270,C0027,P020,2025-10-03,1,0.0,Site web,Carte bancaire,Livrée,4.0,153.56
+CMD00307,C0059,P011,2025-02-08,1,0.0,Site web,PayPal,Livrée,1.0,8.62
+CMD00414,C0038,P010,2025-12-14,10,10.0,Site web,Virement,Retournée,4.0,83.84
+CMD00154,C0014,P024,2025-10-04,1,0.0,Site web,Carte bancaire,Livrée,5.0,19.99
+CMD00375,C0008,P030,2025-02-18,10,0.0,Application,Carte bancaire,Livrée,5.0,124.99
+CMD00041,C0014,P027,2025-04-17,2,20.0,Site web,Carte bancaire,En cours,4.0,87.96
+CMD00328,C0048,P028,2025-07-17,1,5.0,Marketplace,Carte bancaire,Livrée,3.0,58.83
+CMD00333,C0024,P006,2025-06-15,3,10.0,Marketplace,PayPal,Livrée,4.0,46.73
+CMD00066,C0035,P004,2025-04-26,2,0.0,Marketplace,Carte bancaire,Livrée,5.0,173.64
+CMD00207,C0006,P008,2025-12-13,2,0.0,Site web,Carte bancaire,Livrée,4.0,36.94
+CMD00009,C0043,P029,2025-01-08,2,5.0,Application,Carte bancaire,Livrée,5.0,180.73
+CMD00078,C0037,P006,2025-09-22,3,0.0,Site web,Carte bancaire,Livrée,5.0,52.06
+CMD00059,C0071,P012,2025-02-11,3,10.0,Application, carte bancaire ,Livrée,5.0,15.71
+CMD00251,C0052,P002,2025-05-04,1,10.0,Boutique,Carte bancaire,Livrée,1.0,115.55
+CMD00120,C0043,P014,2025-04-10,1,10.0,Site web,Carte bancaire,En cours,4.0,12.22
+CMD00142,C0064,P024,2025-08-11,1,0.0,Site web,Carte bancaire,Livrée,5.0,20.35
+CMD00089,C0014,P017,2025-03-28,2,5.0,Site web,Carte bancaire,Livrée,,103.91
+CMD00387,C0088,P005,2025-04-19,2,10.0,Site web,Carte bancaire,Livrée,,56.36
+CMD00308,C0031,P027,2025-12-26,1,10.0,Site web,Carte bancaire,Livrée,,86.8
+CMD00301,C0057,P026,2025-04-25,5,10.0,Application,Carte bancaire,Livrée,5.0,49.62
+CMD00255,C0043,P007,2025-10-08,1,0.0,Site web,PayPal,Livrée,5.0,29.39
+CMD00061,C0078,P018,2025-04-19,2,15.0,Site web,Carte cadeau,En cours,4.0,12.58
+CMD00257,C0016,P011,2025-05-02,2,0.0,Application,PayPal,En cours,4.0,8.84
+CMD00302,C0067,P008,2025-10-07,1,20.0,Application,Carte bancaire,Livrée,2.0,39.46
+CMD00297,C0010,P019,2025-03-27,1,5.0,Marketplace,Virement,Livrée,5.0,40.73
+CMD00365,C0068,P026,2025-08-14,5,0.0,Site web,Carte bancaire,Livrée,2.0,50.74
+CMD00047,C0069,P016,2025-12-20,2,0.0,Site web,Carte bancaire,Annulée,3.0,73.99
+CMD00087,C0059,P005,2025-02-23,4,5.0,Application,Carte bancaire,Livrée,2.0,63.35
+CMD00110,C0002,P029,2025-02-16,1,10.0,Boutique,Carte bancaire,Livrée,4.0,179.47
+CMD00134,C0027,P023,2025-08-06,3,10.0,Site web,Virement,Livrée,5.0,91.17
+CMD00017,C0069,P030,2025-02-26,1,20.0,Application,Carte bancaire,Retournée,3.0,144.52
+CMD00304,C0062,P010,2025-11-16,2,10.0,Application,Carte bancaire,Retournée,3.0,82.04
+CMD00194,C0012,P001,2025-09-25,1,0.0,Application,Carte bancaire,Livrée,4.0,98.59
+CMD00385,C0072,P013,2025-05-02,4,10.0,Application,Carte bancaire,En cours,,22.56
+CMD00117,C0092,P016,2025-03-02,3,10.0,Site web,Virement,Livrée,5.0,67.33
+CMD00295,C0015,P999,2025-11-19,2,0.0,Application,Virement,Livrée,4.0,29.01
+CMD00028,C0055,P020,2025-11-07,1,,Site web,PayPal,Annulée,4.0,153.06
+CMD00141,C0003,P016,2025-08-15,1,0.0,Boutique,Carte bancaire,Annulée,4.0,67.77
+CMD00199,C0053,P016,2025-05-31,3,0.0,Site web,Carte bancaire,Livrée,,65.29
+CMD00015,C0009,P006,2025-10-26,1,0.0,Marketplace,Carte bancaire,Livrée,5.0,52.02
+CMD00088,C0046,P018,2025-08-05,1,,Site web,PayPal,Livrée,2.0,11.88
+CMD00266,C0012,P001,2025-03-30,1,0.0,Application,Carte bancaire,Livrée,4.0,82.95
+CMD00263,C0087,P011,2025-01-09,1,0.0,Site web,Carte bancaire,Livrée,1.0,9.07
+CMD00223,C9999,P017,2025-06-16,4,10.0,Site web,Carte bancaire,Livrée,4.0,102.8
+CMD00244,C0014,P018,2025-08-08,1,10.0,Marketplace,Carte bancaire,Livrée,5.0,12.02
+CMD00260,C0049,P011,2025-09-07,1,15.0,Application,Carte bancaire,Livrée,3.0,8.51
+CMD00393,C0072,P001,2025-01-02,2,0.0,Marketplace,Carte bancaire,Livrée,1.0,88.75
+CMD00104,C0012,P023,2025-01-07,5,10.0,Application,Carte bancaire,Livrée,,84.89
+CMD00150,C0003,P030,2025-09-22,4,5.0,Application,PayPal,Livrée,4.0,132.03
+CMD00140,C0095,P002,2025-04-03,1,0.0,Boutique,Carte bancaire,Livrée,3.0,124.93
+CMD00068,C0030,P012,2025-01-29,1,5.0,Site web,Carte bancaire,En cours,2.0,15.26
+CMD00004,C0092,P005,2025-02-24,4,0.0,Site web,Carte cadeau,Livrée,5.0,55.05
+CMD00057,C0070,P004,2025-07-20,5,20.0,Boutique,Virement,Retournée,4.0,173.24
+CMD00305,C0056,P006,2025-10-10,1,10.0,Site web,Carte cadeau,Livrée,4.0,49.61
+CMD00234,C0094,P025,2025-05-25,3,0.0,Boutique,Carte bancaire,Livrée,,10.56
+CMD00052,C0040,P016,2025-05-12,3,0.0,Boutique,Carte bancaire,Livrée,4.0,72.06
+CMD00002,C0014,P015,2025-09-17,1,15.0,Site web,PayPal,Livrée,,24.86
+CMD00019,C0005,P022,2025-09-15,1,15.0,Boutique,Carte bancaire,Livrée,4.0,35.43
+CMD00269,C0091,P029,2025-06-22,1,0.0,Site web,PayPal,Livrée,4.0,172.36
+CMD00396,C0016,P013,2025-07-08,2,15.0,Application,Carte bancaire,En cours,5.0,23.18
+CMD00313,C0019,P008,2025-08-03,1,0.0,Site web,Carte bancaire,Livrée,,39.97
+CMD00026,C0054,P026,2025-08-04,1,10.0,Site web,Carte bancaire,Livrée,2.0,50.11
+CMD00184,C0074,P025,2025-03-14,1,15.0,Site web,Carte bancaire,Annulée,4.0,10.43
+CMD00187,C0078,P028,2025-12-25,1,10.0,Site web,Carte bancaire,Livrée,3.0,59.0
+CMD00044,C0012,P026,2025-12-02,5,0.0,Marketplace,Virement,En cours,5.0,51.31
+CMD00130,C0095,P009,2025-11-02,1,0.0,Site web,Carte bancaire,Livrée,,44.3
+CMD00245,C0024,P006,2025-07-30,1,30.0,Site web,Carte bancaire,En cours,4.0,51.6
+CMD00256,C0090,P015,2025-02-17,4,5.0,Boutique,Carte bancaire,Livrée,5.0,25.21
+CMD00271,C0009,P027,2025-08-02,4,0.0,Site web,Carte bancaire,En cours,4.0,87.43
+CMD00398,C0016,P024,2025-06-29,1,10.0,Site web,Carte bancaire,Livrée,4.0,17.81
+CMD00155,C0082,P020,2025-09-19,1,5.0,Marketplace,Carte bancaire,Livrée,3.0,142.37
+CMD00071,C0092,P019,2025-09-26,1,10.0,Application,Carte cadeau,Livrée,4.0,41.72
+CMD00382,C0066,P001,2025-07-13,3,10.0,Application,PayPal,Livrée,4.0,88.13
+CMD00159,C0002,P017,2025-12-04,2,0.0,Site web,PayPal,Livrée,5.0,102.77
+CMD00400,C0080,P026,2025-07-13,1,0.0,Site web,Carte bancaire,Livrée,,50.22
+CMD00272,C0029,P011,2025-11-18,1,10.0,Site web,PayPal,Livrée,5.0,8.93
+CMD00147,C0065,P026,2025-10-02,1,10.0,Application,Virement,Livrée,4.0,51.75
+CMD00206,C0070,P021,2025-10-13,3,10.0,Application,Carte cadeau,En cours,5.0,-1.0
+CMD00279,C0093,P016,2025-06-24,4,0.0,Marketplace,Carte bancaire,Livrée,5.0,66.51
+CMD00315,C0051,P018,2025-05-30,4,5.0,Site web,Carte bancaire,Livrée,3.0,12.35
+CMD00332,C9999,P006,2025-04-03,2,0.0,Site web,PayPal,Livrée,5.0,48.95
+CMD00065,C0076,P016,2025-08-21,1,0.0,Boutique,Carte bancaire,Retournée,5.0,72.96
+CMD00326,C0088,P025,2025-08-14,1,10.0,Application,PayPal,Annulée,,9.75
+CMD00415,C0032,P008,2025-02-23,5,10.0,Marketplace,Carte bancaire,Livrée,5.0,39.8
+CMD00169,C0078,P029,2025-12-09,1,10.0,Marketplace,Carte bancaire,Livrée,4.0,182.34
+CMD00077,C0071,P010,2025-08-29,1,5.0,Site web,Carte bancaire,Annulée,5.0,82.69
+CMD00291,C0029,P010,2025-03-31,1,10.0,Marketplace,Carte bancaire,En cours,4.0,76.51
+CMD00351,C0047,P009,2025-01-16,2,0.0,Site web,Carte bancaire,Annulée,5.0,45.61
+CMD00119,C0030,P025,2025-03-08,2,0.0,Site web,Carte bancaire,Retournée,3.0,10.05
+CMD00214,C0094,P026,2025-11-12,1,15.0,Site web,Carte bancaire,Livrée,3.0,48.65
+CMD00354,C0030,P008,2025-12-10,3,20.0,Site web,Carte bancaire,Livrée,4.0,41.11
+CMD00359,C0042,P008,2025-09-23,1,5.0,Site web,Carte bancaire,Livrée,,41.38
+CMD00181,C0092,P023,2025-04-07,1,0.0,Site web,PayPal,Livrée,,87.02
+CMD00349,C0054,P023,2025-01-12,3,5.0,Site web,Carte bancaire,En cours,2.0,89.19
+CMD00381,C0074,P005,2025-07-15,3,5.0,Site web,Virement,Annulée,5.0,64.17
+CMD00100,C0081,P019,2025-12-28,1,5.0,Marketplace,Carte bancaire,Livrée,5.0,40.61
+CMD00362,C0082,P010,2025-04-07,2,0.0,Site web,Virement,Retournée,4.0,82.3
+CMD00136,C0080,P011,2025-03-26,3,0.0,Boutique,PayPal,Livrée,4.0,9.04
+CMD00177,C0024,P020,2025-06-21,3,0.0,Site web,Carte bancaire,Livrée,4.0,151.75
+CMD00407,C0077,P028,2025-05-12,2,5.0,Site web,Carte bancaire,Livrée,5.0,62.65
+CMD00085,C0035,P013,2025-02-15,1,5.0,Site web,Carte bancaire,Livrée,3.0,22.64
+CMD00420,C0042,P014,2025-03-17,1,0.0,Application,Virement,Livrée,4.0,13.02
+CMD00040,C0057,P017,2025-11-09,2,5.0,Marketplace,Virement,Livrée,,103.81
+CMD00341,C0006,P024,2025-09-28,1,20.0,Application,Carte bancaire,Annulée,5.0,19.32
+CMD00003,C0092,P028,2025-03-11,1,0.0,Marketplace,Carte bancaire,Annulée,5.0,54.64
+CMD00312,C0053,P017,2025-12-14,1,30.0,Site web, carte bancaire ,En cours,5.0,101.02
+CMD00306,C0062,P005,2025-11-26,1,5.0,Boutique,Carte bancaire,Livrée,4.0,60.09
+CMD00069,C0030,P030,2025-11-11,1,20.0,Application,Carte bancaire,Livrée,5.0,118.79
+CMD00209,C0002,P013,2025-06-12,1,15.0,Application,Carte bancaire,Livrée,4.0,23.99
+CMD00410,C0014,P021,2025-12-14,1,10.0,Site web,Carte bancaire,Livrée,4.0,231.59
+CMD00254,C0062,P028,2025-05-24,2,0.0,Site web,Carte bancaire,En cours,5.0,60.86
+CMD00335,C0050,P010,2025-02-08,3,5.0,Site web,Carte bancaire,Livrée,5.0,74.44
+CMD00340,C0012,P029,2025-09-26,5,0.0,Site web,Carte cadeau,Livrée,3.0,186.38
+CMD00112,C0044,P024,2025-11-24,4,20.0,Site web,Carte bancaire,Retournée,4.0,20.42
+CMD00225,C0044,P026,2025-03-18,4,15.0,Site web,Carte bancaire,Livrée,4.0,48.6
+CMD00033,C0070,P024,2025-07-14,1,5.0,Site web,Carte bancaire,Livrée,,21.48
+CMD00074,C0089,P006,2025-01-07,2,0.0,Marketplace,Carte bancaire,Livrée,2.0,51.68
+CMD00048,C0009,P024,2025-08-09,3,5.0,Site web,Carte bancaire,Livrée,5.0,19.23
+CMD00127,C0052,P004,2025-05-06,1,0.0,Site web,Carte bancaire,Livrée,4.0,173.1
+CMD00114,C0079,P027,2025-11-18,3,,Site web,Carte bancaire,Livrée,3.0,90.05
+CMD00097,C0041,P022,2025-10-17,1,30.0,Site web,Carte bancaire,Livrée,3.0,35.13
+CMD00226,C0068,P006,2025-12-24,1,0.0,Marketplace,Carte bancaire,Livrée,,49.65
+CMD00215,C0072,P028,2025-11-11,1,0.0,Site web,Carte bancaire,Livrée,3.0,57.78
+CMD00058,C0032,P026,2025-10-19,1,5.0,Site web,PayPal,Livrée,3.0,54.02
+CMD00124,C0088,P020,2025-08-06,1,10.0,Marketplace,Carte bancaire,Livrée,5.0,148.78
+CMD00107,C0004,P016,2025-07-30,2,15.0,Application,Virement,Retournée,5.0,70.9
+CMD00084,C0089,P014,2025-04-26,1,5.0,Site web,Carte bancaire,Livrée,3.0,12.41
+CMD00018,C0057,P018,2025-02-10,1,0.0,Application,Carte bancaire,Livrée,4.0,12.08
+CMD00231,C0074,P014,2025-12-06,2,0.0,Site web,Virement,Livrée,,13.02
+CMD00099,C0026,P025,2025-02-14,1,15.0,Marketplace,Carte bancaire,Livrée,2.0,9.83
+CMD00323,C0054,P018,2025-10-26,2,30.0,Boutique,Carte bancaire,Livrée,,-1.0
+CMD00383,C0014,P009,2025-09-20,1,10.0,Marketplace,Carte bancaire,Livrée,1.0,44.04
+CMD00366,C0015,P004,2025-03-07,4,5.0,Application,Virement,Livrée,4.0,173.61
